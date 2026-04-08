@@ -1,0 +1,1001 @@
+EquipmentId,EquipmentType,EquipmentName,Manufacturer,SiteId,Status,FuelType,FirstCommissionedDate,LastMaintenanceDate,NextMaintenanceDate
+EQP-0865,Dump Truck,DT782,Sandvik,SIT-0010,Active,Electric,2019-08-08,2019-08-08,2020-02-04
+EQP-0395,Mobile Crane,MC040,Scania,SIT-0007,Decommissioned,Diesel,2022-03-10,2022-03-10,2022-09-06
+EQP-0777,Dump Truck,DT667,Atlas Copco,SIT-0009,Active,Hybrid,2019-10-11,2020-04-08,2020-10-05
+EQP-0912,Wheel Loader,WL757,Sandvik,SIT-0005,Decommissioned,Electric,2020-02-04,2020-08-02,2021-01-29
+EQP-0431,Crusher,CR323,Komatsu,SIT-0005,In Transit,Hybrid,2022-04-17,2022-10-14,2023-04-12
+EQP-0042,Forklift,FO603,Sandvik,SIT-0003,In Transit,Diesel,2023-11-11,2023-11-11,2024-05-09
+EQP-0266,Grader,GR158,Hyundai,SIT-0003,Active,Diesel,2022-12-01,2022-12-01,2023-05-30
+EQP-0989,Excavator,EX152,Liebherr,SIT-0007,Decommissioned,Diesel,2019-08-06,2019-08-06,2020-02-02
+EQP-0524,Mobile Crane,MC314,Sandvik,SIT-0006,Decommissioned,Diesel,2016-09-07,2017-03-06,2017-09-02
+EQP-0498,Wheel Loader,WL491,Atlas Copco,SIT-0002,Active,Hybrid,2018-01-08,2018-01-08,2018-07-07
+EQP-0415,Haul Truck,HT998,Hyundai,SIT-0001,Under Maintenance,Diesel,2018-08-08,2018-08-08,2019-02-04
+EQP-0941,Light Vehicle,LV770,Atlas Copco,SIT-0002,Active,Diesel,2017-05-13,2017-05-13,2017-11-09
+EQP-0803,Drill Rig,DR173,Hitachi,SIT-0001,Under Maintenance,Diesel,2020-04-17,2020-10-14,2021-04-12
+EQP-0850,Grader,GR149,Caterpillar,SIT-0009,In Transit,Hybrid,2019-02-13,2019-08-12,2020-02-08
+EQP-0311,Forklift,FO942,Caterpillar,SIT-0005,In Transit,Diesel,2015-08-03,2016-01-30,2016-07-28
+EQP-0489,Crusher,CR102,Liebherr,SIT-0004,Under Maintenance,Electric,2024-01-09,2024-01-09,2024-07-07
+EQP-0367,Excavator,EX802,Atlas Copco,SIT-0006,Active,Hybrid,2024-07-22,2025-01-18,2025-07-17
+EQP-0598,Bulldozer,BU530,Atlas Copco,SIT-0009,In Transit,Electric,2021-05-06,2021-05-06,2021-11-02
+EQP-0914,Forklift,FO260,Atlas Copco,SIT-0006,Under Maintenance,Electric,2023-03-30,2023-09-26,2024-03-24
+EQP-0930,Excavator,EX731,Scania,SIT-0005,In Transit,Electric,2020-05-01,2020-10-28,2021-04-26
+EQP-0224,Mobile Crane,MC262,kenworth,SIT-0007,Active,Hybrid,2018-12-15,2018-12-15,2019-06-13
+EQP-0517,Haul Truck,HT731,Sandvik,SIT-0009,Decommissioned,Hybrid,2022-09-13,2022-09-13,2023-03-12
+EQP-0143,Haul Truck,HT157,Atlas Copco,SIT-0006,Active,Hybrid,2022-05-26,2022-11-22,2023-05-21
+EQP-0289,Bulldozer,BU642,Hyundai,SIT-0001,Under Maintenance,Electric,2022-03-19,2022-03-19,2022-09-15
+EQP-0144,Wheel Loader,WL213,Sandvik,SIT-0002,In Transit,Hybrid,2023-10-27,2024-04-24,2024-10-21
+EQP-0774,Conveyor,CO902,Scania,SIT-0001,Decommissioned,Hybrid,2017-04-20,2017-10-17,2018-04-15
+EQP-0098,Water Cart,WC073,Liebherr,SIT-0001,Decommissioned,Electric,2020-01-03,2020-01-03,2020-07-01
+EQP-0634,Mobile Crane,MC551,Liebherr,SIT-0008,Decommissioned,Diesel,2023-10-12,2024-04-09,2024-10-06
+EQP-0819,Dump Truck,DT925,Caterpillar,SIT-0006,In Transit,Diesel,2017-01-23,2017-01-23,2017-07-22
+EQP-0257,Conveyor,CO512,Hitachi,SIT-0008,Active,Hybrid,2020-10-21,2020-10-21,2021-04-19
+EQP-0932,Drill Rig,DR820,Komatsu,SIT-0006,Under Maintenance,Electric,2019-09-20,2019-09-20,2020-03-18
+EQP-0546,Water Cart,WC490,John Deere,SIT-0001,Under Maintenance,Diesel,2024-01-19,2024-01-19,2024-07-17
+EQP-0723,Light Vehicle,LV877,Caterpillar,SIT-0009,Under Maintenance,Hybrid,2019-02-21,2019-08-20,2020-02-16
+EQP-0830,Prime Mover,PM022,Atlas Copco,SIT-0003,In Transit,Diesel,2015-11-19,2015-11-19,2016-05-17
+EQP-0617,Grader,GR904,Komatsu,SIT-0007,Decommissioned,Diesel,2022-01-10,2022-01-10,2022-07-09
+EQP-0924,Wheel Loader,WL965,Scania,SIT-0010,Under Maintenance,Hybrid,2015-09-29,2016-03-27,2016-09-23
+EQP-0151,Mobile Crane,MC857,Scania,SIT-0008,Decommissioned,Electric,2016-07-11,2016-07-11,2017-01-07
+EQP-0318,Drill Rig,DR293,kenworth,SIT-0005,Under Maintenance,Electric,2017-02-13,2017-08-12,2018-02-08
+EQP-0102,Water Cart,WC552,Hyundai,SIT-0001,Active,Electric,2023-05-26,2023-05-26,2023-11-22
+EQP-0748,Bulldozer,BU530,Hyundai,SIT-0010,Decommissioned,Hybrid,2016-02-29,2016-08-27,2017-02-23
+EQP-0076,Mobile Crane,MC567,Scania,SIT-0003,Under Maintenance,Electric,2015-01-21,2015-01-21,2015-07-20
+EQP-0921,Mobile Crane,MC806,Hitachi,SIT-0006,Under Maintenance,Hybrid,2019-10-26,2019-10-26,2020-04-23
+EQP-0871,Excavator,EX935,Komatsu,SIT-0006,In Transit,Hybrid,2016-10-22,2016-10-22,2017-04-20
+EQP-0701,Prime Mover,PM891,Komatsu,SIT-0007,Active,Electric,2015-05-03,2015-10-30,2016-04-27
+EQP-0339,Light Vehicle,LV338,Atlas Copco,SIT-0004,In Transit,Diesel,2015-11-04,2016-05-02,2016-10-29
+EQP-0484,Crusher,CR897,Komatsu,SIT-0009,Active,Diesel,2018-02-16,2018-02-16,2018-08-15
+EQP-0574,Water Cart,WC477,Sandvik,SIT-0009,Active,Electric,2019-11-06,2019-11-06,2020-05-04
+EQP-0104,Prime Mover,PM298,kenworth,SIT-0008,Under Maintenance,Electric,2020-09-24,2021-03-23,2021-09-19
+EQP-0363,Crusher,CR002,Caterpillar,SIT-0007,Active,Diesel,2022-10-14,2023-04-12,2023-10-09
+EQP-0445,Excavator,EX481,Sandvik,SIT-0010,Decommissioned,Diesel,2016-02-08,2016-02-08,2016-08-06
+EQP-0324,Water Cart,WC028,Scania,SIT-0006,Decommissioned,Electric,2022-06-30,2022-06-30,2022-12-27
+EQP-0626,Prime Mover,PM398,Sandvik,SIT-0008,Under Maintenance,Diesel,2018-08-02,2018-08-02,2019-01-29
+EQP-0656,Grader,GR330,Scania,SIT-0008,Decommissioned,Hybrid,2022-08-18,2022-08-18,2023-02-14
+EQP-0935,Dump Truck,DT963,John Deere,SIT-0001,Decommissioned,Diesel,2015-03-11,2015-03-11,2015-09-07
+EQP-0210,Water Cart,WC796,Sandvik,SIT-0008,Decommissioned,Diesel,2020-03-01,2020-03-01,2020-08-28
+EQP-0566,Haul Truck,HT453,John Deere,SIT-0008,Active,Hybrid,2016-05-20,2016-05-20,2016-11-16
+EQP-0985,Haul Truck,HT029,John Deere,SIT-0005,Under Maintenance,Hybrid,2020-03-26,2020-03-26,2020-09-22
+EQP-0454,Bulldozer,BU734,Liebherr,SIT-0002,In Transit,Hybrid,2022-02-10,2022-02-10,2022-08-09
+EQP-0887,Dump Truck,DT351,Komatsu,SIT-0008,In Transit,Hybrid,2018-11-23,2019-05-22,2019-11-18
+EQP-0534,Crusher,CR755,Scania,SIT-0001,Under Maintenance,Diesel,2023-07-01,2023-07-01,2023-12-28
+EQP-0267,Drill Rig,DR612,Atlas Copco,SIT-0007,Under Maintenance,Diesel,2019-01-08,2019-01-08,2019-07-07
+EQP-0064,Crusher,CR993,Komatsu,SIT-0006,Under Maintenance,Electric,2022-08-03,2022-08-03,2023-01-30
+EQP-0825,Dump Truck,DT572,John Deere,SIT-0005,Decommissioned,Hybrid,2020-07-22,2020-07-22,2021-01-18
+EQP-0562,Drill Rig,DR913,Sandvik,SIT-0010,Active,Hybrid,2019-03-21,2019-03-21,2019-09-17
+EQP-0015,Drill Rig,DR245,Sandvik,SIT-0002,Decommissioned,Diesel,2023-04-08,2023-04-08,2023-10-05
+EQP-0096,Grader,GR030,Caterpillar,SIT-0010,Decommissioned,Hybrid,2021-05-26,2021-05-26,2021-11-22
+EQP-0737,Dump Truck,DT984,Caterpillar,SIT-0007,Active,Hybrid,2024-07-10,2025-01-06,2025-07-05
+EQP-0861,Excavator,EX479,Komatsu,SIT-0005,Active,Electric,2021-11-25,2021-11-25,2022-05-24
+EQP-0409,Haul Truck,HT686,Caterpillar,SIT-0009,Decommissioned,Hybrid,2019-06-23,2019-06-23,2019-12-20
+EQP-0728,Conveyor,CO598,Scania,SIT-0001,Active,Hybrid,2023-06-06,2023-12-03,2024-05-31
+EQP-0845,Bulldozer,BU951,Liebherr,SIT-0005,Active,Electric,2019-02-28,2019-02-28,2019-08-27
+EQP-0804,Dump Truck,DT164,John Deere,SIT-0001,Active,Electric,2015-01-18,2015-01-18,2015-07-17
+EQP-0685,Prime Mover,PM919,Hitachi,SIT-0002,Decommissioned,Electric,2020-02-05,2020-08-03,2021-01-30
+EQP-0641,Water Cart,WC489,Sandvik,SIT-0005,Decommissioned,Hybrid,2015-01-17,2015-01-17,2015-07-16
+EQP-0002,Bulldozer,BU559,Sandvik,SIT-0010,Under Maintenance,Electric,2022-07-24,2023-01-20,2023-07-19
+EQP-0627,Bulldozer,BU081,Hyundai,SIT-0002,Decommissioned,Hybrid,2015-07-29,2015-07-29,2016-01-25
+EQP-0506,Forklift,FO888,John Deere,SIT-0007,In Transit,Diesel,2023-07-18,2023-07-18,2024-01-14
+EQP-0848,Light Vehicle,LV788,Hyundai,SIT-0009,Active,Electric,2023-02-09,2023-02-09,2023-08-08
+EQP-0889,Bulldozer,BU254,Hyundai,SIT-0009,Active,Hybrid,2019-04-09,2019-04-09,2019-10-06
+EQP-0342,Crusher,CR162,Hyundai,SIT-0003,In Transit,Diesel,2018-11-17,2018-11-17,2019-05-16
+EQP-0250,Mobile Crane,MC893,Hyundai,SIT-0003,In Transit,Diesel,2024-07-08,2024-07-08,2025-01-04
+EQP-0961,Drill Rig,DR587,Hitachi,SIT-0006,Under Maintenance,Diesel,2023-03-14,2023-03-14,2023-09-10
+EQP-0334,Mobile Crane,MC390,Komatsu,SIT-0006,Under Maintenance,Hybrid,2021-07-03,2021-07-03,2021-12-30
+EQP-0721,Prime Mover,PM104,Atlas Copco,SIT-0010,Active,Electric,2024-08-27,2024-08-27,2025-02-23
+EQP-0892,Water Cart,WC509,Caterpillar,SIT-0009,Under Maintenance,Electric,2024-03-23,2024-03-23,2024-09-19
+EQP-0065,Grader,GR569,Hitachi,SIT-0007,Under Maintenance,Diesel,2016-11-15,2016-11-15,2017-05-14
+EQP-0196,Dump Truck,DT733,Caterpillar,SIT-0010,Active,Diesel,2020-05-04,2020-05-04,2020-10-31
+EQP-0582,Light Vehicle,LV058,Hitachi,SIT-0006,In Transit,Hybrid,2020-07-03,2020-07-03,2020-12-30
+EQP-0228,Crusher,CR941,Hyundai,SIT-0005,Active,Hybrid,2022-12-15,2023-06-13,2023-12-10
+EQP-0245,Light Vehicle,LV514,Sandvik,SIT-0009,Active,Hybrid,2018-04-20,2018-04-20,2018-10-17
+EQP-0823,Forklift,FO568,John Deere,SIT-0001,Decommissioned,Diesel,2020-09-09,2020-09-09,2021-03-08
+EQP-0146,Conveyor,CO068,Atlas Copco,SIT-0001,In Transit,Diesel,2021-01-24,2021-01-24,2021-07-23
+EQP-0910,Wheel Loader,WL117,Komatsu,SIT-0007,Under Maintenance,Electric,2022-08-08,2022-08-08,2023-02-04
+EQP-0557,Grader,GR960,Hyundai,SIT-0006,In Transit,Diesel,2023-07-28,2024-01-24,2024-07-22
+EQP-0459,Crusher,CR153,Scania,SIT-0004,In Transit,Electric,2022-08-26,2022-08-26,2023-02-22
+EQP-0094,Dump Truck,DT041,Liebherr,SIT-0006,In Transit,Hybrid,2023-03-03,2023-03-03,2023-08-30
+EQP-0083,Wheel Loader,WL214,Sandvik,SIT-0003,Under Maintenance,Electric,2020-01-10,2020-07-08,2021-01-04
+EQP-0328,Excavator,EX151,Liebherr,SIT-0009,In Transit,Hybrid,2020-10-24,2020-10-24,2021-04-22
+EQP-0897,Excavator,EX650,Atlas Copco,SIT-0008,Active,Electric,2021-12-18,2021-12-18,2022-06-16
+EQP-0521,Dump Truck,DT971,Hitachi,SIT-0005,Under Maintenance,Electric,2020-05-21,2020-05-21,2020-11-17
+EQP-0502,Haul Truck,HT558,kenworth,SIT-0007,Decommissioned,Electric,2019-08-07,2020-02-03,2020-08-01
+EQP-0112,Mobile Crane,MC614,kenworth,SIT-0003,Active,Hybrid,2016-05-12,2016-05-12,2016-11-08
+EQP-0309,Dump Truck,DT102,Sandvik,SIT-0006,Under Maintenance,Hybrid,2023-10-15,2024-04-12,2024-10-09
+EQP-0565,Forklift,FO786,Hitachi,SIT-0008,Decommissioned,Electric,2021-12-01,2021-12-01,2022-05-30
+EQP-0299,Bulldozer,BU611,kenworth,SIT-0003,Under Maintenance,Hybrid,2022-06-19,2022-06-19,2022-12-16
+EQP-0724,Grader,GR406,Sandvik,SIT-0010,Decommissioned,Hybrid,2019-04-14,2019-04-14,2019-10-11
+EQP-0128,Drill Rig,DR836,Hyundai,SIT-0001,Decommissioned,Hybrid,2017-09-04,2018-03-03,2018-08-30
+EQP-0561,Crusher,CR024,Atlas Copco,SIT-0002,In Transit,Hybrid,2015-07-22,2016-01-18,2016-07-16
+EQP-0341,Dump Truck,DT549,Caterpillar,SIT-0009,In Transit,Hybrid,2020-03-21,2020-03-21,2020-09-17
+EQP-0835,Crusher,CR363,Hyundai,SIT-0010,Active,Hybrid,2015-11-08,2015-11-08,2016-05-06
+EQP-0554,Excavator,EX389,Scania,SIT-0004,Decommissioned,Hybrid,2019-03-07,2019-09-03,2020-03-01
+EQP-0209,Conveyor,CO618,Scania,SIT-0010,In Transit,Diesel,2024-05-27,2024-05-27,2024-11-23
+EQP-0972,Crusher,CR773,John Deere,SIT-0004,Decommissioned,Electric,2015-09-04,2016-03-02,2016-08-29
+EQP-0618,Bulldozer,BU897,Atlas Copco,SIT-0005,In Transit,Electric,2020-04-14,2020-04-14,2020-10-11
+EQP-0893,Dump Truck,DT565,Sandvik,SIT-0006,In Transit,Diesel,2017-10-25,2018-04-23,2018-10-20
+EQP-0602,Drill Rig,DR655,Liebherr,SIT-0004,Under Maintenance,Diesel,2016-06-09,2016-06-09,2016-12-06
+EQP-0295,Light Vehicle,LV849,Hitachi,SIT-0007,Decommissioned,Electric,2020-05-29,2020-05-29,2020-11-25
+EQP-0456,Crusher,CR427,Liebherr,SIT-0003,Decommissioned,Hybrid,2019-09-26,2020-03-24,2020-09-20
+EQP-0905,Bulldozer,BU465,Liebherr,SIT-0010,Active,Electric,2021-07-22,2022-01-18,2022-07-17
+EQP-0611,Excavator,EX586,Atlas Copco,SIT-0007,Active,Diesel,2019-05-08,2019-05-08,2019-11-04
+EQP-0818,Excavator,EX728,Sandvik,SIT-0002,In Transit,Electric,2022-07-30,2022-07-30,2023-01-26
+EQP-0999,Bulldozer,BU132,Komatsu,SIT-0005,Decommissioned,Electric,2019-11-14,2019-11-14,2020-05-12
+EQP-0325,Excavator,EX518,Liebherr,SIT-0009,Active,Diesel,2020-07-02,2020-07-02,2020-12-29
+EQP-0590,Conveyor,CO101,Hitachi,SIT-0002,Decommissioned,Diesel,2020-12-06,2020-12-06,2021-06-04
+EQP-0248,Crusher,CR989,Hitachi,SIT-0003,Active,Hybrid,2018-08-02,2019-01-29,2019-07-28
+EQP-0298,Light Vehicle,LV144,Liebherr,SIT-0006,Active,Electric,2023-04-14,2023-04-14,2023-10-11
+EQP-0189,Grader,GR960,Caterpillar,SIT-0002,Under Maintenance,Diesel,2016-08-25,2016-08-25,2017-02-21
+EQP-0194,Forklift,FO848,Caterpillar,SIT-0008,Decommissioned,Diesel,2022-10-08,2022-10-08,2023-04-06
+EQP-0842,Grader,GR979,kenworth,SIT-0003,In Transit,Diesel,2021-06-13,2021-12-10,2022-06-08
+EQP-0192,Crusher,CR628,Caterpillar,SIT-0005,Under Maintenance,Hybrid,2017-02-19,2017-02-19,2017-08-18
+EQP-0034,Forklift,FO065,Caterpillar,SIT-0005,Under Maintenance,Diesel,2023-04-24,2023-04-24,2023-10-21
+EQP-0628,Haul Truck,HT766,Hitachi,SIT-0004,Decommissioned,Diesel,2015-08-20,2016-02-16,2016-08-14
+EQP-0673,Dump Truck,DT757,Atlas Copco,SIT-0006,Active,Electric,2021-05-24,2021-05-24,2021-11-20
+EQP-0940,Mobile Crane,MC566,Sandvik,SIT-0002,Active,Diesel,2023-09-10,2023-09-10,2024-03-08
+EQP-0488,Prime Mover,PM464,Hyundai,SIT-0006,Decommissioned,Diesel,2022-12-03,2022-12-03,2023-06-01
+EQP-0071,Forklift,FO524,Caterpillar,SIT-0010,Under Maintenance,Electric,2015-02-23,2015-02-23,2015-08-22
+EQP-0092,Prime Mover,PM949,John Deere,SIT-0007,Under Maintenance,Electric,2023-08-21,2023-08-21,2024-02-17
+EQP-0696,Wheel Loader,WL050,John Deere,SIT-0001,In Transit,Electric,2019-08-16,2019-08-16,2020-02-12
+EQP-0776,Excavator,EX986,Hitachi,SIT-0008,In Transit,Hybrid,2019-08-23,2019-08-23,2020-02-19
+EQP-0134,Conveyor,CO347,Komatsu,SIT-0010,Decommissioned,Diesel,2024-07-20,2025-01-16,2025-07-15
+EQP-0154,Dump Truck,DT130,Liebherr,SIT-0006,Under Maintenance,Hybrid,2018-01-05,2018-07-04,2018-12-31
+EQP-0040,Haul Truck,HT766,Komatsu,SIT-0007,In Transit,Diesel,2020-10-05,2021-04-03,2021-09-30
+EQP-0904,Forklift,FO491,Atlas Copco,SIT-0004,Active,Electric,2018-08-08,2019-02-04,2019-08-03
+EQP-0717,Conveyor,CO664,Liebherr,SIT-0009,Under Maintenance,Diesel,2021-07-20,2021-07-20,2022-01-16
+EQP-0987,Conveyor,CO122,Hyundai,SIT-0003,Under Maintenance,Electric,2017-02-16,2017-02-16,2017-08-15
+EQP-0890,Conveyor,CO963,kenworth,SIT-0008,Under Maintenance,Diesel,2019-02-20,2019-08-19,2020-02-15
+EQP-0700,Conveyor,CO944,Scania,SIT-0003,Under Maintenance,Electric,2024-05-11,2024-11-07,2025-05-06
+EQP-0401,Prime Mover,PM973,Hyundai,SIT-0006,Decommissioned,Diesel,2015-09-09,2015-09-09,2016-03-07
+EQP-0968,Light Vehicle,LV848,Atlas Copco,SIT-0002,Active,Hybrid,2021-01-02,2021-01-02,2021-07-01
+EQP-0538,Prime Mover,PM424,Atlas Copco,SIT-0010,Active,Diesel,2021-06-03,2021-06-03,2021-11-30
+EQP-0283,Dump Truck,DT904,Caterpillar,SIT-0002,In Transit,Hybrid,2016-03-01,2016-03-01,2016-08-28
+EQP-0535,Dump Truck,DT285,Caterpillar,SIT-0010,In Transit,Diesel,2023-04-03,2023-09-30,2024-03-28
+EQP-0832,Forklift,FO130,Scania,SIT-0010,Under Maintenance,Diesel,2022-08-02,2022-08-02,2023-01-29
+EQP-0242,Dump Truck,DT432,Sandvik,SIT-0005,Under Maintenance,Hybrid,2018-09-21,2018-09-21,2019-03-20
+EQP-0221,Light Vehicle,LV023,Hitachi,SIT-0005,Decommissioned,Diesel,2018-06-02,2018-11-29,2019-05-28
+EQP-0863,Mobile Crane,MC169,Caterpillar,SIT-0008,Active,Diesel,2017-04-16,2017-10-13,2018-04-11
+EQP-0604,Crusher,CR099,Caterpillar,SIT-0008,Active,Hybrid,2019-08-17,2019-08-17,2020-02-13
+EQP-0430,Water Cart,WC024,Hitachi,SIT-0006,Under Maintenance,Hybrid,2021-05-05,2021-05-05,2021-11-01
+EQP-0594,Bulldozer,BU417,Sandvik,SIT-0001,Decommissioned,Hybrid,2019-02-10,2019-08-09,2020-02-05
+EQP-0282,Bulldozer,BU162,Atlas Copco,SIT-0003,In Transit,Diesel,2023-07-28,2023-07-28,2024-01-24
+EQP-0462,Drill Rig,DR774,kenworth,SIT-0005,Active,Electric,2021-06-07,2021-12-04,2022-06-02
+EQP-0505,Forklift,FO046,Caterpillar,SIT-0004,Decommissioned,Hybrid,2024-06-13,2024-12-10,2025-06-08
+EQP-0677,Conveyor,CO784,John Deere,SIT-0006,In Transit,Hybrid,2024-08-20,2025-02-16,2025-08-15
+EQP-0657,Excavator,EX128,Liebherr,SIT-0009,Under Maintenance,Electric,2023-12-12,2023-12-12,2024-06-09
+EQP-0718,Light Vehicle,LV638,Komatsu,SIT-0009,Under Maintenance,Electric,2017-11-04,2017-11-04,2018-05-03
+EQP-0813,Excavator,EX590,Komatsu,SIT-0006,In Transit,Diesel,2015-01-21,2015-01-21,2015-07-20
+EQP-0366,Crusher,CR302,Liebherr,SIT-0007,Decommissioned,Diesel,2018-02-21,2018-08-20,2019-02-16
+EQP-0085,Wheel Loader,WL334,Scania,SIT-0001,In Transit,Diesel,2015-06-19,2015-06-19,2015-12-16
+EQP-0333,Bulldozer,BU184,kenworth,SIT-0004,Under Maintenance,Electric,2016-07-27,2016-07-27,2017-01-23
+EQP-0869,Bulldozer,BU615,Hitachi,SIT-0005,Under Maintenance,Electric,2021-12-01,2021-12-01,2022-05-30
+EQP-0119,Bulldozer,BU974,Atlas Copco,SIT-0002,In Transit,Electric,2016-03-23,2016-03-23,2016-09-19
+EQP-0499,Light Vehicle,LV813,Liebherr,SIT-0007,Active,Electric,2016-01-24,2016-07-22,2017-01-18
+EQP-0885,Prime Mover,PM804,Hyundai,SIT-0008,Active,Electric,2018-10-03,2018-10-03,2019-04-01
+EQP-0646,Prime Mover,PM748,Scania,SIT-0008,In Transit,Electric,2024-05-30,2024-11-26,2025-05-25
+EQP-0344,Drill Rig,DR811,Liebherr,SIT-0009,Active,Hybrid,2022-04-20,2022-10-17,2023-04-15
+EQP-0195,Crusher,CR092,Sandvik,SIT-0009,Active,Hybrid,2016-03-25,2016-03-25,2016-09-21
+EQP-0249,Crusher,CR098,Scania,SIT-0008,Active,Hybrid,2023-03-27,2023-03-27,2023-09-23
+EQP-0017,Grader,GR431,John Deere,SIT-0005,In Transit,Diesel,2016-04-21,2016-04-21,2016-10-18
+EQP-0750,Mobile Crane,MC187,Liebherr,SIT-0008,Decommissioned,Diesel,2015-08-12,2016-02-08,2016-08-06
+EQP-0278,Water Cart,WC369,Hitachi,SIT-0007,Under Maintenance,Diesel,2021-03-06,2021-03-06,2021-09-02
+EQP-0120,Drill Rig,DR359,John Deere,SIT-0009,Decommissioned,Electric,2020-09-14,2021-03-13,2021-09-09
+EQP-0852,Drill Rig,DR251,Scania,SIT-0008,Decommissioned,Hybrid,2023-08-15,2024-02-11,2024-08-09
+EQP-0226,Forklift,FO616,Komatsu,SIT-0006,Decommissioned,Electric,2019-05-17,2019-05-17,2019-11-13
+EQP-0381,Drill Rig,DR791,Atlas Copco,SIT-0008,Decommissioned,Diesel,2023-07-29,2023-07-29,2024-01-25
+EQP-0814,Wheel Loader,WL343,kenworth,SIT-0007,Active,Electric,2018-04-01,2018-09-28,2019-03-27
+EQP-0175,Light Vehicle,LV131,Hyundai,SIT-0003,Under Maintenance,Diesel,2015-05-06,2015-11-02,2016-04-30
+EQP-0916,Conveyor,CO797,Caterpillar,SIT-0010,In Transit,Diesel,2024-08-12,2024-08-12,2025-02-08
+EQP-0437,Prime Mover,PM613,Hitachi,SIT-0003,Active,Diesel,2020-08-20,2020-08-20,2021-02-16
+EQP-0939,Wheel Loader,WL502,John Deere,SIT-0006,In Transit,Diesel,2015-07-21,2015-07-21,2016-01-17
+EQP-0953,Crusher,CR594,Scania,SIT-0002,Under Maintenance,Hybrid,2021-05-29,2021-11-25,2022-05-24
+EQP-0802,Excavator,EX449,Komatsu,SIT-0010,Decommissioned,Diesel,2015-07-21,2015-07-21,2016-01-17
+EQP-0150,Crusher,CR683,John Deere,SIT-0009,Active,Diesel,2020-04-11,2020-04-11,2020-10-08
+EQP-0715,Dump Truck,DT584,Hyundai,SIT-0003,Under Maintenance,Diesel,2015-03-10,2015-03-10,2015-09-06
+EQP-0225,Light Vehicle,LV026,Hyundai,SIT-0008,In Transit,Diesel,2017-11-07,2017-11-07,2018-05-06
+EQP-0047,Bulldozer,BU972,Caterpillar,SIT-0004,Under Maintenance,Diesel,2018-12-08,2019-06-06,2019-12-03
+EQP-0588,Grader,GR604,kenworth,SIT-0003,Under Maintenance,Hybrid,2016-03-05,2016-03-05,2016-09-01
+EQP-0650,Wheel Loader,WL053,Scania,SIT-0006,Decommissioned,Diesel,2022-01-17,2022-01-17,2022-07-16
+EQP-0548,Water Cart,WC903,Hyundai,SIT-0004,Under Maintenance,Diesel,2016-11-13,2016-11-13,2017-05-12
+EQP-0966,Prime Mover,PM816,Atlas Copco,SIT-0001,Active,Hybrid,2022-09-06,2022-09-06,2023-03-05
+EQP-0697,Water Cart,WC299,Atlas Copco,SIT-0010,Decommissioned,Electric,2024-05-30,2024-11-26,2025-05-25
+EQP-0960,Light Vehicle,LV826,John Deere,SIT-0007,Under Maintenance,Electric,2021-01-07,2021-01-07,2021-07-06
+EQP-0028,Bulldozer,BU986,Scania,SIT-0005,In Transit,Hybrid,2017-11-21,2018-05-20,2018-11-16
+EQP-0894,Prime Mover,PM562,Sandvik,SIT-0010,Decommissioned,Diesel,2022-10-21,2022-10-21,2023-04-19
+EQP-0651,Drill Rig,DR193,Caterpillar,SIT-0001,Decommissioned,Hybrid,2020-05-29,2020-11-25,2021-05-24
+EQP-0873,Bulldozer,BU097,Caterpillar,SIT-0007,Active,Diesel,2023-10-06,2024-04-03,2024-09-30
+EQP-0621,Excavator,EX147,Hitachi,SIT-0010,Decommissioned,Hybrid,2020-07-29,2020-07-29,2021-01-25
+EQP-0877,Forklift,FO665,Hitachi,SIT-0010,In Transit,Hybrid,2022-09-02,2023-03-01,2023-08-28
+EQP-0123,Light Vehicle,LV270,Liebherr,SIT-0002,Decommissioned,Electric,2024-04-05,2024-04-05,2024-10-02
+EQP-0853,Dump Truck,DT271,kenworth,SIT-0008,Decommissioned,Hybrid,2024-06-04,2024-06-04,2024-12-01
+EQP-0882,Bulldozer,BU836,Komatsu,SIT-0005,Decommissioned,Diesel,2022-06-17,2022-12-14,2023-06-12
+EQP-0380,Haul Truck,HT297,John Deere,SIT-0010,In Transit,Diesel,2017-08-08,2017-08-08,2018-02-04
+EQP-0967,Conveyor,CO210,Scania,SIT-0009,In Transit,Electric,2021-07-15,2022-01-11,2022-07-10
+EQP-0038,Wheel Loader,WL650,Atlas Copco,SIT-0003,Active,Diesel,2019-06-27,2019-06-27,2019-12-24
+EQP-0795,Forklift,FO639,kenworth,SIT-0010,Decommissioned,Electric,2018-09-11,2018-09-11,2019-03-10
+EQP-0023,Dump Truck,DT356,Liebherr,SIT-0005,In Transit,Electric,2018-04-06,2018-04-06,2018-10-03
+EQP-0200,Excavator,EX792,Scania,SIT-0006,Decommissioned,Electric,2016-10-24,2016-10-24,2017-04-22
+EQP-0190,Conveyor,CO568,John Deere,SIT-0004,Under Maintenance,Electric,2021-05-02,2021-05-02,2021-10-29
+EQP-0736,Conveyor,CO114,Hyundai,SIT-0005,Active,Electric,2016-10-09,2016-10-09,2017-04-07
+EQP-0127,Water Cart,WC539,Hitachi,SIT-0009,Active,Diesel,2021-02-10,2021-08-09,2022-02-05
+EQP-0491,Mobile Crane,MC688,Komatsu,SIT-0003,Active,Diesel,2022-12-16,2023-06-14,2023-12-11
+EQP-0216,Crusher,CR970,Hyundai,SIT-0009,Under Maintenance,Hybrid,2024-04-14,2024-04-14,2024-10-11
+EQP-0745,Haul Truck,HT602,John Deere,SIT-0004,Decommissioned,Electric,2017-10-18,2017-10-18,2018-04-16
+EQP-0063,Mobile Crane,MC279,kenworth,SIT-0001,Decommissioned,Hybrid,2019-06-30,2019-12-27,2020-06-24
+EQP-0981,Conveyor,CO949,Atlas Copco,SIT-0003,Under Maintenance,Hybrid,2021-04-07,2021-04-07,2021-10-04
+EQP-0024,Grader,GR374,kenworth,SIT-0004,Decommissioned,Electric,2021-07-27,2021-07-27,2022-01-23
+EQP-0558,Drill Rig,DR696,Liebherr,SIT-0001,In Transit,Electric,2024-04-07,2024-04-07,2024-10-04
+EQP-0436,Light Vehicle,LV229,Hitachi,SIT-0003,In Transit,Hybrid,2023-10-16,2023-10-16,2024-04-13
+EQP-0636,Prime Mover,PM714,Scania,SIT-0006,Under Maintenance,Hybrid,2020-11-04,2021-05-03,2021-10-30
+EQP-0811,Drill Rig,DR638,Caterpillar,SIT-0006,In Transit,Diesel,2024-03-20,2024-03-20,2024-09-16
+EQP-0867,Crusher,CR649,kenworth,SIT-0004,Decommissioned,Electric,2021-04-12,2021-04-12,2021-10-09
+EQP-0072,Conveyor,CO415,Hyundai,SIT-0008,Under Maintenance,Electric,2023-06-13,2023-12-10,2024-06-07
+EQP-0227,Crusher,CR763,Caterpillar,SIT-0005,Decommissioned,Diesel,2023-04-05,2023-10-02,2024-03-30
+EQP-0074,Crusher,CR285,kenworth,SIT-0001,Under Maintenance,Hybrid,2022-05-05,2022-05-05,2022-11-01
+EQP-0663,Grader,GR953,Scania,SIT-0007,Active,Diesel,2022-07-22,2022-07-22,2023-01-18
+EQP-0898,Water Cart,WC637,Hitachi,SIT-0007,Decommissioned,Diesel,2023-12-22,2023-12-22,2024-06-19
+EQP-0359,Dump Truck,DT258,Komatsu,SIT-0001,Under Maintenance,Electric,2023-11-03,2023-11-03,2024-05-01
+EQP-0447,Drill Rig,DR829,Scania,SIT-0004,Under Maintenance,Hybrid,2017-12-12,2018-06-10,2018-12-07
+EQP-0185,Forklift,FO312,Atlas Copco,SIT-0005,Active,Diesel,2020-01-27,2020-01-27,2020-07-25
+EQP-0778,Excavator,EX754,kenworth,SIT-0004,Decommissioned,Hybrid,2019-09-06,2019-09-06,2020-03-04
+EQP-0516,Grader,GR818,Liebherr,SIT-0005,Decommissioned,Hybrid,2018-08-13,2019-02-09,2019-08-08
+EQP-0479,Dump Truck,DT227,Sandvik,SIT-0005,Under Maintenance,Hybrid,2023-09-10,2023-09-10,2024-03-08
+EQP-0041,Excavator,EX862,Scania,SIT-0006,In Transit,Hybrid,2017-12-27,2017-12-27,2018-06-25
+EQP-0881,Bulldozer,BU162,John Deere,SIT-0010,Active,Electric,2021-09-25,2021-09-25,2022-03-24
+EQP-0772,Conveyor,CO361,John Deere,SIT-0007,Active,Hybrid,2017-02-07,2017-02-07,2017-08-06
+EQP-0857,Bulldozer,BU770,Komatsu,SIT-0003,Active,Diesel,2015-02-04,2015-02-04,2015-08-03
+EQP-0792,Prime Mover,PM657,kenworth,SIT-0007,Active,Electric,2022-03-16,2022-09-12,2023-03-11
+EQP-0205,Bulldozer,BU176,Liebherr,SIT-0008,In Transit,Electric,2024-04-20,2024-04-20,2024-10-17
+EQP-0771,Grader,GR387,Scania,SIT-0009,Decommissioned,Hybrid,2024-04-27,2024-04-27,2024-10-24
+EQP-0368,Wheel Loader,WL672,Sandvik,SIT-0003,Decommissioned,Diesel,2017-02-06,2017-02-06,2017-08-05
+EQP-0822,Prime Mover,PM939,Caterpillar,SIT-0001,In Transit,Diesel,2022-02-20,2022-02-20,2022-08-19
+EQP-0482,Crusher,CR267,kenworth,SIT-0010,Decommissioned,Electric,2022-08-20,2022-08-20,2023-02-16
+EQP-0584,Excavator,EX643,Caterpillar,SIT-0007,In Transit,Electric,2016-03-04,2016-03-04,2016-08-31
+EQP-0174,Light Vehicle,LV946,Hitachi,SIT-0004,Decommissioned,Hybrid,2019-12-09,2020-06-06,2020-12-03
+EQP-0808,Drill Rig,DR465,Komatsu,SIT-0004,Under Maintenance,Electric,2020-03-16,2020-09-12,2021-03-11
+EQP-0689,Mobile Crane,MC280,kenworth,SIT-0003,In Transit,Diesel,2022-01-09,2022-07-08,2023-01-04
+EQP-0922,Dump Truck,DT913,Hitachi,SIT-0007,Active,Hybrid,2023-02-18,2023-02-18,2023-08-17
+EQP-0060,Water Cart,WC674,Sandvik,SIT-0005,Decommissioned,Diesel,2022-04-11,2022-04-11,2022-10-08
+EQP-0693,Water Cart,WC585,Hitachi,SIT-0002,Under Maintenance,Hybrid,2021-06-22,2021-06-22,2021-12-19
+EQP-0163,Conveyor,CO685,John Deere,SIT-0002,Under Maintenance,Hybrid,2023-08-06,2024-02-02,2024-07-31
+EQP-0166,Dump Truck,DT787,Liebherr,SIT-0004,Decommissioned,Electric,2016-08-06,2016-08-06,2017-02-02
+EQP-0351,Bulldozer,BU431,Sandvik,SIT-0006,Under Maintenance,Hybrid,2023-06-21,2023-12-18,2024-06-15
+EQP-0543,Light Vehicle,LV853,Hyundai,SIT-0001,In Transit,Hybrid,2016-03-29,2016-09-25,2017-03-24
+EQP-0971,Crusher,CR420,Atlas Copco,SIT-0001,Active,Hybrid,2016-05-12,2016-11-08,2017-05-07
+EQP-0121,Drill Rig,DR067,Hyundai,SIT-0008,In Transit,Electric,2022-07-29,2022-07-29,2023-01-25
+EQP-0612,Forklift,FO353,Liebherr,SIT-0008,Active,Hybrid,2023-05-28,2023-11-24,2024-05-22
+EQP-0453,Light Vehicle,LV607,Scania,SIT-0001,Decommissioned,Diesel,2018-09-04,2018-09-04,2019-03-03
+EQP-0682,Excavator,EX826,Atlas Copco,SIT-0008,Active,Hybrid,2017-11-26,2018-05-25,2018-11-21
+EQP-0180,Dump Truck,DT568,Sandvik,SIT-0005,Active,Diesel,2016-04-21,2016-10-18,2017-04-16
+EQP-0014,Bulldozer,BU015,kenworth,SIT-0007,Active,Diesel,2022-03-02,2022-03-02,2022-08-29
+EQP-0483,Conveyor,CO854,kenworth,SIT-0003,Under Maintenance,Hybrid,2017-10-19,2018-04-17,2018-10-14
+EQP-0698,Mobile Crane,MC556,Atlas Copco,SIT-0001,In Transit,Hybrid,2016-07-17,2017-01-13,2017-07-12
+EQP-0420,Prime Mover,PM170,Scania,SIT-0006,In Transit,Hybrid,2017-02-25,2017-08-24,2018-02-20
+EQP-0583,Water Cart,WC107,Liebherr,SIT-0006,Decommissioned,Diesel,2015-01-06,2015-07-05,2016-01-01
+EQP-0901,Water Cart,WC354,Komatsu,SIT-0008,Decommissioned,Electric,2021-12-31,2022-06-29,2022-12-26
+EQP-0319,Conveyor,CO851,Komatsu,SIT-0007,In Transit,Diesel,2024-04-18,2024-10-15,2025-04-13
+EQP-0665,Conveyor,CO225,Liebherr,SIT-0002,Under Maintenance,Electric,2017-06-04,2017-06-04,2017-12-01
+EQP-0834,Prime Mover,PM073,Sandvik,SIT-0004,Active,Electric,2017-02-12,2017-02-12,2017-08-11
+EQP-0398,Conveyor,CO268,Liebherr,SIT-0009,Under Maintenance,Diesel,2017-09-06,2017-09-06,2018-03-05
+EQP-0674,Crusher,CR080,Komatsu,SIT-0009,In Transit,Hybrid,2019-09-30,2019-09-30,2020-03-28
+EQP-0738,Forklift,FO678,John Deere,SIT-0010,In Transit,Hybrid,2023-11-09,2023-11-09,2024-05-07
+EQP-0158,Water Cart,WC693,Scania,SIT-0006,Active,Electric,2019-12-09,2020-06-06,2020-12-03
+EQP-0575,Dump Truck,DT461,Hitachi,SIT-0008,Active,Hybrid,2017-01-10,2017-01-10,2017-07-09
+EQP-0708,Forklift,FO356,John Deere,SIT-0003,Under Maintenance,Electric,2023-11-11,2023-11-11,2024-05-09
+EQP-0013,Grader,GR521,kenworth,SIT-0005,Active,Diesel,2015-01-16,2015-01-16,2015-07-15
+EQP-0469,Forklift,FO699,Komatsu,SIT-0005,In Transit,Electric,2024-08-09,2025-02-05,2025-08-04
+EQP-0081,Light Vehicle,LV975,Komatsu,SIT-0009,Active,Hybrid,2017-12-26,2017-12-26,2018-06-24
+EQP-0826,Prime Mover,PM878,Hyundai,SIT-0004,Decommissioned,Hybrid,2024-08-05,2024-08-05,2025-02-01
+EQP-0806,Mobile Crane,MC419,Atlas Copco,SIT-0009,Decommissioned,Diesel,2022-05-05,2022-11-01,2023-04-30
+EQP-0775,Wheel Loader,WL340,Atlas Copco,SIT-0004,Under Maintenance,Diesel,2017-01-16,2017-01-16,2017-07-15
+EQP-0288,Mobile Crane,MC848,Scania,SIT-0010,Decommissioned,Diesel,2021-11-23,2021-11-23,2022-05-22
+EQP-0139,Grader,GR492,Sandvik,SIT-0003,Decommissioned,Electric,2023-02-24,2023-08-23,2024-02-19
+EQP-0246,Water Cart,WC827,Hitachi,SIT-0005,Active,Hybrid,2020-12-14,2021-06-12,2021-12-09
+EQP-0494,Drill Rig,DR468,Komatsu,SIT-0009,Under Maintenance,Electric,2023-03-22,2023-03-22,2023-09-18
+EQP-0361,Light Vehicle,LV063,Hitachi,SIT-0004,In Transit,Hybrid,2023-02-12,2023-02-12,2023-08-11
+EQP-0625,Prime Mover,PM647,Sandvik,SIT-0009,In Transit,Hybrid,2018-10-02,2019-03-31,2019-09-27
+EQP-0884,Bulldozer,BU700,Liebherr,SIT-0007,Active,Electric,2018-04-08,2018-04-08,2018-10-05
+EQP-0690,Dump Truck,DT893,Komatsu,SIT-0010,Active,Electric,2020-11-27,2021-05-26,2021-11-22
+EQP-0752,Forklift,FO690,John Deere,SIT-0008,Decommissioned,Electric,2019-01-11,2019-07-10,2020-01-06
+EQP-0605,Crusher,CR962,Atlas Copco,SIT-0005,Active,Electric,2017-08-24,2017-08-24,2018-02-20
+EQP-0649,Mobile Crane,MC545,Caterpillar,SIT-0006,Decommissioned,Hybrid,2018-01-12,2018-07-11,2019-01-07
+EQP-0773,Excavator,EX036,Liebherr,SIT-0008,In Transit,Diesel,2016-05-25,2016-05-25,2016-11-21
+EQP-0136,Excavator,EX528,Liebherr,SIT-0004,Decommissioned,Hybrid,2015-05-02,2015-10-29,2016-04-26
+EQP-0963,Light Vehicle,LV413,Komatsu,SIT-0001,Under Maintenance,Hybrid,2023-01-18,2023-01-18,2023-07-17
+EQP-0888,Prime Mover,PM088,Hyundai,SIT-0007,In Transit,Electric,2021-02-03,2021-02-03,2021-08-02
+EQP-0425,Prime Mover,PM564,Liebherr,SIT-0001,Under Maintenance,Diesel,2017-11-29,2017-11-29,2018-05-28
+EQP-0667,Mobile Crane,MC255,Sandvik,SIT-0005,In Transit,Diesel,2016-03-11,2016-09-07,2017-03-06
+EQP-0858,Prime Mover,PM885,Caterpillar,SIT-0010,Under Maintenance,Diesel,2016-08-04,2016-08-04,2017-01-31
+EQP-0926,Water Cart,WC182,Hyundai,SIT-0006,Active,Diesel,2023-12-05,2024-06-02,2024-11-29
+EQP-0609,Excavator,EX487,Sandvik,SIT-0009,In Transit,Hybrid,2023-06-11,2023-06-11,2023-12-08
+EQP-0197,Crusher,CR319,Sandvik,SIT-0006,Active,Electric,2022-02-04,2022-08-03,2023-01-30
+EQP-0343,Wheel Loader,WL862,John Deere,SIT-0007,Decommissioned,Hybrid,2020-11-14,2020-11-14,2021-05-13
+EQP-0164,Water Cart,WC053,John Deere,SIT-0005,Under Maintenance,Diesel,2023-02-09,2023-08-08,2024-02-04
+EQP-0709,Crusher,CR128,Hyundai,SIT-0010,Decommissioned,Diesel,2015-05-01,2015-10-28,2016-04-25
+EQP-0229,Dump Truck,DT650,Komatsu,SIT-0003,Decommissioned,Diesel,2017-10-04,2018-04-02,2018-09-29
+EQP-0653,Drill Rig,DR402,Atlas Copco,SIT-0001,Decommissioned,Electric,2021-10-17,2021-10-17,2022-04-15
+EQP-0906,Mobile Crane,MC411,Komatsu,SIT-0001,Decommissioned,Diesel,2017-10-17,2017-10-17,2018-04-15
+EQP-0388,Wheel Loader,WL973,John Deere,SIT-0004,Decommissioned,Diesel,2020-07-30,2021-01-26,2021-07-25
+EQP-0913,Haul Truck,HT519,Sandvik,SIT-0010,Decommissioned,Hybrid,2018-02-18,2018-08-17,2019-02-13
+EQP-0998,Haul Truck,HT742,Hitachi,SIT-0001,Under Maintenance,Hybrid,2017-05-23,2017-05-23,2017-11-19
+EQP-0033,Light Vehicle,LV715,Komatsu,SIT-0003,Active,Hybrid,2022-11-14,2023-05-13,2023-11-09
+EQP-0412,Dump Truck,DT508,Caterpillar,SIT-0002,In Transit,Diesel,2019-01-27,2019-07-26,2020-01-22
+EQP-0683,Haul Truck,HT543,Caterpillar,SIT-0006,In Transit,Diesel,2016-05-27,2016-05-27,2016-11-23
+EQP-0429,Haul Truck,HT711,Liebherr,SIT-0010,In Transit,Electric,2024-07-10,2024-07-10,2025-01-06
+EQP-0048,Forklift,FO294,kenworth,SIT-0010,Decommissioned,Electric,2016-07-27,2017-01-23,2017-07-22
+EQP-0170,Conveyor,CO867,Caterpillar,SIT-0009,Under Maintenance,Electric,2022-05-25,2022-05-25,2022-11-21
+EQP-0457,Haul Truck,HT997,Caterpillar,SIT-0006,Under Maintenance,Hybrid,2017-09-09,2017-09-09,2018-03-08
+EQP-0066,Grader,GR646,Scania,SIT-0003,Under Maintenance,Electric,2020-05-29,2020-05-29,2020-11-25
+EQP-0994,Grader,GR701,kenworth,SIT-0009,Under Maintenance,Hybrid,2017-05-18,2017-05-18,2017-11-14
+EQP-0162,Forklift,FO751,Caterpillar,SIT-0010,Active,Diesel,2017-09-09,2017-09-09,2018-03-08
+EQP-0458,Forklift,FO356,Komatsu,SIT-0009,Decommissioned,Electric,2024-07-14,2024-07-14,2025-01-10
+EQP-0541,Conveyor,CO994,Caterpillar,SIT-0007,Decommissioned,Electric,2023-12-15,2023-12-15,2024-06-12
+EQP-0829,Drill Rig,DR997,Komatsu,SIT-0006,Under Maintenance,Hybrid,2016-08-06,2016-08-06,2017-02-02
+EQP-0719,Mobile Crane,MC332,Caterpillar,SIT-0010,Decommissioned,Electric,2019-07-09,2019-07-09,2020-01-05
+EQP-0619,Mobile Crane,MC009,Hyundai,SIT-0004,Decommissioned,Diesel,2018-09-15,2019-03-14,2019-09-10
+EQP-0001,Drill Rig,DR229,kenworth,SIT-0005,In Transit,Diesel,2023-03-12,2023-09-08,2024-03-06
+EQP-0859,Prime Mover,PM456,Liebherr,SIT-0001,Decommissioned,Diesel,2017-10-08,2018-04-06,2018-10-03
+EQP-0507,Conveyor,CO844,kenworth,SIT-0004,Decommissioned,Diesel,2019-01-11,2019-07-10,2020-01-06
+EQP-0918,Bulldozer,BU089,Atlas Copco,SIT-0004,Active,Electric,2024-07-20,2024-07-20,2025-01-16
+EQP-0320,Prime Mover,PM702,Komatsu,SIT-0007,Decommissioned,Diesel,2024-03-09,2024-03-09,2024-09-05
+EQP-0760,Crusher,CR429,Komatsu,SIT-0004,Active,Electric,2018-06-21,2018-12-18,2019-06-16
+EQP-0052,Water Cart,WC975,Komatsu,SIT-0006,Active,Diesel,2021-01-07,2021-01-07,2021-07-06
+EQP-0426,Forklift,FO654,Caterpillar,SIT-0009,In Transit,Diesel,2022-02-22,2022-02-22,2022-08-21
+EQP-0193,Haul Truck,HT940,Caterpillar,SIT-0008,Decommissioned,Electric,2024-02-20,2024-08-18,2025-02-14
+EQP-0937,Bulldozer,BU716,Atlas Copco,SIT-0008,Active,Electric,2021-11-18,2022-05-17,2022-11-13
+EQP-0957,Water Cart,WC266,Liebherr,SIT-0007,Under Maintenance,Hybrid,2023-05-03,2023-10-30,2024-04-27
+EQP-0086,Light Vehicle,LV284,kenworth,SIT-0005,Active,Hybrid,2020-02-21,2020-08-19,2021-02-15
+EQP-0933,Wheel Loader,WL767,Scania,SIT-0004,Active,Diesel,2016-02-26,2016-08-24,2017-02-20
+EQP-0016,Crusher,CR607,Atlas Copco,SIT-0010,Under Maintenance,Hybrid,2021-12-23,2022-06-21,2022-12-18
+EQP-0680,Mobile Crane,MC166,Liebherr,SIT-0010,Decommissioned,Hybrid,2023-05-20,2023-11-16,2024-05-14
+EQP-0428,Bulldozer,BU731,Hyundai,SIT-0004,Under Maintenance,Hybrid,2015-07-26,2016-01-22,2016-07-20
+EQP-0950,Water Cart,WC066,Sandvik,SIT-0001,In Transit,Diesel,2021-01-09,2021-01-09,2021-07-08
+EQP-0004,Wheel Loader,WL884,John Deere,SIT-0009,Active,Diesel,2015-11-16,2016-05-14,2016-11-10
+EQP-0219,Conveyor,CO504,John Deere,SIT-0001,In Transit,Hybrid,2022-09-28,2022-09-28,2023-03-27
+EQP-0936,Excavator,EX181,Scania,SIT-0008,In Transit,Diesel,2018-01-16,2018-01-16,2018-07-15
+EQP-0003,Bulldozer,BU554,John Deere,SIT-0008,In Transit,Electric,2015-06-03,2015-06-03,2015-11-30
+EQP-0542,Light Vehicle,LV972,Hitachi,SIT-0007,Decommissioned,Hybrid,2023-07-03,2023-12-30,2024-06-27
+EQP-0925,Prime Mover,PM505,Scania,SIT-0006,Active,Diesel,2015-06-27,2015-12-24,2016-06-21
+EQP-0101,Forklift,FO750,Sandvik,SIT-0010,Active,Hybrid,2022-02-17,2022-08-16,2023-02-12
+EQP-0982,Conveyor,CO660,Hyundai,SIT-0008,In Transit,Hybrid,2016-04-28,2016-04-28,2016-10-25
+EQP-0122,Water Cart,WC223,Komatsu,SIT-0006,In Transit,Hybrid,2024-07-06,2024-07-06,2025-01-02
+EQP-0623,Drill Rig,DR459,kenworth,SIT-0004,Under Maintenance,Electric,2019-08-26,2019-08-26,2020-02-22
+EQP-0204,Prime Mover,PM571,Atlas Copco,SIT-0001,Decommissioned,Hybrid,2015-12-28,2015-12-28,2016-06-25
+EQP-0310,Mobile Crane,MC067,kenworth,SIT-0010,Under Maintenance,Diesel,2019-02-17,2019-08-16,2020-02-12
+EQP-0287,Bulldozer,BU445,Sandvik,SIT-0005,Under Maintenance,Hybrid,2022-06-26,2022-06-26,2022-12-23
+EQP-0187,Water Cart,WC883,John Deere,SIT-0007,In Transit,Hybrid,2016-02-25,2016-08-23,2017-02-19
+EQP-0103,Water Cart,WC052,kenworth,SIT-0008,In Transit,Electric,2021-08-18,2022-02-14,2022-08-13
+EQP-0866,Water Cart,WC017,Liebherr,SIT-0001,Decommissioned,Electric,2021-04-08,2021-04-08,2021-10-05
+EQP-0407,Wheel Loader,WL641,Hyundai,SIT-0010,Decommissioned,Diesel,2015-12-19,2015-12-19,2016-06-16
+EQP-0084,Excavator,EX768,Scania,SIT-0009,Under Maintenance,Diesel,2019-01-20,2019-07-19,2020-01-15
+EQP-0786,Drill Rig,DR019,Scania,SIT-0007,In Transit,Electric,2019-07-28,2020-01-24,2020-07-22
+EQP-0841,Bulldozer,BU138,Scania,SIT-0010,Under Maintenance,Electric,2019-04-16,2019-04-16,2019-10-13
+EQP-0464,Drill Rig,DR084,Caterpillar,SIT-0003,Under Maintenance,Diesel,2016-09-11,2017-03-10,2017-09-06
+EQP-0789,Wheel Loader,WL773,Hyundai,SIT-0007,Active,Diesel,2020-10-04,2020-10-04,2021-04-02
+EQP-0263,Prime Mover,PM128,Liebherr,SIT-0001,Active,Diesel,2019-04-26,2019-04-26,2019-10-23
+EQP-0137,Crusher,CR365,Komatsu,SIT-0008,Active,Diesel,2020-05-08,2020-11-04,2021-05-03
+EQP-0993,Drill Rig,DR529,Hitachi,SIT-0006,Decommissioned,Electric,2015-01-16,2015-01-16,2015-07-15
+EQP-0356,Excavator,EX883,Scania,SIT-0008,In Transit,Diesel,2022-03-10,2022-03-10,2022-09-06
+EQP-0118,Water Cart,WC863,Sandvik,SIT-0009,Active,Hybrid,2016-03-21,2016-09-17,2017-03-16
+EQP-0159,Excavator,EX200,Hyundai,SIT-0004,In Transit,Electric,2023-11-09,2023-11-09,2024-05-07
+EQP-0286,Grader,GR791,Scania,SIT-0010,Decommissioned,Diesel,2019-06-30,2019-06-30,2019-12-27
+EQP-0020,Light Vehicle,LV198,kenworth,SIT-0009,Decommissioned,Hybrid,2021-11-25,2022-05-24,2022-11-20
+EQP-0044,Dump Truck,DT204,Caterpillar,SIT-0005,Active,Diesel,2020-09-30,2020-09-30,2021-03-29
+EQP-0995,Conveyor,CO118,Sandvik,SIT-0003,In Transit,Diesel,2019-08-09,2019-08-09,2020-02-05
+EQP-0211,Grader,GR699,Hitachi,SIT-0006,Decommissioned,Electric,2023-05-13,2023-05-13,2023-11-09
+EQP-0868,Forklift,FO615,John Deere,SIT-0004,In Transit,Hybrid,2024-03-13,2024-09-09,2025-03-08
+EQP-0572,Mobile Crane,MC098,Hitachi,SIT-0006,In Transit,Hybrid,2022-05-25,2022-05-25,2022-11-21
+EQP-0323,Forklift,FO737,kenworth,SIT-0010,Under Maintenance,Electric,2019-04-29,2019-04-29,2019-10-26
+EQP-0376,Prime Mover,PM134,Caterpillar,SIT-0010,In Transit,Electric,2017-11-11,2017-11-11,2018-05-10
+EQP-0679,Mobile Crane,MC360,Hyundai,SIT-0003,Decommissioned,Electric,2024-04-28,2024-04-28,2024-10-25
+EQP-0695,Water Cart,WC402,kenworth,SIT-0006,Decommissioned,Electric,2021-02-03,2021-02-03,2021-08-02
+EQP-0664,Excavator,EX697,Atlas Copco,SIT-0005,Under Maintenance,Diesel,2016-05-25,2016-11-21,2017-05-20
+EQP-0470,Light Vehicle,LV403,John Deere,SIT-0005,Under Maintenance,Electric,2018-07-27,2018-07-27,2019-01-23
+EQP-0446,Light Vehicle,LV522,John Deere,SIT-0008,Decommissioned,Hybrid,2024-05-07,2024-05-07,2024-11-03
+EQP-0382,Haul Truck,HT629,Caterpillar,SIT-0008,In Transit,Electric,2017-06-04,2017-06-04,2017-12-01
+EQP-0551,Haul Truck,HT257,John Deere,SIT-0006,Active,Hybrid,2018-02-06,2018-08-05,2019-02-01
+EQP-0183,Wheel Loader,WL956,John Deere,SIT-0003,Under Maintenance,Hybrid,2023-11-13,2023-11-13,2024-05-11
+EQP-0213,Forklift,FO853,Caterpillar,SIT-0009,In Transit,Diesel,2015-10-23,2016-04-20,2016-10-17
+EQP-0385,Light Vehicle,LV720,kenworth,SIT-0006,In Transit,Electric,2020-12-25,2020-12-25,2021-06-23
+EQP-0828,Forklift,FO174,Scania,SIT-0008,In Transit,Electric,2024-02-29,2024-02-29,2024-08-27
+EQP-0896,Bulldozer,BU880,Hyundai,SIT-0001,Decommissioned,Electric,2016-11-23,2016-11-23,2017-05-22
+EQP-0010,Light Vehicle,LV358,Liebherr,SIT-0005,Decommissioned,Hybrid,2016-09-17,2017-03-16,2017-09-12
+EQP-0142,Wheel Loader,WL453,Hyundai,SIT-0008,Under Maintenance,Electric,2015-09-01,2015-09-01,2016-02-28
+EQP-0155,Conveyor,CO205,John Deere,SIT-0007,Under Maintenance,Electric,2022-11-18,2023-05-17,2023-11-13
+EQP-0821,Bulldozer,BU367,Scania,SIT-0004,Under Maintenance,Hybrid,2016-02-14,2016-08-12,2017-02-08
+EQP-0959,Light Vehicle,LV550,Komatsu,SIT-0005,Decommissioned,Diesel,2020-08-02,2021-01-29,2021-07-28
+EQP-0346,Grader,GR434,Hitachi,SIT-0005,In Transit,Electric,2020-04-28,2020-10-25,2021-04-23
+EQP-0377,Conveyor,CO410,Atlas Copco,SIT-0005,Active,Electric,2020-03-04,2020-03-04,2020-08-31
+EQP-0947,Water Cart,WC534,Caterpillar,SIT-0003,In Transit,Diesel,2019-11-05,2020-05-03,2020-10-30
+EQP-0347,Grader,GR584,John Deere,SIT-0009,Decommissioned,Hybrid,2024-04-24,2024-04-24,2024-10-21
+EQP-0037,Water Cart,WC710,Hitachi,SIT-0007,Under Maintenance,Diesel,2020-03-26,2020-09-22,2021-03-21
+EQP-0043,Excavator,EX603,Atlas Copco,SIT-0006,Decommissioned,Diesel,2019-10-05,2019-10-05,2020-04-02
+EQP-0277,Water Cart,WC872,Atlas Copco,SIT-0002,Decommissioned,Diesel,2018-03-03,2018-03-03,2018-08-30
+EQP-0168,Drill Rig,DR451,kenworth,SIT-0009,Decommissioned,Hybrid,2022-11-15,2022-11-15,2023-05-14
+EQP-0860,Mobile Crane,MC759,Atlas Copco,SIT-0005,Decommissioned,Hybrid,2019-07-21,2019-07-21,2020-01-17
+EQP-0297,Dump Truck,DT200,Komatsu,SIT-0005,Under Maintenance,Hybrid,2020-11-21,2020-11-21,2021-05-20
+EQP-0370,Crusher,CR965,kenworth,SIT-0001,Active,Hybrid,2015-04-25,2015-10-22,2016-04-19
+EQP-0405,Grader,GR531,Scania,SIT-0009,In Transit,Electric,2020-03-06,2020-03-06,2020-09-02
+EQP-0837,Grader,GR356,Sandvik,SIT-0008,Under Maintenance,Diesel,2020-08-03,2021-01-30,2021-07-29
+EQP-0133,Mobile Crane,MC572,Sandvik,SIT-0009,Active,Electric,2020-05-05,2020-11-01,2021-04-30
+EQP-0301,Water Cart,WC821,Atlas Copco,SIT-0010,In Transit,Electric,2019-11-06,2019-11-06,2020-05-04
+EQP-0640,Crusher,CR745,Caterpillar,SIT-0004,Active,Diesel,2015-10-08,2015-10-08,2016-04-05
+EQP-0490,Dump Truck,DT826,Scania,SIT-0006,Active,Hybrid,2020-09-12,2021-03-11,2021-09-07
+EQP-0688,Light Vehicle,LV708,John Deere,SIT-0002,Active,Electric,2018-02-03,2018-08-02,2019-01-29
+EQP-0050,Crusher,CR989,Hyundai,SIT-0002,In Transit,Electric,2022-09-24,2022-09-24,2023-03-23
+EQP-0316,Wheel Loader,WL625,kenworth,SIT-0008,Under Maintenance,Hybrid,2022-08-10,2023-02-06,2023-08-05
+EQP-0184,Wheel Loader,WL630,kenworth,SIT-0003,Active,Hybrid,2021-10-19,2022-04-17,2022-10-14
+EQP-0536,Mobile Crane,MC980,Hitachi,SIT-0010,Decommissioned,Electric,2021-11-25,2022-05-24,2022-11-20
+EQP-0073,Crusher,CR905,Hyundai,SIT-0003,Active,Diesel,2015-12-11,2016-06-08,2016-12-05
+EQP-0638,Wheel Loader,WL247,Liebherr,SIT-0005,In Transit,Hybrid,2017-12-02,2017-12-02,2018-05-31
+EQP-0413,Conveyor,CO497,Atlas Copco,SIT-0004,Decommissioned,Electric,2015-06-20,2015-06-20,2015-12-17
+EQP-0337,Forklift,FO381,John Deere,SIT-0003,Under Maintenance,Electric,2022-10-15,2022-10-15,2023-04-13
+EQP-0307,Dump Truck,DT190,Caterpillar,SIT-0002,In Transit,Electric,2017-04-25,2017-10-22,2018-04-20
+EQP-0734,Grader,GR960,Sandvik,SIT-0003,In Transit,Hybrid,2015-06-01,2015-11-28,2016-05-26
+EQP-0899,Grader,GR835,kenworth,SIT-0001,Decommissioned,Hybrid,2015-06-27,2015-12-24,2016-06-21
+EQP-0962,Dump Truck,DT325,Hitachi,SIT-0009,Under Maintenance,Diesel,2023-07-02,2023-07-02,2023-12-29
+EQP-0493,Conveyor,CO712,Caterpillar,SIT-0008,Under Maintenance,Diesel,2021-12-24,2021-12-24,2022-06-22
+EQP-0486,Bulldozer,BU823,Sandvik,SIT-0007,Active,Hybrid,2019-06-02,2019-06-02,2019-11-29
+EQP-0595,Conveyor,CO143,Hitachi,SIT-0010,Active,Hybrid,2016-08-03,2017-01-30,2017-07-29
+EQP-0352,Conveyor,CO079,John Deere,SIT-0009,Under Maintenance,Electric,2023-04-12,2023-10-09,2024-04-06
+EQP-0798,Forklift,FO851,Komatsu,SIT-0002,Active,Electric,2020-02-28,2020-02-28,2020-08-26
+EQP-0781,Drill Rig,DR153,kenworth,SIT-0008,Decommissioned,Electric,2015-02-21,2015-02-21,2015-08-20
+EQP-0831,Grader,GR370,Atlas Copco,SIT-0003,Under Maintenance,Electric,2022-04-01,2022-04-01,2022-09-28
+EQP-0510,Bulldozer,BU287,John Deere,SIT-0003,Active,Electric,2019-04-29,2019-04-29,2019-10-26
+EQP-0891,Forklift,FO779,Atlas Copco,SIT-0007,Under Maintenance,Diesel,2021-06-08,2021-06-08,2021-12-05
+EQP-0039,Bulldozer,BU188,Hitachi,SIT-0009,Under Maintenance,Electric,2017-04-22,2017-04-22,2017-10-19
+EQP-0615,Wheel Loader,WL445,Hyundai,SIT-0008,In Transit,Hybrid,2020-11-15,2020-11-15,2021-05-14
+EQP-0714,Haul Truck,HT499,Caterpillar,SIT-0010,In Transit,Electric,2016-12-08,2016-12-08,2017-06-06
+EQP-0160,Grader,GR110,Hitachi,SIT-0006,Active,Hybrid,2019-11-11,2019-11-11,2020-05-09
+EQP-0171,Prime Mover,PM065,Hitachi,SIT-0007,Under Maintenance,Electric,2019-12-24,2019-12-24,2020-06-21
+EQP-0603,Light Vehicle,LV542,kenworth,SIT-0005,Active,Hybrid,2021-10-21,2021-10-21,2022-04-19
+EQP-0090,Light Vehicle,LV276,Liebherr,SIT-0008,Active,Diesel,2023-01-23,2023-01-23,2023-07-22
+EQP-0068,Crusher,CR154,Liebherr,SIT-0003,In Transit,Diesel,2018-09-03,2018-09-03,2019-03-02
+EQP-0087,Grader,GR606,Atlas Copco,SIT-0009,Decommissioned,Electric,2019-01-18,2019-01-18,2019-07-17
+EQP-0203,Mobile Crane,MC491,Hyundai,SIT-0002,Active,Diesel,2018-10-11,2018-10-11,2019-04-09
+EQP-0769,Crusher,CR043,kenworth,SIT-0010,Active,Diesel,2021-01-30,2021-01-30,2021-07-29
+EQP-0762,Water Cart,WC696,Sandvik,SIT-0005,In Transit,Diesel,2023-07-23,2023-07-23,2024-01-19
+EQP-0879,Excavator,EX028,Komatsu,SIT-0010,Active,Electric,2022-04-01,2022-04-01,2022-09-28
+EQP-0009,Drill Rig,DR318,Liebherr,SIT-0005,Decommissioned,Diesel,2019-11-12,2019-11-12,2020-05-10
+EQP-0643,Conveyor,CO499,kenworth,SIT-0003,Decommissioned,Diesel,2016-05-20,2016-11-16,2017-05-15
+EQP-0404,Drill Rig,DR865,Atlas Copco,SIT-0004,In Transit,Electric,2018-12-03,2018-12-03,2019-06-01
+EQP-0532,Excavator,EX215,Caterpillar,SIT-0004,In Transit,Electric,2022-08-28,2022-08-28,2023-02-24
+EQP-0586,Excavator,EX266,Hitachi,SIT-0002,Under Maintenance,Hybrid,2018-04-04,2018-04-04,2018-10-01
+EQP-0460,Crusher,CR800,John Deere,SIT-0002,Active,Hybrid,2017-05-21,2017-11-17,2018-05-16
+EQP-0501,Mobile Crane,MC978,Hitachi,SIT-0008,Active,Diesel,2015-02-04,2015-02-04,2015-08-03
+EQP-0223,Grader,GR740,John Deere,SIT-0007,Active,Electric,2021-09-29,2021-09-29,2022-03-28
+EQP-0434,Dump Truck,DT047,Komatsu,SIT-0006,Active,Hybrid,2020-01-23,2020-01-23,2020-07-21
+EQP-0655,Mobile Crane,MC486,Komatsu,SIT-0010,Under Maintenance,Hybrid,2016-06-27,2016-06-27,2016-12-24
+EQP-0378,Prime Mover,PM532,Komatsu,SIT-0005,In Transit,Hybrid,2023-04-16,2023-04-16,2023-10-13
+EQP-0880,Water Cart,WC343,Sandvik,SIT-0005,In Transit,Diesel,2017-06-20,2017-06-20,2017-12-17
+EQP-0268,Grader,GR919,Liebherr,SIT-0008,In Transit,Diesel,2023-06-28,2023-06-28,2023-12-25
+EQP-0552,Haul Truck,HT527,Komatsu,SIT-0003,Decommissioned,Electric,2018-08-16,2019-02-12,2019-08-11
+EQP-0442,Grader,GR370,Liebherr,SIT-0005,Active,Hybrid,2017-10-29,2017-10-29,2018-04-27
+EQP-0691,Light Vehicle,LV882,Hyundai,SIT-0002,Decommissioned,Diesel,2016-05-14,2016-05-14,2016-11-10
+EQP-0703,Water Cart,WC661,Scania,SIT-0010,Under Maintenance,Electric,2022-11-30,2022-11-30,2023-05-29
+EQP-0580,Forklift,FO648,Hyundai,SIT-0007,Under Maintenance,Electric,2018-11-18,2019-05-17,2019-11-13
+EQP-0722,Dump Truck,DT242,Sandvik,SIT-0007,Under Maintenance,Electric,2017-10-02,2017-10-02,2018-03-31
+EQP-0029,Wheel Loader,WL936,Komatsu,SIT-0008,Active,Diesel,2016-12-31,2016-12-31,2017-06-29
+EQP-0463,Water Cart,WC367,Hitachi,SIT-0002,Decommissioned,Hybrid,2015-09-12,2016-03-10,2016-09-06
+EQP-0207,Dump Truck,DT466,Scania,SIT-0010,Under Maintenance,Hybrid,2021-07-08,2021-07-08,2022-01-04
+EQP-0927,Conveyor,CO646,Scania,SIT-0001,Decommissioned,Electric,2018-06-26,2018-06-26,2018-12-23
+EQP-0712,Light Vehicle,LV632,Scania,SIT-0002,Under Maintenance,Diesel,2019-06-04,2019-12-01,2020-05-29
+EQP-0408,Light Vehicle,LV776,Hitachi,SIT-0001,Decommissioned,Diesel,2015-12-08,2015-12-08,2016-06-05
+EQP-0644,Light Vehicle,LV952,Caterpillar,SIT-0004,Active,Electric,2017-04-11,2017-04-11,2017-10-08
+EQP-0844,Grader,GR979,Sandvik,SIT-0004,In Transit,Hybrid,2017-07-01,2017-12-28,2018-06-26
+EQP-0758,Mobile Crane,MC426,Hyundai,SIT-0009,Active,Electric,2022-03-16,2022-03-16,2022-09-12
+EQP-0222,Light Vehicle,LV279,Caterpillar,SIT-0008,Decommissioned,Hybrid,2023-07-02,2023-07-02,2023-12-29
+EQP-0809,Forklift,FO596,John Deere,SIT-0009,Under Maintenance,Hybrid,2023-04-27,2023-10-24,2024-04-21
+EQP-0108,Mobile Crane,MC869,Liebherr,SIT-0007,Under Maintenance,Diesel,2021-11-08,2021-11-08,2022-05-07
+EQP-0547,Excavator,EX947,Hyundai,SIT-0002,Decommissioned,Electric,2019-04-16,2019-04-16,2019-10-13
+EQP-0235,Conveyor,CO009,Scania,SIT-0007,Active,Diesel,2015-12-03,2015-12-03,2016-05-31
+EQP-0796,Dump Truck,DT065,Caterpillar,SIT-0006,Decommissioned,Hybrid,2022-07-06,2023-01-02,2023-07-01
+EQP-0186,Excavator,EX747,John Deere,SIT-0001,Decommissioned,Diesel,2016-12-18,2017-06-16,2017-12-13
+EQP-0280,Grader,GR545,Liebherr,SIT-0005,Active,Hybrid,2020-04-29,2020-10-26,2021-04-24
+EQP-0424,Prime Mover,PM738,Caterpillar,SIT-0006,Decommissioned,Hybrid,2024-06-04,2024-06-04,2024-12-01
+EQP-0078,Dump Truck,DT014,kenworth,SIT-0005,In Transit,Diesel,2016-07-12,2016-07-12,2017-01-08
+EQP-0054,Haul Truck,HT757,Hyundai,SIT-0008,In Transit,Hybrid,2024-03-14,2024-03-14,2024-09-10
+EQP-0306,Excavator,EX202,Scania,SIT-0010,Active,Diesel,2015-03-19,2015-09-15,2016-03-13
+EQP-0920,Prime Mover,PM183,Caterpillar,SIT-0001,In Transit,Hybrid,2018-01-16,2018-07-15,2019-01-11
+EQP-0800,Crusher,CR519,kenworth,SIT-0005,Under Maintenance,Electric,2021-07-10,2022-01-06,2022-07-05
+EQP-0977,Prime Mover,PM689,kenworth,SIT-0003,In Transit,Diesel,2021-10-20,2021-10-20,2022-04-18
+EQP-0208,Haul Truck,HT282,Liebherr,SIT-0010,In Transit,Diesel,2022-03-01,2022-08-28,2023-02-24
+EQP-0327,Prime Mover,PM547,Komatsu,SIT-0001,Active,Diesel,2018-08-19,2018-08-19,2019-02-15
+EQP-0349,Mobile Crane,MC245,Komatsu,SIT-0008,Active,Electric,2022-10-30,2022-10-30,2023-04-28
+EQP-0217,Wheel Loader,WL259,Caterpillar,SIT-0002,Decommissioned,Electric,2023-08-22,2024-02-18,2024-08-16
+EQP-0450,Conveyor,CO551,kenworth,SIT-0002,Active,Electric,2024-08-14,2025-02-10,2025-08-09
+EQP-0753,Water Cart,WC661,Scania,SIT-0001,Active,Diesel,2018-07-20,2018-07-20,2019-01-16
+EQP-0254,Drill Rig,DR627,Hitachi,SIT-0002,Under Maintenance,Hybrid,2020-08-29,2020-08-29,2021-02-25
+EQP-0348,Grader,GR644,John Deere,SIT-0003,Active,Diesel,2019-06-04,2019-12-01,2020-05-29
+EQP-0692,Prime Mover,PM623,Caterpillar,SIT-0007,Active,Diesel,2022-12-29,2022-12-29,2023-06-27
+EQP-0455,Water Cart,WC590,John Deere,SIT-0008,Under Maintenance,Hybrid,2016-07-22,2016-07-22,2017-01-18
+EQP-0741,Crusher,CR585,John Deere,SIT-0002,Under Maintenance,Hybrid,2017-12-20,2017-12-20,2018-06-18
+EQP-0427,Crusher,CR861,Hitachi,SIT-0010,Decommissioned,Electric,2016-12-04,2016-12-04,2017-06-02
+EQP-0256,Forklift,FO162,Hitachi,SIT-0001,Decommissioned,Diesel,2015-03-25,2015-03-25,2015-09-21
+EQP-0973,Crusher,CR036,Sandvik,SIT-0005,Decommissioned,Electric,2023-01-05,2023-01-05,2023-07-04
+EQP-0326,Water Cart,WC298,Komatsu,SIT-0003,In Transit,Electric,2015-01-30,2015-01-30,2015-07-29
+EQP-0855,Grader,GR387,Sandvik,SIT-0007,Decommissioned,Diesel,2016-06-10,2016-06-10,2016-12-07
+EQP-0448,Drill Rig,DR926,John Deere,SIT-0005,In Transit,Diesel,2022-02-07,2022-02-07,2022-08-06
+EQP-0757,Grader,GR280,Liebherr,SIT-0009,Under Maintenance,Hybrid,2023-04-20,2023-10-17,2024-04-14
+EQP-0597,Mobile Crane,MC228,kenworth,SIT-0003,Active,Hybrid,2016-01-11,2016-01-11,2016-07-09
+EQP-0313,Light Vehicle,LV531,kenworth,SIT-0001,In Transit,Hybrid,2021-09-26,2021-09-26,2022-03-25
+EQP-0477,Crusher,CR375,Scania,SIT-0008,Decommissioned,Hybrid,2021-05-18,2021-11-14,2022-05-13
+EQP-0113,Conveyor,CO038,Atlas Copco,SIT-0002,In Transit,Electric,2016-02-13,2016-08-11,2017-02-07
+EQP-0005,Light Vehicle,LV336,kenworth,SIT-0004,Active,Hybrid,2024-08-11,2024-08-11,2025-02-07
+EQP-0815,Bulldozer,BU962,Hyundai,SIT-0010,In Transit,Diesel,2022-08-21,2022-08-21,2023-02-17
+EQP-0362,Conveyor,CO211,Caterpillar,SIT-0008,Active,Diesel,2021-08-28,2022-02-24,2022-08-23
+EQP-0383,Crusher,CR819,John Deere,SIT-0002,Under Maintenance,Diesel,2024-03-29,2024-03-29,2024-09-25
+EQP-0461,Excavator,EX232,Liebherr,SIT-0005,Decommissioned,Electric,2016-11-14,2016-11-14,2017-05-13
+EQP-0742,Light Vehicle,LV849,Scania,SIT-0004,Decommissioned,Hybrid,2024-07-14,2024-07-14,2025-01-10
+EQP-0419,Drill Rig,DR730,Hyundai,SIT-0008,Active,Diesel,2019-10-31,2019-10-31,2020-04-28
+EQP-0165,Conveyor,CO665,Sandvik,SIT-0005,Decommissioned,Hybrid,2020-06-16,2020-06-16,2020-12-13
+EQP-0019,Haul Truck,HT683,Scania,SIT-0003,Active,Hybrid,2020-09-25,2021-03-24,2021-09-20
+EQP-0269,Crusher,CR660,kenworth,SIT-0010,Decommissioned,Hybrid,2015-07-25,2016-01-21,2016-07-19
+EQP-0900,Light Vehicle,LV770,Atlas Copco,SIT-0006,Active,Electric,2024-06-20,2024-12-17,2025-06-15
+EQP-0955,Light Vehicle,LV233,Komatsu,SIT-0009,In Transit,Electric,2019-05-05,2019-05-05,2019-11-01
+EQP-0132,Water Cart,WC301,Liebherr,SIT-0001,Under Maintenance,Hybrid,2019-06-23,2019-12-20,2020-06-17
+EQP-0766,Forklift,FO982,Hitachi,SIT-0009,In Transit,Hybrid,2017-05-16,2017-05-16,2017-11-12
+EQP-0402,Prime Mover,PM527,John Deere,SIT-0008,Active,Diesel,2016-11-25,2016-11-25,2017-05-24
+EQP-0080,Water Cart,WC826,Hitachi,SIT-0010,In Transit,Electric,2016-08-19,2017-02-15,2017-08-14
+EQP-0432,Excavator,EX763,Caterpillar,SIT-0010,Active,Electric,2019-01-14,2019-07-13,2020-01-09
+EQP-0938,Bulldozer,BU110,Hyundai,SIT-0004,Under Maintenance,Diesel,2021-12-10,2021-12-10,2022-06-08
+EQP-0601,Drill Rig,DR480,Hitachi,SIT-0009,Decommissioned,Electric,2022-02-23,2022-02-23,2022-08-22
+EQP-0964,Drill Rig,DR436,Sandvik,SIT-0005,Under Maintenance,Electric,2017-08-03,2018-01-30,2018-07-29
+EQP-0527,Haul Truck,HT071,Hyundai,SIT-0001,Active,Electric,2016-12-06,2017-06-04,2017-12-01
+EQP-0476,Crusher,CR757,Atlas Copco,SIT-0005,Under Maintenance,Electric,2023-08-26,2023-08-26,2024-02-22
+EQP-0414,Bulldozer,BU211,Hitachi,SIT-0009,Decommissioned,Hybrid,2020-09-23,2020-09-23,2021-03-22
+EQP-0241,Conveyor,CO231,Atlas Copco,SIT-0001,Under Maintenance,Diesel,2022-07-27,2022-07-27,2023-01-23
+EQP-0870,Bulldozer,BU268,Komatsu,SIT-0009,Decommissioned,Electric,2015-03-16,2015-03-16,2015-09-12
+EQP-0410,Wheel Loader,WL532,Komatsu,SIT-0007,Decommissioned,Diesel,2023-01-03,2023-07-02,2023-12-29
+EQP-0761,Water Cart,WC109,Sandvik,SIT-0006,Active,Hybrid,2019-09-07,2019-09-07,2020-03-05
+EQP-0265,Excavator,EX181,John Deere,SIT-0001,Active,Diesel,2017-02-09,2017-02-09,2017-08-08
+EQP-0951,Drill Rig,DR125,Komatsu,SIT-0004,In Transit,Diesel,2021-01-04,2021-01-04,2021-07-03
+EQP-0021,Excavator,EX017,Liebherr,SIT-0008,Under Maintenance,Diesel,2022-11-27,2022-11-27,2023-05-26
+EQP-0943,Drill Rig,DR952,Atlas Copco,SIT-0006,Active,Diesel,2022-04-25,2022-04-25,2022-10-22
+EQP-0116,Forklift,FO002,Hyundai,SIT-0004,In Transit,Hybrid,2024-05-08,2024-05-08,2024-11-04
+EQP-0067,Excavator,EX092,Sandvik,SIT-0002,Active,Diesel,2015-09-07,2016-03-05,2016-09-01
+EQP-0449,Forklift,FO633,Hyundai,SIT-0009,Active,Electric,2018-05-07,2018-05-07,2018-11-03
+EQP-0587,Forklift,FO714,Sandvik,SIT-0008,Active,Electric,2017-03-26,2017-03-26,2017-09-22
+EQP-0008,Conveyor,CO491,Hitachi,SIT-0007,Decommissioned,Diesel,2015-02-26,2015-02-26,2015-08-25
+EQP-0389,Water Cart,WC485,Hyundai,SIT-0006,Active,Diesel,2022-05-30,2022-05-30,2022-11-26
+EQP-0433,Water Cart,WC628,John Deere,SIT-0001,Active,Diesel,2022-10-05,2022-10-05,2023-04-03
+EQP-0230,Crusher,CR587,Komatsu,SIT-0007,Decommissioned,Electric,2020-02-18,2020-02-18,2020-08-16
+EQP-0676,Forklift,FO972,Sandvik,SIT-0001,Active,Electric,2021-08-29,2022-02-25,2022-08-24
+EQP-0694,Haul Truck,HT622,Atlas Copco,SIT-0009,Decommissioned,Diesel,2016-04-17,2016-04-17,2016-10-14
+EQP-0735,Mobile Crane,MC740,Caterpillar,SIT-0004,Decommissioned,Diesel,2020-05-18,2020-05-18,2020-11-14
+EQP-0077,Bulldozer,BU522,Hyundai,SIT-0005,Active,Electric,2019-01-16,2019-01-16,2019-07-15
+EQP-0336,Excavator,EX405,Komatsu,SIT-0002,Active,Diesel,2019-09-10,2019-09-10,2020-03-08
+EQP-0236,Wheel Loader,WL812,Atlas Copco,SIT-0010,In Transit,Diesel,2021-09-22,2021-09-22,2022-03-21
+EQP-0191,Water Cart,WC196,Liebherr,SIT-0004,Under Maintenance,Diesel,2019-01-21,2019-07-20,2020-01-16
+EQP-0259,Crusher,CR797,Liebherr,SIT-0009,Decommissioned,Electric,2016-02-08,2016-02-08,2016-08-06
+EQP-0642,Crusher,CR494,Hitachi,SIT-0009,In Transit,Electric,2023-10-02,2024-03-30,2024-09-26
+EQP-0272,Prime Mover,PM536,Hyundai,SIT-0002,Decommissioned,Hybrid,2017-09-26,2017-09-26,2018-03-25
+EQP-0258,Bulldozer,BU297,Sandvik,SIT-0001,In Transit,Diesel,2018-05-08,2018-05-08,2018-11-04
+EQP-0018,Mobile Crane,MC835,John Deere,SIT-0003,Active,Hybrid,2021-09-02,2021-09-02,2022-03-01
+EQP-0294,Haul Truck,HT847,kenworth,SIT-0003,Decommissioned,Hybrid,2018-11-11,2019-05-10,2019-11-06
+EQP-0713,Forklift,FO504,Hitachi,SIT-0002,Under Maintenance,Electric,2021-12-09,2021-12-09,2022-06-07
+EQP-0902,Conveyor,CO975,Sandvik,SIT-0010,Active,Electric,2017-03-05,2017-03-05,2017-09-01
+EQP-0633,Mobile Crane,MC841,John Deere,SIT-0010,Decommissioned,Electric,2016-07-29,2016-07-29,2017-01-25
+EQP-0571,Prime Mover,PM589,Hitachi,SIT-0006,Under Maintenance,Electric,2021-03-03,2021-08-30,2022-02-26
+EQP-0616,Haul Truck,HT261,John Deere,SIT-0008,Decommissioned,Hybrid,2019-06-05,2019-12-02,2020-05-30
+EQP-0529,Conveyor,CO064,Hitachi,SIT-0003,Decommissioned,Diesel,2019-05-09,2019-11-05,2020-05-03
+EQP-0308,Excavator,EX769,John Deere,SIT-0009,Decommissioned,Diesel,2018-01-31,2018-01-31,2018-07-30
+EQP-0725,Haul Truck,HT794,Liebherr,SIT-0001,Decommissioned,Diesel,2023-04-14,2023-04-14,2023-10-11
+EQP-0475,Drill Rig,DR956,Hyundai,SIT-0009,In Transit,Diesel,2023-03-18,2023-03-18,2023-09-14
+EQP-0648,Light Vehicle,LV603,Atlas Copco,SIT-0003,In Transit,Hybrid,2020-06-21,2020-12-18,2021-06-16
+EQP-0387,Wheel Loader,WL754,Hitachi,SIT-0005,Active,Diesel,2022-08-11,2022-08-11,2023-02-07
+EQP-0106,Grader,GR053,Caterpillar,SIT-0002,Under Maintenance,Electric,2022-09-12,2022-09-12,2023-03-11
+EQP-0149,Conveyor,CO545,Caterpillar,SIT-0007,Active,Hybrid,2020-06-05,2020-06-05,2020-12-02
+EQP-0275,Conveyor,CO191,Liebherr,SIT-0007,Decommissioned,Diesel,2021-05-28,2021-11-24,2022-05-23
+EQP-0569,Wheel Loader,WL586,Atlas Copco,SIT-0010,Active,Electric,2015-11-26,2016-05-24,2016-11-20
+EQP-0214,Grader,GR636,Komatsu,SIT-0008,Active,Diesel,2024-03-03,2024-03-03,2024-08-30
+EQP-0247,Wheel Loader,WL854,kenworth,SIT-0009,Under Maintenance,Hybrid,2020-02-12,2020-08-10,2021-02-06
+EQP-0406,Forklift,FO301,Liebherr,SIT-0001,In Transit,Electric,2016-01-12,2016-01-12,2016-07-10
+EQP-0199,Crusher,CR035,Hyundai,SIT-0008,Under Maintenance,Hybrid,2015-10-09,2015-10-09,2016-04-06
+EQP-0312,Forklift,FO359,kenworth,SIT-0008,Active,Electric,2018-09-26,2019-03-25,2019-09-21
+EQP-0581,Haul Truck,HT246,Caterpillar,SIT-0007,Decommissioned,Diesel,2020-01-04,2020-07-02,2020-12-29
+EQP-0820,Drill Rig,DR114,Hitachi,SIT-0006,Under Maintenance,Diesel,2016-01-30,2016-01-30,2016-07-28
+EQP-0011,Light Vehicle,LV847,Hyundai,SIT-0007,In Transit,Diesel,2021-03-25,2021-03-25,2021-09-21
+EQP-0570,Haul Truck,HT311,Caterpillar,SIT-0010,Decommissioned,Diesel,2024-02-02,2024-07-31,2025-01-27
+EQP-0666,Grader,GR457,Liebherr,SIT-0002,Under Maintenance,Diesel,2023-09-19,2024-03-17,2024-09-13
+EQP-0790,Drill Rig,DR887,Atlas Copco,SIT-0007,Decommissioned,Diesel,2017-10-19,2017-10-19,2018-04-17
+EQP-0791,Crusher,CR922,kenworth,SIT-0008,Decommissioned,Diesel,2015-12-15,2015-12-15,2016-06-12
+EQP-0983,Water Cart,WC673,Hitachi,SIT-0003,Under Maintenance,Electric,2017-07-02,2017-07-02,2017-12-29
+EQP-0260,Haul Truck,HT362,kenworth,SIT-0003,Under Maintenance,Electric,2017-05-02,2017-10-29,2018-04-27
+EQP-0292,Grader,GR211,Komatsu,SIT-0008,Active,Diesel,2018-03-20,2018-09-16,2019-03-15
+EQP-0131,Light Vehicle,LV291,Caterpillar,SIT-0010,In Transit,Diesel,2022-04-16,2022-04-16,2022-10-13
+EQP-0530,Haul Truck,HT024,Hyundai,SIT-0009,Active,Electric,2017-03-03,2017-03-03,2017-08-30
+EQP-0467,Water Cart,WC247,Hyundai,SIT-0010,Active,Diesel,2020-01-30,2020-01-30,2020-07-28
+EQP-0253,Haul Truck,HT522,Hitachi,SIT-0002,Under Maintenance,Hybrid,2020-08-28,2020-08-28,2021-02-24
+EQP-0135,Light Vehicle,LV307,Komatsu,SIT-0002,Decommissioned,Electric,2023-07-17,2023-07-17,2024-01-13
+EQP-0156,Haul Truck,HT580,kenworth,SIT-0004,In Transit,Diesel,2018-03-14,2018-03-14,2018-09-10
+EQP-0779,Grader,GR967,Liebherr,SIT-0003,Decommissioned,Diesel,2018-07-07,2018-07-07,2019-01-03
+EQP-0528,Drill Rig,DR329,Scania,SIT-0010,Decommissioned,Electric,2019-01-01,2019-01-01,2019-06-30
+EQP-0421,Water Cart,WC375,Hyundai,SIT-0002,Active,Electric,2024-06-30,2024-06-30,2024-12-27
+EQP-0032,Crusher,CR771,Caterpillar,SIT-0009,Active,Electric,2021-09-29,2021-09-29,2022-03-28
+EQP-0632,Mobile Crane,MC578,Atlas Copco,SIT-0003,Under Maintenance,Electric,2017-01-20,2017-01-20,2017-07-19
+EQP-0329,Haul Truck,HT847,kenworth,SIT-0004,Active,Electric,2019-12-24,2019-12-24,2020-06-21
+EQP-0525,Dump Truck,DT919,Hitachi,SIT-0008,In Transit,Hybrid,2022-10-26,2022-10-26,2023-04-24
+EQP-0793,Wheel Loader,WL029,Scania,SIT-0006,In Transit,Diesel,2018-06-04,2018-12-01,2019-05-30
+EQP-0147,Grader,GR564,John Deere,SIT-0010,In Transit,Hybrid,2017-08-12,2017-08-12,2018-02-08
+EQP-0374,Light Vehicle,LV633,Atlas Copco,SIT-0004,Active,Hybrid,2022-10-08,2023-04-06,2023-10-03
+EQP-0172,Drill Rig,DR756,Hyundai,SIT-0002,Decommissioned,Electric,2017-08-12,2017-08-12,2018-02-08
+EQP-0992,Dump Truck,DT087,kenworth,SIT-0005,In Transit,Electric,2024-01-20,2024-07-18,2025-01-14
+EQP-0492,Light Vehicle,LV165,Caterpillar,SIT-0007,Active,Electric,2020-02-13,2020-02-13,2020-08-11
+EQP-0907,Drill Rig,DR849,Hitachi,SIT-0008,In Transit,Hybrid,2016-01-06,2016-07-04,2016-12-31
+EQP-0411,Conveyor,CO161,Caterpillar,SIT-0007,Active,Hybrid,2015-07-28,2015-07-28,2016-01-24
+EQP-0573,Dump Truck,DT130,kenworth,SIT-0003,Under Maintenance,Diesel,2022-02-03,2022-02-03,2022-08-02
+EQP-0252,Prime Mover,PM899,Komatsu,SIT-0005,Active,Electric,2018-12-09,2019-06-07,2019-12-04
+EQP-0465,Crusher,CR659,Liebherr,SIT-0006,Under Maintenance,Electric,2020-11-14,2021-05-13,2021-11-09
+EQP-0671,Prime Mover,PM246,Liebherr,SIT-0008,Under Maintenance,Electric,2016-02-04,2016-08-02,2017-01-29
+EQP-0942,Drill Rig,DR975,Sandvik,SIT-0009,Decommissioned,Hybrid,2018-02-01,2018-07-31,2019-01-27
+EQP-0345,Grader,GR461,Hyundai,SIT-0006,Active,Diesel,2019-02-27,2019-02-27,2019-08-26
+EQP-0358,Prime Mover,PM495,Sandvik,SIT-0001,Decommissioned,Electric,2016-11-24,2017-05-23,2017-11-19
+EQP-0965,Excavator,EX816,Komatsu,SIT-0004,In Transit,Diesel,2021-12-11,2022-06-09,2022-12-06
+EQP-0181,Grader,GR232,John Deere,SIT-0001,Decommissioned,Electric,2023-02-04,2023-02-04,2023-08-03
+EQP-0810,Prime Mover,PM966,Hyundai,SIT-0010,Decommissioned,Electric,2023-09-21,2024-03-19,2024-09-15
+EQP-0533,Drill Rig,DR961,John Deere,SIT-0001,Under Maintenance,Hybrid,2023-02-25,2023-02-25,2023-08-24
+EQP-0314,Forklift,FO521,Liebherr,SIT-0002,Active,Electric,2023-04-21,2023-04-21,2023-10-18
+EQP-0239,Water Cart,WC712,kenworth,SIT-0010,Decommissioned,Diesel,2017-03-04,2017-08-31,2018-02-27
+EQP-0198,Mobile Crane,MC230,kenworth,SIT-0010,In Transit,Hybrid,2024-01-29,2024-01-29,2024-07-27
+EQP-0511,Bulldozer,BU326,Komatsu,SIT-0009,Decommissioned,Hybrid,2016-02-13,2016-08-11,2017-02-07
+EQP-0025,Wheel Loader,WL332,Hitachi,SIT-0009,Active,Diesel,2022-10-23,2022-10-23,2023-04-21
+EQP-0660,Prime Mover,PM746,Hyundai,SIT-0006,Active,Hybrid,2015-07-14,2015-07-14,2016-01-10
+EQP-0847,Dump Truck,DT371,Sandvik,SIT-0003,Active,Electric,2020-11-08,2020-11-08,2021-05-07
+EQP-0372,Crusher,CR723,Sandvik,SIT-0001,Active,Hybrid,2022-06-08,2022-06-08,2022-12-05
+EQP-0670,Water Cart,WC088,Hitachi,SIT-0007,In Transit,Electric,2016-06-29,2016-12-26,2017-06-24
+EQP-0908,Prime Mover,PM016,Hyundai,SIT-0003,In Transit,Diesel,2023-12-25,2023-12-25,2024-06-22
+EQP-0652,Water Cart,WC788,Hitachi,SIT-0010,Active,Diesel,2015-11-12,2015-11-12,2016-05-10
+EQP-0317,Haul Truck,HT930,Hyundai,SIT-0010,Under Maintenance,Electric,2015-11-16,2016-05-14,2016-11-10
+EQP-0549,Mobile Crane,MC966,John Deere,SIT-0006,In Transit,Diesel,2019-06-17,2019-06-17,2019-12-14
+EQP-0614,Bulldozer,BU391,Hyundai,SIT-0002,Under Maintenance,Hybrid,2019-06-27,2019-06-27,2019-12-24
+EQP-0579,Grader,GR071,Hyundai,SIT-0001,Decommissioned,Electric,2022-07-02,2022-07-02,2022-12-29
+EQP-0839,Conveyor,CO374,John Deere,SIT-0008,Decommissioned,Electric,2018-11-04,2018-11-04,2019-05-03
+EQP-0630,Forklift,FO502,Hyundai,SIT-0001,Decommissioned,Hybrid,2015-02-26,2015-02-26,2015-08-25
+EQP-0923,Grader,GR441,Hyundai,SIT-0007,In Transit,Electric,2019-04-13,2019-04-13,2019-10-10
+EQP-0178,Forklift,FO617,Hitachi,SIT-0005,Decommissioned,Diesel,2019-12-27,2020-06-24,2020-12-21
+EQP-0100,Prime Mover,PM680,John Deere,SIT-0004,In Transit,Diesel,2023-11-17,2023-11-17,2024-05-15
+EQP-0684,Bulldozer,BU205,Liebherr,SIT-0009,In Transit,Hybrid,2015-10-18,2016-04-15,2016-10-12
+EQP-0817,Conveyor,CO708,kenworth,SIT-0010,In Transit,Electric,2017-11-27,2017-11-27,2018-05-26
+EQP-0057,Light Vehicle,LV027,Sandvik,SIT-0007,Decommissioned,Hybrid,2024-05-11,2024-05-11,2024-11-07
+EQP-0031,Crusher,CR603,Hyundai,SIT-0001,In Transit,Diesel,2018-07-21,2019-01-17,2019-07-16
+EQP-0481,Wheel Loader,WL418,Hyundai,SIT-0001,In Transit,Hybrid,2016-12-22,2017-06-20,2017-12-17
+EQP-0240,Drill Rig,DR417,Hyundai,SIT-0004,Under Maintenance,Diesel,2022-03-26,2022-03-26,2022-09-22
+EQP-0315,Dump Truck,DT843,John Deere,SIT-0001,Under Maintenance,Diesel,2018-05-31,2018-05-31,2018-11-27
+EQP-0929,Mobile Crane,MC658,Hitachi,SIT-0005,In Transit,Hybrid,2023-03-29,2023-03-29,2023-09-25
+EQP-0173,Prime Mover,PM579,kenworth,SIT-0002,Under Maintenance,Hybrid,2021-12-29,2022-06-27,2022-12-24
+EQP-0767,Drill Rig,DR750,Hitachi,SIT-0008,Under Maintenance,Electric,2016-07-14,2017-01-10,2017-07-09
+EQP-0812,Forklift,FO186,Caterpillar,SIT-0007,Active,Electric,2018-01-31,2018-01-31,2018-07-30
+EQP-0726,Light Vehicle,LV554,kenworth,SIT-0004,Active,Hybrid,2015-11-13,2016-05-11,2016-11-07
+EQP-0152,Water Cart,WC500,Hitachi,SIT-0004,Active,Electric,2015-04-16,2015-04-16,2015-10-13
+EQP-0384,Wheel Loader,WL331,Scania,SIT-0004,In Transit,Hybrid,2019-06-11,2019-12-08,2020-06-05
+EQP-0519,Drill Rig,DR348,John Deere,SIT-0008,Decommissioned,Hybrid,2015-01-09,2015-01-09,2015-07-08
+EQP-0928,Haul Truck,HT928,Scania,SIT-0008,Under Maintenance,Electric,2017-06-28,2017-06-28,2017-12-25
+EQP-0545,Bulldozer,BU401,John Deere,SIT-0002,Decommissioned,Electric,2019-12-28,2019-12-28,2020-06-25
+EQP-0422,Excavator,EX654,Sandvik,SIT-0007,In Transit,Diesel,2023-07-15,2023-07-15,2024-01-11
+EQP-0097,Grader,GR709,Liebherr,SIT-0008,Active,Electric,2022-08-14,2022-08-14,2023-02-10
+EQP-0620,Conveyor,CO775,kenworth,SIT-0009,Active,Hybrid,2024-01-04,2024-07-02,2024-12-29
+EQP-0201,Light Vehicle,LV020,Sandvik,SIT-0006,Active,Diesel,2022-05-29,2022-11-25,2023-05-24
+EQP-0997,Excavator,EX442,kenworth,SIT-0002,Decommissioned,Hybrid,2017-07-12,2017-07-12,2018-01-08
+EQP-0441,Forklift,FO933,Atlas Copco,SIT-0003,Under Maintenance,Hybrid,2017-01-28,2017-01-28,2017-07-27
+EQP-0974,Haul Truck,HT865,Atlas Copco,SIT-0001,Active,Diesel,2015-02-23,2015-08-22,2016-02-18
+EQP-0234,Drill Rig,DR147,Liebherr,SIT-0007,Under Maintenance,Electric,2015-09-24,2015-09-24,2016-03-22
+EQP-0702,Crusher,CR959,Scania,SIT-0003,In Transit,Hybrid,2022-08-23,2022-08-23,2023-02-19
+EQP-0556,Crusher,CR770,Scania,SIT-0002,Decommissioned,Hybrid,2020-10-30,2020-10-30,2021-04-28
+EQP-0631,Forklift,FO790,Liebherr,SIT-0004,In Transit,Hybrid,2019-07-30,2020-01-26,2020-07-24
+EQP-0496,Grader,GR308,Atlas Copco,SIT-0008,In Transit,Diesel,2015-09-06,2015-09-06,2016-03-04
+EQP-0824,Haul Truck,HT175,Sandvik,SIT-0004,Decommissioned,Hybrid,2018-07-23,2019-01-19,2019-07-18
+EQP-0396,Light Vehicle,LV462,Hitachi,SIT-0005,Under Maintenance,Electric,2018-07-07,2019-01-03,2019-07-02
+EQP-0732,Conveyor,CO899,kenworth,SIT-0010,Under Maintenance,Diesel,2024-05-18,2024-05-18,2024-11-14
+EQP-0495,Conveyor,CO507,kenworth,SIT-0008,In Transit,Hybrid,2018-10-05,2018-10-05,2019-04-03
+EQP-0397,Wheel Loader,WL501,Hyundai,SIT-0001,Active,Diesel,2019-08-17,2019-08-17,2020-02-13
+EQP-0293,Light Vehicle,LV927,Caterpillar,SIT-0006,In Transit,Diesel,2019-05-01,2019-05-01,2019-10-28
+EQP-0111,Drill Rig,DR100,kenworth,SIT-0005,In Transit,Electric,2023-01-30,2023-01-30,2023-07-29
+EQP-0526,Excavator,EX538,Hitachi,SIT-0008,In Transit,Electric,2022-11-25,2022-11-25,2023-05-24
+EQP-0838,Crusher,CR165,Hitachi,SIT-0009,In Transit,Diesel,2017-10-24,2017-10-24,2018-04-22
+EQP-0678,Excavator,EX613,kenworth,SIT-0008,In Transit,Electric,2019-03-28,2019-03-28,2019-09-24
+EQP-0716,Excavator,EX972,Komatsu,SIT-0006,Active,Diesel,2021-05-20,2021-11-16,2022-05-15
+EQP-0780,Light Vehicle,LV855,Sandvik,SIT-0008,Active,Hybrid,2018-07-29,2019-01-25,2019-07-24
+EQP-0801,Water Cart,WC007,Atlas Copco,SIT-0007,Active,Hybrid,2018-07-03,2018-12-30,2019-06-28
+EQP-0157,Mobile Crane,MC258,Caterpillar,SIT-0002,Active,Hybrid,2022-06-08,2022-12-05,2023-06-03
+EQP-0059,Excavator,EX833,Hyundai,SIT-0006,In Transit,Hybrid,2022-12-26,2022-12-26,2023-06-24
+EQP-0075,Dump Truck,DT024,Liebherr,SIT-0008,Active,Electric,2019-05-28,2019-05-28,2019-11-24
+EQP-0417,Crusher,CR178,kenworth,SIT-0010,Decommissioned,Hybrid,2024-01-07,2024-07-05,2025-01-01
+EQP-0290,Prime Mover,PM352,John Deere,SIT-0005,In Transit,Electric,2022-04-03,2022-04-03,2022-09-30
+EQP-0497,Grader,GR387,Hitachi,SIT-0009,Under Maintenance,Electric,2018-04-21,2018-04-21,2018-10-18
+EQP-0452,Mobile Crane,MC313,Caterpillar,SIT-0001,Active,Hybrid,2017-02-09,2017-02-09,2017-08-08
+EQP-0991,Bulldozer,BU230,Caterpillar,SIT-0008,Active,Diesel,2022-04-12,2022-10-09,2023-04-07
+EQP-0979,Wheel Loader,WL154,Caterpillar,SIT-0006,Decommissioned,Diesel,2019-08-05,2019-08-05,2020-02-01
+EQP-0681,Water Cart,WC550,Scania,SIT-0007,In Transit,Electric,2019-11-01,2019-11-01,2020-04-29
+EQP-0051,Crusher,CR989,kenworth,SIT-0007,Decommissioned,Electric,2018-01-02,2018-07-01,2018-12-28
+EQP-0944,Drill Rig,DR881,Liebherr,SIT-0002,Active,Diesel,2017-01-22,2017-01-22,2017-07-21
+EQP-0523,Haul Truck,HT720,Scania,SIT-0006,In Transit,Hybrid,2020-04-28,2020-04-28,2020-10-25
+EQP-0686,Water Cart,WC792,Hyundai,SIT-0004,In Transit,Hybrid,2019-08-15,2019-08-15,2020-02-11
+EQP-0687,Haul Truck,HT318,Sandvik,SIT-0009,Active,Electric,2019-08-18,2020-02-14,2020-08-12
+EQP-0846,Water Cart,WC100,Hitachi,SIT-0009,Under Maintenance,Diesel,2018-07-02,2018-07-02,2018-12-29
+EQP-0613,Conveyor,CO041,kenworth,SIT-0008,Active,Diesel,2015-09-08,2015-09-08,2016-03-06
+EQP-0537,Forklift,FO778,Atlas Copco,SIT-0007,Decommissioned,Electric,2015-08-05,2015-08-05,2016-02-01
+EQP-0255,Haul Truck,HT922,Liebherr,SIT-0010,Decommissioned,Diesel,2021-11-07,2021-11-07,2022-05-06
+EQP-0167,Grader,GR831,John Deere,SIT-0004,Under Maintenance,Electric,2019-04-20,2019-10-17,2020-04-14
+EQP-0130,Excavator,EX333,Hyundai,SIT-0005,Decommissioned,Hybrid,2016-03-16,2016-03-16,2016-09-12
+EQP-0759,Excavator,EX738,Scania,SIT-0003,Decommissioned,Diesel,2015-12-09,2016-06-06,2016-12-03
+EQP-0984,Light Vehicle,LV206,Caterpillar,SIT-0006,In Transit,Electric,2015-09-26,2015-09-26,2016-03-24
+EQP-0591,Bulldozer,BU703,Caterpillar,SIT-0005,In Transit,Hybrid,2019-04-13,2019-04-13,2019-10-10
+EQP-0903,Water Cart,WC183,Komatsu,SIT-0001,In Transit,Hybrid,2024-06-22,2024-06-22,2024-12-19
+EQP-0668,Excavator,EX832,Liebherr,SIT-0005,Decommissioned,Diesel,2022-03-28,2022-03-28,2022-09-24
+EQP-0285,Drill Rig,DR158,Sandvik,SIT-0005,Decommissioned,Diesel,2024-05-29,2024-05-29,2024-11-25
+EQP-0177,Forklift,FO146,kenworth,SIT-0006,Decommissioned,Electric,2018-07-11,2019-01-07,2019-07-06
+EQP-0179,Dump Truck,DT447,Caterpillar,SIT-0006,Active,Diesel,2024-06-05,2024-12-02,2025-05-31
+EQP-0864,Water Cart,WC981,Caterpillar,SIT-0009,Active,Hybrid,2017-06-24,2017-12-21,2018-06-19
+EQP-0006,Crusher,CR769,Hyundai,SIT-0001,Active,Electric,2018-07-30,2018-07-30,2019-01-26
+EQP-0559,Prime Mover,PM317,Atlas Copco,SIT-0007,In Transit,Electric,2018-07-07,2019-01-03,2019-07-02
+EQP-0188,Water Cart,WC552,Liebherr,SIT-0001,Decommissioned,Electric,2021-03-05,2021-03-05,2021-09-01
+EQP-0279,Forklift,FO417,Hyundai,SIT-0010,In Transit,Electric,2020-11-15,2020-11-15,2021-05-14
+EQP-0768,Prime Mover,PM307,John Deere,SIT-0004,Active,Electric,2022-10-29,2022-10-29,2023-04-27
+EQP-0107,Mobile Crane,MC054,Scania,SIT-0009,Under Maintenance,Electric,2021-03-14,2021-09-10,2022-03-09
+EQP-0743,Mobile Crane,MC679,John Deere,SIT-0001,In Transit,Hybrid,2024-05-01,2024-05-01,2024-10-28
+EQP-0105,Dump Truck,DT960,Atlas Copco,SIT-0007,Active,Electric,2017-11-10,2017-11-10,2018-05-09
+EQP-0335,Drill Rig,DR425,Komatsu,SIT-0004,In Transit,Electric,2019-06-25,2019-12-22,2020-06-19
+EQP-0948,Drill Rig,DR090,Hyundai,SIT-0003,Active,Diesel,2019-06-11,2019-12-08,2020-06-05
+EQP-0606,Wheel Loader,WL463,John Deere,SIT-0007,Decommissioned,Diesel,2020-03-25,2020-09-21,2021-03-20
+EQP-0874,Water Cart,WC852,Hitachi,SIT-0005,Active,Diesel,2018-12-21,2018-12-21,2019-06-19
+EQP-0756,Dump Truck,DT029,Scania,SIT-0005,Under Maintenance,Hybrid,2024-04-14,2024-04-14,2024-10-11
+EQP-0749,Mobile Crane,MC271,Komatsu,SIT-0007,Active,Diesel,2016-11-16,2017-05-15,2017-11-11
+EQP-0375,Bulldozer,BU772,John Deere,SIT-0003,Active,Diesel,2019-06-04,2019-06-04,2019-12-01
+EQP-0593,Grader,GR190,Scania,SIT-0005,Decommissioned,Hybrid,2020-11-18,2020-11-18,2021-05-17
+EQP-0233,Mobile Crane,MC207,Komatsu,SIT-0009,Under Maintenance,Hybrid,2015-11-22,2015-11-22,2016-05-20
+EQP-0379,Light Vehicle,LV783,Hyundai,SIT-0008,Under Maintenance,Diesel,2017-10-31,2017-10-31,2018-04-29
+EQP-0418,Conveyor,CO178,John Deere,SIT-0005,Under Maintenance,Electric,2019-06-04,2019-12-01,2020-05-29
+EQP-0089,Drill Rig,DR794,kenworth,SIT-0009,Decommissioned,Diesel,2019-09-13,2019-09-13,2020-03-11
+EQP-0182,Excavator,EX925,Scania,SIT-0007,Decommissioned,Diesel,2020-10-31,2020-10-31,2021-04-29
+EQP-0578,Dump Truck,DT040,Scania,SIT-0008,Active,Hybrid,2023-12-06,2023-12-06,2024-06-03
+EQP-0608,Dump Truck,DT117,Caterpillar,SIT-0008,In Transit,Electric,2023-02-25,2023-02-25,2023-08-24
+EQP-0394,Haul Truck,HT409,Caterpillar,SIT-0007,Decommissioned,Diesel,2022-08-30,2023-02-26,2023-08-25
+EQP-0443,Haul Truck,HT180,Hitachi,SIT-0005,In Transit,Electric,2021-02-28,2021-08-27,2022-02-23
+EQP-0705,Wheel Loader,WL337,John Deere,SIT-0006,Active,Electric,2017-11-08,2018-05-07,2018-11-03
+EQP-0093,Haul Truck,HT864,Komatsu,SIT-0002,Under Maintenance,Hybrid,2016-02-14,2016-02-14,2016-08-12
+EQP-0706,Mobile Crane,MC870,Sandvik,SIT-0006,Under Maintenance,Electric,2021-08-02,2021-08-02,2022-01-29
+EQP-0727,Conveyor,CO528,Liebherr,SIT-0007,Under Maintenance,Diesel,2015-10-19,2016-04-16,2016-10-13
+EQP-0300,Excavator,EX737,kenworth,SIT-0005,In Transit,Electric,2020-05-16,2020-05-16,2020-11-12
+EQP-0468,Drill Rig,DR840,Sandvik,SIT-0010,Decommissioned,Hybrid,2019-11-21,2020-05-19,2020-11-15
+EQP-0956,Crusher,CR229,kenworth,SIT-0006,Decommissioned,Hybrid,2017-11-22,2017-11-22,2018-05-21
+EQP-0807,Conveyor,CO552,Scania,SIT-0002,Active,Diesel,2017-04-03,2017-04-03,2017-09-30
+EQP-0599,Prime Mover,PM484,Scania,SIT-0007,Active,Electric,2022-07-19,2023-01-15,2023-07-14
+EQP-0473,Light Vehicle,LV068,Hyundai,SIT-0004,Decommissioned,Diesel,2017-09-22,2017-09-22,2018-03-21
+EQP-0386,Light Vehicle,LV868,Hyundai,SIT-0004,In Transit,Diesel,2024-01-15,2024-01-15,2024-07-13
+EQP-0354,Haul Truck,HT222,Liebherr,SIT-0009,In Transit,Electric,2024-02-21,2024-08-19,2025-02-15
+EQP-0332,Dump Truck,DT349,Liebherr,SIT-0006,In Transit,Diesel,2016-02-15,2016-08-13,2017-02-09
+EQP-0576,Conveyor,CO243,Liebherr,SIT-0009,Under Maintenance,Hybrid,2018-11-10,2018-11-10,2019-05-09
+EQP-0027,Conveyor,CO341,Komatsu,SIT-0009,Active,Electric,2015-12-16,2015-12-16,2016-06-13
+EQP-0949,Forklift,FO825,Hyundai,SIT-0007,Under Maintenance,Diesel,2016-10-03,2016-10-03,2017-04-01
+EQP-0883,Grader,GR927,Hyundai,SIT-0010,In Transit,Hybrid,2017-10-17,2017-10-17,2018-04-15
+EQP-0079,Drill Rig,DR102,Hyundai,SIT-0009,In Transit,Electric,2021-08-27,2022-02-23,2022-08-22
+EQP-0281,Grader,GR307,Scania,SIT-0005,Active,Electric,2023-12-14,2023-12-14,2024-06-11
+EQP-0564,Forklift,FO477,Liebherr,SIT-0009,Decommissioned,Electric,2021-05-08,2021-05-08,2021-11-04
+EQP-0788,Forklift,FO773,Liebherr,SIT-0004,Decommissioned,Hybrid,2019-04-27,2019-10-24,2020-04-21
+EQP-0555,Wheel Loader,WL072,Sandvik,SIT-0008,Active,Electric,2018-04-11,2018-10-08,2019-04-06
+EQP-0206,Drill Rig,DR130,Caterpillar,SIT-0008,Decommissioned,Diesel,2016-07-08,2016-07-08,2017-01-04
+EQP-0058,Excavator,EX655,kenworth,SIT-0009,In Transit,Electric,2020-11-29,2021-05-28,2021-11-24
+EQP-0747,Excavator,EX739,Hyundai,SIT-0002,In Transit,Diesel,2017-02-20,2017-02-20,2017-08-19
+EQP-0364,Prime Mover,PM220,Sandvik,SIT-0010,Under Maintenance,Hybrid,2024-04-03,2024-04-03,2024-09-30
+EQP-0751,Water Cart,WC698,Sandvik,SIT-0004,In Transit,Diesel,2021-10-28,2022-04-26,2022-10-23
+EQP-0061,Bulldozer,BU135,Komatsu,SIT-0003,Active,Hybrid,2022-02-28,2022-08-27,2023-02-23
+EQP-0520,Wheel Loader,WL380,Atlas Copco,SIT-0001,Under Maintenance,Diesel,2019-09-15,2019-09-15,2020-03-13
+EQP-0849,Drill Rig,DR558,kenworth,SIT-0009,Active,Hybrid,2022-01-07,2022-01-07,2022-07-06
+EQP-0243,Haul Truck,HT554,John Deere,SIT-0006,Active,Hybrid,2019-08-23,2019-08-23,2020-02-19
+EQP-0917,Grader,GR147,Hyundai,SIT-0007,In Transit,Hybrid,2017-02-16,2017-02-16,2017-08-15
+EQP-0513,Forklift,FO162,Liebherr,SIT-0002,Active,Hybrid,2024-05-05,2024-05-05,2024-11-01
+EQP-0439,Forklift,FO700,Caterpillar,SIT-0004,Under Maintenance,Diesel,2023-08-08,2023-08-08,2024-02-04
+EQP-0012,Grader,GR845,Scania,SIT-0008,Under Maintenance,Diesel,2018-06-24,2018-06-24,2018-12-21
+EQP-0338,Drill Rig,DR303,Hyundai,SIT-0006,Active,Diesel,2022-04-20,2022-10-17,2023-04-15
+EQP-0444,Haul Truck,HT961,Hyundai,SIT-0009,Active,Electric,2015-04-25,2015-04-25,2015-10-22
+EQP-0843,Water Cart,WC849,John Deere,SIT-0002,In Transit,Diesel,2019-01-26,2019-07-25,2020-01-21
+EQP-0645,Light Vehicle,LV996,Liebherr,SIT-0001,In Transit,Electric,2015-08-12,2016-02-08,2016-08-06
+EQP-0878,Forklift,FO380,John Deere,SIT-0004,In Transit,Hybrid,2015-10-16,2015-10-16,2016-04-13
+EQP-0733,Light Vehicle,LV107,Scania,SIT-0002,Decommissioned,Diesel,2020-09-09,2021-03-08,2021-09-04
+EQP-0365,Water Cart,WC650,Hitachi,SIT-0008,In Transit,Diesel,2015-01-28,2015-01-28,2015-07-27
+EQP-0212,Haul Truck,HT094,Atlas Copco,SIT-0005,Active,Diesel,2017-02-15,2017-02-15,2017-08-14
+EQP-0215,Mobile Crane,MC917,Caterpillar,SIT-0004,Active,Diesel,2018-08-01,2019-01-28,2019-07-27
+EQP-0975,Grader,GR006,Komatsu,SIT-0004,In Transit,Electric,2022-05-05,2022-05-05,2022-11-01
+EQP-0141,Drill Rig,DR776,Liebherr,SIT-0001,Under Maintenance,Electric,2020-09-19,2021-03-18,2021-09-14
+EQP-0610,Light Vehicle,LV578,Hitachi,SIT-0008,Active,Electric,2021-05-23,2021-11-19,2022-05-18
+EQP-0784,Conveyor,CO747,Hitachi,SIT-0008,Under Maintenance,Electric,2017-08-24,2018-02-20,2018-08-19
+EQP-0305,Light Vehicle,LV098,Komatsu,SIT-0007,In Transit,Hybrid,2017-08-28,2017-08-28,2018-02-24
+EQP-0707,Conveyor,CO168,John Deere,SIT-0009,In Transit,Diesel,2017-07-15,2018-01-11,2018-07-10
+EQP-0109,Forklift,FO623,Sandvik,SIT-0002,Under Maintenance,Electric,2020-04-05,2020-04-05,2020-10-02
+EQP-0512,Forklift,FO605,Hitachi,SIT-0004,Decommissioned,Diesel,2020-07-30,2020-07-30,2021-01-26
+EQP-0746,Conveyor,CO874,Liebherr,SIT-0010,Under Maintenance,Electric,2020-03-04,2020-03-04,2020-08-31
+EQP-0091,Haul Truck,HT311,Hitachi,SIT-0010,In Transit,Hybrid,2015-02-26,2015-08-25,2016-02-21
+EQP-0022,Water Cart,WC101,Hyundai,SIT-0001,Decommissioned,Diesel,2023-06-05,2023-06-05,2023-12-02
+EQP-0264,Excavator,EX044,Komatsu,SIT-0009,Under Maintenance,Hybrid,2019-07-28,2020-01-24,2020-07-22
+EQP-0114,Water Cart,WC622,Atlas Copco,SIT-0006,Decommissioned,Diesel,2018-06-22,2018-06-22,2018-12-19
+EQP-0672,Light Vehicle,LV195,Liebherr,SIT-0008,Under Maintenance,Hybrid,2018-12-10,2018-12-10,2019-06-08
+EQP-0095,Grader,GR022,Hyundai,SIT-0002,In Transit,Diesel,2015-04-24,2015-10-21,2016-04-18
+EQP-0474,Dump Truck,DT200,Sandvik,SIT-0004,In Transit,Diesel,2020-09-15,2020-09-15,2021-03-14
+EQP-0699,Haul Truck,HT933,John Deere,SIT-0003,Active,Diesel,2023-12-11,2023-12-11,2024-06-08
+EQP-0647,Excavator,EX356,John Deere,SIT-0006,In Transit,Electric,2016-10-14,2017-04-12,2017-10-09
+EQP-0740,Crusher,CR458,John Deere,SIT-0010,In Transit,Hybrid,2016-04-18,2016-04-18,2016-10-15
+EQP-0451,Grader,GR182,Scania,SIT-0003,Active,Electric,2018-07-12,2018-07-12,2019-01-08
+EQP-0827,Bulldozer,BU856,Caterpillar,SIT-0009,Under Maintenance,Hybrid,2018-05-19,2018-11-15,2019-05-14
+EQP-0403,Water Cart,WC440,Scania,SIT-0006,Under Maintenance,Electric,2016-01-14,2016-07-12,2017-01-08
+EQP-0438,Water Cart,WC067,Atlas Copco,SIT-0002,In Transit,Hybrid,2021-03-27,2021-09-23,2022-03-22
+EQP-0661,Crusher,CR162,Hitachi,SIT-0007,In Transit,Electric,2020-06-10,2020-12-07,2021-06-05
+EQP-0053,Dump Truck,DT878,John Deere,SIT-0006,Decommissioned,Hybrid,2016-12-01,2017-05-30,2017-11-26
+EQP-0304,Crusher,CR949,Liebherr,SIT-0007,Decommissioned,Diesel,2016-09-16,2016-09-16,2017-03-15
+EQP-0369,Excavator,EX608,Scania,SIT-0003,Under Maintenance,Diesel,2018-07-07,2018-07-07,2019-01-03
+EQP-0934,Drill Rig,DR870,kenworth,SIT-0003,Active,Hybrid,2020-08-30,2020-08-30,2021-02-26
+EQP-0862,Light Vehicle,LV134,kenworth,SIT-0009,Active,Diesel,2016-05-04,2016-10-31,2017-04-29
+EQP-0218,Excavator,EX248,John Deere,SIT-0002,Under Maintenance,Electric,2016-04-01,2016-04-01,2016-09-28
+EQP-0799,Drill Rig,DR037,Komatsu,SIT-0005,Under Maintenance,Diesel,2022-12-15,2022-12-15,2023-06-13
+EQP-1000,Bulldozer,BU948,Liebherr,SIT-0008,Under Maintenance,Hybrid,2023-12-09,2023-12-09,2024-06-06
+EQP-0284,Wheel Loader,WL102,Scania,SIT-0004,Under Maintenance,Diesel,2017-10-06,2017-10-06,2018-04-04
+EQP-0978,Water Cart,WC413,Scania,SIT-0006,Decommissioned,Diesel,2017-01-20,2017-01-20,2017-07-19
+EQP-0391,Crusher,CR348,Hyundai,SIT-0009,In Transit,Diesel,2024-07-25,2025-01-21,2025-07-20
+EQP-0472,Water Cart,WC776,Liebherr,SIT-0009,Active,Electric,2016-01-11,2016-01-11,2016-07-09
+EQP-0115,Bulldozer,BU362,kenworth,SIT-0001,Under Maintenance,Diesel,2021-09-26,2021-09-26,2022-03-25
+EQP-0635,Haul Truck,HT391,Hitachi,SIT-0010,Decommissioned,Hybrid,2016-12-09,2016-12-09,2017-06-07
+EQP-0919,Haul Truck,HT596,Scania,SIT-0008,Active,Electric,2023-09-14,2023-09-14,2024-03-12
+EQP-0639,Crusher,CR765,Hitachi,SIT-0001,In Transit,Diesel,2016-08-03,2016-08-03,2017-01-30
+EQP-0373,Excavator,EX629,Scania,SIT-0001,Active,Hybrid,2021-05-02,2021-10-29,2022-04-27
+EQP-0045,Crusher,CR963,Atlas Copco,SIT-0009,Decommissioned,Electric,2024-01-28,2024-01-28,2024-07-26
+EQP-0958,Crusher,CR287,Scania,SIT-0008,Decommissioned,Diesel,2017-09-18,2017-09-18,2018-03-17
+EQP-0117,Mobile Crane,MC800,Komatsu,SIT-0005,Active,Hybrid,2019-10-19,2020-04-16,2020-10-13
+EQP-0088,Dump Truck,DT066,Caterpillar,SIT-0009,In Transit,Electric,2019-02-19,2019-02-19,2019-08-18
+EQP-0654,Drill Rig,DR206,Atlas Copco,SIT-0008,Decommissioned,Hybrid,2017-05-29,2017-11-25,2018-05-24
+EQP-0330,Wheel Loader,WL997,Hyundai,SIT-0007,Decommissioned,Electric,2017-10-07,2018-04-05,2018-10-02
+EQP-0851,Light Vehicle,LV146,Scania,SIT-0010,In Transit,Electric,2022-10-21,2022-10-21,2023-04-19
+EQP-0271,Prime Mover,PM716,Hyundai,SIT-0007,Active,Hybrid,2023-05-08,2023-05-08,2023-11-04
+EQP-0353,Grader,GR644,Caterpillar,SIT-0008,Active,Hybrid,2016-10-17,2016-10-17,2017-04-15
+EQP-0124,Bulldozer,BU174,Atlas Copco,SIT-0004,In Transit,Hybrid,2020-06-11,2020-06-11,2020-12-08
+EQP-0274,Water Cart,WC170,Komatsu,SIT-0005,Decommissioned,Diesel,2022-10-09,2023-04-07,2023-10-04
+EQP-0423,Conveyor,CO652,Sandvik,SIT-0009,In Transit,Electric,2023-03-15,2023-03-15,2023-09-11
+EQP-0629,Wheel Loader,WL280,kenworth,SIT-0009,Active,Hybrid,2024-05-11,2024-05-11,2024-11-07
+EQP-0856,Wheel Loader,WL856,Caterpillar,SIT-0008,In Transit,Hybrid,2015-04-09,2015-04-09,2015-10-06
+EQP-0399,Grader,GR863,Sandvik,SIT-0001,In Transit,Electric,2020-08-23,2020-08-23,2021-02-19
+EQP-0669,Light Vehicle,LV072,John Deere,SIT-0003,Decommissioned,Electric,2017-12-23,2018-06-21,2018-12-18
+EQP-0056,Prime Mover,PM679,kenworth,SIT-0002,Under Maintenance,Diesel,2019-10-30,2020-04-27,2020-10-24
+EQP-0996,Haul Truck,HT932,Atlas Copco,SIT-0009,Active,Hybrid,2021-05-02,2021-05-02,2021-10-29
+EQP-0030,Forklift,FO233,Hyundai,SIT-0009,In Transit,Diesel,2017-03-19,2017-03-19,2017-09-15
+EQP-0357,Wheel Loader,WL036,Caterpillar,SIT-0002,Decommissioned,Hybrid,2019-05-17,2019-05-17,2019-11-13
+EQP-0140,Grader,GR946,Hyundai,SIT-0006,Under Maintenance,Diesel,2015-02-13,2015-02-13,2015-08-12
+EQP-0805,Drill Rig,DR213,Komatsu,SIT-0002,Under Maintenance,Electric,2017-10-31,2017-10-31,2018-04-29
+EQP-0485,Water Cart,WC049,Liebherr,SIT-0007,Under Maintenance,Diesel,2022-02-27,2022-02-27,2022-08-26
+EQP-0176,Conveyor,CO470,Komatsu,SIT-0005,Active,Diesel,2021-03-14,2021-09-10,2022-03-09
+EQP-0480,Haul Truck,HT630,Hyundai,SIT-0007,Active,Diesel,2018-10-17,2019-04-15,2019-10-12
+EQP-0886,Water Cart,WC383,Caterpillar,SIT-0007,Decommissioned,Hybrid,2019-05-24,2019-11-20,2020-05-18
+EQP-0744,Prime Mover,PM188,kenworth,SIT-0002,Active,Hybrid,2019-12-19,2020-06-16,2020-12-13
+EQP-0731,Light Vehicle,LV866,Scania,SIT-0008,Decommissioned,Diesel,2015-01-29,2015-01-29,2015-07-28
+EQP-0770,Conveyor,CO550,Liebherr,SIT-0009,Active,Hybrid,2016-09-18,2016-09-18,2017-03-17
+EQP-0946,Bulldozer,BU804,Caterpillar,SIT-0008,Under Maintenance,Electric,2017-04-14,2017-04-14,2017-10-11
+EQP-0816,Water Cart,WC549,Sandvik,SIT-0008,In Transit,Diesel,2015-04-09,2015-10-06,2016-04-03
+EQP-0070,Water Cart,WC514,Hitachi,SIT-0001,Active,Hybrid,2017-01-25,2017-01-25,2017-07-24
+EQP-0624,Wheel Loader,WL993,Caterpillar,SIT-0004,Under Maintenance,Hybrid,2016-03-22,2016-09-18,2017-03-17
+EQP-0514,Haul Truck,HT740,Scania,SIT-0003,Active,Hybrid,2022-10-27,2022-10-27,2023-04-25
+EQP-0331,Forklift,FO435,Atlas Copco,SIT-0002,Active,Hybrid,2016-02-27,2016-02-27,2016-08-25
+EQP-0986,Conveyor,CO740,Atlas Copco,SIT-0005,Under Maintenance,Hybrid,2017-04-21,2017-10-18,2018-04-16
+EQP-0931,Light Vehicle,LV651,kenworth,SIT-0005,Decommissioned,Diesel,2022-01-26,2022-01-26,2022-07-25
+EQP-0322,Water Cart,WC828,Sandvik,SIT-0008,In Transit,Diesel,2021-01-23,2021-07-22,2022-01-18
+EQP-0539,Prime Mover,PM152,Hyundai,SIT-0005,In Transit,Hybrid,2016-05-17,2016-05-17,2016-11-13
+EQP-0169,Mobile Crane,MC818,Atlas Copco,SIT-0005,Under Maintenance,Electric,2023-12-17,2023-12-17,2024-06-14
+EQP-0782,Dump Truck,DT527,Caterpillar,SIT-0006,In Transit,Electric,2023-02-11,2023-08-10,2024-02-06
+EQP-0596,Dump Truck,DT189,Atlas Copco,SIT-0006,Decommissioned,Electric,2017-09-18,2018-03-17,2018-09-13
+EQP-0340,Light Vehicle,LV341,Scania,SIT-0007,Active,Diesel,2016-09-29,2017-03-28,2017-09-24
+EQP-0563,Dump Truck,DT955,Sandvik,SIT-0007,Under Maintenance,Hybrid,2023-12-26,2023-12-26,2024-06-23
+EQP-0540,Dump Truck,DT953,Atlas Copco,SIT-0002,Decommissioned,Electric,2019-07-16,2019-07-16,2020-01-12
+EQP-0046,Haul Truck,HT257,Komatsu,SIT-0002,Under Maintenance,Diesel,2015-07-15,2015-07-15,2016-01-11
+EQP-0302,Mobile Crane,MC740,Komatsu,SIT-0009,In Transit,Electric,2015-10-10,2015-10-10,2016-04-07
+EQP-0567,Grader,GR673,Liebherr,SIT-0002,Decommissioned,Diesel,2019-02-04,2019-08-03,2020-01-30
+EQP-0763,Water Cart,WC289,Scania,SIT-0003,In Transit,Hybrid,2024-06-08,2024-06-08,2024-12-05
+EQP-0988,Water Cart,WC663,Atlas Copco,SIT-0007,Decommissioned,Electric,2017-05-02,2017-10-29,2018-04-27
+EQP-0026,Dump Truck,DT095,Komatsu,SIT-0002,Active,Diesel,2020-02-07,2020-02-07,2020-08-05
+EQP-0145,Bulldozer,BU530,Caterpillar,SIT-0005,Active,Diesel,2015-09-06,2015-09-06,2016-03-04
+EQP-0568,Conveyor,CO620,Komatsu,SIT-0008,Active,Hybrid,2016-07-07,2016-07-07,2017-01-03
+EQP-0478,Grader,GR905,Komatsu,SIT-0010,In Transit,Electric,2015-11-20,2015-11-20,2016-05-18
+EQP-0600,Haul Truck,HT381,Scania,SIT-0008,Decommissioned,Electric,2024-01-15,2024-01-15,2024-07-13
+EQP-0945,Grader,GR605,Hyundai,SIT-0010,Active,Hybrid,2022-09-01,2022-09-01,2023-02-28
+EQP-0754,Haul Truck,HT982,Sandvik,SIT-0001,Decommissioned,Diesel,2017-03-06,2017-09-02,2018-03-01
+EQP-0202,Prime Mover,PM617,John Deere,SIT-0006,Active,Hybrid,2018-12-07,2018-12-07,2019-06-05
+EQP-0069,Water Cart,WC600,Scania,SIT-0006,Decommissioned,Diesel,2019-09-25,2019-09-25,2020-03-23
+EQP-0296,Haul Truck,HT609,John Deere,SIT-0003,Active,Diesel,2017-04-21,2017-04-21,2017-10-18
+EQP-0276,Crusher,CR159,Liebherr,SIT-0002,Under Maintenance,Electric,2019-04-15,2019-04-15,2019-10-12
+EQP-0126,Wheel Loader,WL194,Scania,SIT-0009,Active,Hybrid,2021-06-11,2021-06-11,2021-12-08
+EQP-0416,Bulldozer,BU256,Scania,SIT-0007,Under Maintenance,Hybrid,2019-06-01,2019-11-28,2020-05-26
+EQP-0321,Drill Rig,DR053,kenworth,SIT-0008,Active,Hybrid,2024-02-02,2024-07-31,2025-01-27
+EQP-0662,Drill Rig,DR413,Hitachi,SIT-0006,In Transit,Diesel,2023-08-05,2024-02-01,2024-07-30
+EQP-0739,Crusher,CR383,Komatsu,SIT-0001,Active,Electric,2015-07-04,2015-12-31,2016-06-28
+EQP-0872,Bulldozer,BU065,Liebherr,SIT-0006,Decommissioned,Electric,2020-09-10,2020-09-10,2021-03-09
+EQP-0969,Grader,GR282,Hyundai,SIT-0003,Active,Electric,2023-05-12,2023-05-12,2023-11-08
+EQP-0764,Forklift,FO455,John Deere,SIT-0009,Under Maintenance,Electric,2019-03-23,2019-09-19,2020-03-17
+EQP-0503,Mobile Crane,MC211,Hyundai,SIT-0009,Decommissioned,Electric,2018-12-20,2018-12-20,2019-06-18
+EQP-0797,Grader,GR475,Scania,SIT-0007,Active,Electric,2022-04-09,2022-10-06,2023-04-04
+EQP-0531,Excavator,EX339,kenworth,SIT-0006,In Transit,Electric,2018-02-27,2018-08-26,2019-02-22
+EQP-0251,Light Vehicle,LV393,John Deere,SIT-0009,Active,Diesel,2024-03-18,2024-03-18,2024-09-14
+EQP-0954,Grader,GR237,Komatsu,SIT-0004,Decommissioned,Electric,2016-02-17,2016-02-17,2016-08-15
+EQP-0487,Drill Rig,DR474,kenworth,SIT-0001,In Transit,Electric,2020-08-16,2020-08-16,2021-02-12
+EQP-0392,Light Vehicle,LV709,Caterpillar,SIT-0003,In Transit,Hybrid,2016-07-16,2016-07-16,2017-01-12
+EQP-0840,Conveyor,CO533,Caterpillar,SIT-0007,Active,Electric,2016-03-03,2016-08-30,2017-02-26
+EQP-0675,Mobile Crane,MC326,Scania,SIT-0002,Decommissioned,Electric,2018-08-11,2018-08-11,2019-02-07
+EQP-0082,Water Cart,WC236,Caterpillar,SIT-0006,Decommissioned,Hybrid,2023-05-28,2023-05-28,2023-11-24
+EQP-0515,Wheel Loader,WL772,kenworth,SIT-0008,Under Maintenance,Hybrid,2020-04-20,2020-10-17,2021-04-15
+EQP-0765,Light Vehicle,LV249,kenworth,SIT-0002,Under Maintenance,Hybrid,2018-08-06,2018-08-06,2019-02-02
+EQP-0036,Prime Mover,PM765,Hitachi,SIT-0004,Decommissioned,Diesel,2016-11-23,2017-05-22,2017-11-18
+EQP-0261,Excavator,EX349,Hyundai,SIT-0003,In Transit,Diesel,2022-09-25,2022-09-25,2023-03-24
+EQP-0710,Drill Rig,DR732,John Deere,SIT-0003,Under Maintenance,Diesel,2020-07-02,2020-12-29,2021-06-27
+EQP-0471,Haul Truck,HT764,Komatsu,SIT-0008,Active,Diesel,2022-08-04,2022-08-04,2023-01-31
+EQP-0504,Haul Truck,HT986,Caterpillar,SIT-0002,In Transit,Electric,2021-04-21,2021-10-18,2022-04-16
+EQP-0273,Haul Truck,HT176,John Deere,SIT-0009,Active,Hybrid,2022-01-06,2022-01-06,2022-07-05
+EQP-0099,Wheel Loader,WL465,Liebherr,SIT-0004,Active,Hybrid,2021-06-23,2021-12-20,2022-06-18
+EQP-0704,Haul Truck,HT480,Scania,SIT-0009,Under Maintenance,Electric,2020-05-02,2020-05-02,2020-10-29
+EQP-0836,Water Cart,WC812,Atlas Copco,SIT-0006,Under Maintenance,Hybrid,2021-04-21,2021-04-21,2021-10-18
+EQP-0049,Wheel Loader,WL377,Scania,SIT-0008,Active,Hybrid,2021-02-24,2021-08-23,2022-02-19
+EQP-0237,Drill Rig,DR576,Caterpillar,SIT-0005,Decommissioned,Diesel,2021-09-23,2022-03-22,2022-09-18
+EQP-0854,Bulldozer,BU714,Caterpillar,SIT-0002,Decommissioned,Hybrid,2021-11-22,2021-11-22,2022-05-21
+EQP-0262,Dump Truck,DT051,Caterpillar,SIT-0008,Active,Hybrid,2017-09-29,2017-09-29,2018-03-28
+EQP-0730,Bulldozer,BU263,Sandvik,SIT-0010,Active,Hybrid,2021-06-03,2021-11-30,2022-05-29
+EQP-0553,Forklift,FO508,John Deere,SIT-0009,Decommissioned,Electric,2019-10-25,2019-10-25,2020-04-22
+EQP-0220,Grader,GR830,John Deere,SIT-0003,In Transit,Hybrid,2018-09-17,2018-09-17,2019-03-16
+EQP-0148,Dump Truck,DT736,Hitachi,SIT-0009,Decommissioned,Hybrid,2020-04-17,2020-10-14,2021-04-12
+EQP-0435,Wheel Loader,WL152,Hyundai,SIT-0009,Under Maintenance,Electric,2018-03-29,2018-09-25,2019-03-24
+EQP-0466,Excavator,EX309,Scania,SIT-0006,Under Maintenance,Hybrid,2015-09-20,2015-09-20,2016-03-18
+EQP-0585,Mobile Crane,MC075,John Deere,SIT-0009,Decommissioned,Hybrid,2018-02-11,2018-02-11,2018-08-10
+EQP-0785,Drill Rig,DR848,Caterpillar,SIT-0004,Active,Hybrid,2023-03-21,2023-03-21,2023-09-17
+EQP-0729,Light Vehicle,LV174,Atlas Copco,SIT-0005,Active,Diesel,2021-08-22,2022-02-18,2022-08-17
+EQP-0153,Light Vehicle,LV424,Liebherr,SIT-0005,Active,Electric,2015-07-24,2015-07-24,2016-01-20
+EQP-0062,Water Cart,WC257,Komatsu,SIT-0007,Under Maintenance,Electric,2018-03-11,2018-03-11,2018-09-07
+EQP-0371,Excavator,EX198,Sandvik,SIT-0005,In Transit,Diesel,2017-04-03,2017-04-03,2017-09-30
+EQP-0518,Forklift,FO855,kenworth,SIT-0004,Under Maintenance,Hybrid,2020-10-11,2020-10-11,2021-04-09
+EQP-0544,Wheel Loader,WL045,kenworth,SIT-0007,In Transit,Electric,2015-07-16,2015-07-16,2016-01-12
+EQP-0500,Dump Truck,DT052,Caterpillar,SIT-0004,In Transit,Electric,2016-02-05,2016-08-03,2017-01-30
+EQP-0270,Grader,GR304,Hyundai,SIT-0007,Under Maintenance,Hybrid,2015-10-10,2016-04-07,2016-10-04
+EQP-0787,Conveyor,CO385,kenworth,SIT-0010,Decommissioned,Hybrid,2024-03-30,2024-03-30,2024-09-26
+EQP-0980,Wheel Loader,WL146,Hyundai,SIT-0007,In Transit,Electric,2018-02-09,2018-02-09,2018-08-08
+EQP-0909,Forklift,FO289,John Deere,SIT-0009,Under Maintenance,Electric,2022-01-27,2022-01-27,2022-07-26
+EQP-0589,Dump Truck,DT203,Komatsu,SIT-0002,Decommissioned,Diesel,2018-08-04,2018-08-04,2019-01-31
+EQP-0911,Dump Truck,DT671,Caterpillar,SIT-0004,Active,Diesel,2017-12-25,2017-12-25,2018-06-23
+EQP-0607,Bulldozer,BU288,John Deere,SIT-0004,Decommissioned,Hybrid,2023-06-16,2023-06-16,2023-12-13
+EQP-0895,Haul Truck,HT875,Scania,SIT-0010,Under Maintenance,Diesel,2019-12-29,2019-12-29,2020-06-26
+EQP-0637,Light Vehicle,LV898,Hyundai,SIT-0006,In Transit,Electric,2023-07-15,2023-07-15,2024-01-11
+EQP-0231,Forklift,FO298,Liebherr,SIT-0009,Under Maintenance,Electric,2017-12-06,2017-12-06,2018-06-04
+EQP-0129,Water Cart,WC263,Scania,SIT-0005,Under Maintenance,Electric,2015-03-09,2015-03-09,2015-09-05
+EQP-0990,Haul Truck,HT747,Atlas Copco,SIT-0007,Under Maintenance,Electric,2020-04-11,2020-10-08,2021-04-06
+EQP-0952,Bulldozer,BU436,Sandvik,SIT-0008,In Transit,Diesel,2017-04-06,2017-10-03,2018-04-01
+EQP-0783,Bulldozer,BU806,Atlas Copco,SIT-0004,In Transit,Electric,2021-11-28,2021-11-28,2022-05-27
+EQP-0350,Light Vehicle,LV889,Hyundai,SIT-0009,Decommissioned,Electric,2018-08-18,2018-08-18,2019-02-14
+EQP-0794,Dump Truck,DT459,Liebherr,SIT-0005,In Transit,Electric,2015-09-23,2015-09-23,2016-03-21
+EQP-0138,Crusher,CR339,kenworth,SIT-0002,Active,Hybrid,2015-04-24,2015-10-21,2016-04-18
+EQP-0592,Mobile Crane,MC569,Scania,SIT-0010,Decommissioned,Diesel,2019-04-25,2019-04-25,2019-10-22
+EQP-0876,Forklift,FO849,Sandvik,SIT-0001,Decommissioned,Electric,2016-01-02,2016-01-02,2016-06-30
+EQP-0875,Drill Rig,DR753,Sandvik,SIT-0009,Active,Diesel,2017-02-09,2017-02-09,2017-08-08
+EQP-0522,Mobile Crane,MC663,Caterpillar,SIT-0005,Under Maintenance,Electric,2021-09-29,2021-09-29,2022-03-28
+EQP-0560,Grader,GR600,Caterpillar,SIT-0009,Under Maintenance,Hybrid,2017-11-23,2017-11-23,2018-05-22
+EQP-0400,Wheel Loader,WL880,Hyundai,SIT-0008,Under Maintenance,Diesel,2020-05-12,2020-05-12,2020-11-08
+EQP-0055,Water Cart,WC206,Scania,SIT-0008,Decommissioned,Hybrid,2015-08-14,2015-08-14,2016-02-10
+EQP-0035,Prime Mover,PM955,Komatsu,SIT-0001,Under Maintenance,Diesel,2023-12-26,2023-12-26,2024-06-23
+EQP-0711,Forklift,FO863,Caterpillar,SIT-0004,Active,Diesel,2015-10-05,2015-10-05,2016-04-02
+EQP-0360,Water Cart,WC685,Hitachi,SIT-0010,In Transit,Hybrid,2021-11-30,2021-11-30,2022-05-29
+EQP-0244,Prime Mover,PM429,kenworth,SIT-0002,In Transit,Diesel,2017-06-13,2017-12-10,2018-06-08
+EQP-0833,Excavator,EX037,John Deere,SIT-0007,In Transit,Diesel,2021-01-06,2021-01-06,2021-07-05
+EQP-0007,Light Vehicle,LV129,Caterpillar,SIT-0005,Under Maintenance,Electric,2020-08-02,2020-08-02,2021-01-29
+EQP-0577,Excavator,EX036,Komatsu,SIT-0010,Active,Electric,2020-07-22,2020-07-22,2021-01-18
+EQP-0755,Drill Rig,DR329,Komatsu,SIT-0003,Decommissioned,Electric,2015-10-25,2015-10-25,2016-04-22
+EQP-0509,Light Vehicle,LV771,Liebherr,SIT-0004,Under Maintenance,Hybrid,2023-04-13,2023-04-13,2023-10-10
+EQP-0110,Bulldozer,BU160,Hitachi,SIT-0002,In Transit,Hybrid,2015-10-06,2016-04-03,2016-09-30
+EQP-0303,Prime Mover,PM465,Caterpillar,SIT-0001,Active,Diesel,2023-12-28,2023-12-28,2024-06-25
+EQP-0720,Wheel Loader,WL548,Hyundai,SIT-0005,Decommissioned,Electric,2017-06-26,2017-06-26,2017-12-23
+EQP-0915,Excavator,EX761,Hyundai,SIT-0002,In Transit,Electric,2019-05-03,2019-05-03,2019-10-30
+EQP-0658,Mobile Crane,MC377,John Deere,SIT-0006,In Transit,Diesel,2022-08-08,2023-02-04,2023-08-03
+EQP-0355,Crusher,CR315,John Deere,SIT-0010,Decommissioned,Hybrid,2015-06-08,2015-06-08,2015-12-05
+EQP-0970,Haul Truck,HT196,Hitachi,SIT-0009,Decommissioned,Hybrid,2024-01-25,2024-01-25,2024-07-23
+EQP-0232,Drill Rig,DR923,Sandvik,SIT-0001,Active,Hybrid,2021-06-06,2021-12-03,2022-06-01
+EQP-0393,Bulldozer,BU233,kenworth,SIT-0005,Under Maintenance,Hybrid,2023-04-22,2023-04-22,2023-10-19
+EQP-0976,Mobile Crane,MC657,Komatsu,SIT-0008,Active,Diesel,2021-02-27,2021-02-27,2021-08-26
+EQP-0291,Light Vehicle,LV721,Scania,SIT-0001,In Transit,Electric,2024-04-15,2024-10-12,2025-04-10
+EQP-0125,Forklift,FO738,Atlas Copco,SIT-0001,Under Maintenance,Hybrid,2021-12-19,2022-06-17,2022-12-14
+EQP-0508,Haul Truck,HT852,kenworth,SIT-0006,Decommissioned,Diesel,2024-03-12,2024-03-12,2024-09-08
+EQP-0659,Drill Rig,DR367,Liebherr,SIT-0002,Active,Electric,2015-01-28,2015-07-27,2016-01-23
+EQP-0390,Wheel Loader,WL785,Caterpillar,SIT-0010,In Transit,Electric,2024-04-17,2024-04-17,2024-10-14
+EQP-0238,Drill Rig,DR021,Liebherr,SIT-0003,In Transit,Hybrid,2017-09-22,2017-09-22,2018-03-21
+EQP-0550,Forklift,FO327,Komatsu,SIT-0005,Under Maintenance,Diesel,2017-06-15,2017-12-12,2018-06-10
+EQP-0161,Haul Truck,HT243,Hyundai,SIT-0010,Under Maintenance,Electric,2020-11-10,2020-11-10,2021-05-09
+EQP-0622,Bulldozer,BU004,John Deere,SIT-0008,Active,Diesel,2015-03-11,2015-03-11,2015-09-07
+EQP-0440,Dump Truck,DT218,kenworth,SIT-0005,Active,Diesel,2016-09-30,2016-09-30,2017-03-29

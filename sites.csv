@@ -1,0 +1,11 @@
+SiteId,SiteName,SiteType,OreTypes,Country,Status
+SIT-0007,North Samanthatown Mine,Mine,"['Coal', 'Iron', 'Gold']",Afghanistan,Active
+SIT-0010,Port Ryanton Open-pit,Open-pit,"['Coal', 'Copper', 'Iron', 'Diamond', 'Manganese', 'Gold', 'Silver', 'Nickel']",Uruguay,Active
+SIT-0001,East Tommy Shaft,Shaft,"['Gold', 'Coal', 'Copper', 'Silver', 'Iron']",Equatorial Guinea,Under Development
+SIT-0003,Matthewstad Mine,Mine,['Iron'],Australia,Active
+SIT-0005,Vasquezchester Underground,Underground,"['Gold', 'Iron', 'Coal', 'Silver', 'Nickel']",Burkina Faso,Active
+SIT-0004,Greenehaven Quarry,Quarry,['Coal'],Philippines,Active
+SIT-0006,South Natalie Underground,Underground,"['Coal', 'Nickel', 'Silver']",Mauritius,Active
+SIT-0002,New Laura Shaft,Shaft,"['Iron', 'Coal', 'Gold', 'Copper', 'Silver', 'Nickel']",Saudi Arabia,Active
+SIT-0009,Feliciachester Quarry,Quarry,"['Silver', 'Coal', 'Iron', 'Manganese', 'Gold', 'Copper', 'Nickel']",India,Under Development
+SIT-0008,Boydchester Underground,Underground,"['Gold', 'Coal', 'Silver']",Singapore,Active

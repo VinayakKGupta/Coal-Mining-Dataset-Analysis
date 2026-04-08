@@ -1,0 +1,501 @@
+EmployeeId,FirstName,LastName,FullName,Email,PhoneNumber,StartDate,EndDate,Department,Job
+EMP-0433,Madeline,Gray,Madeline Gray,Madeline.Gray@coaldbloodedmining.com,7878229836,2018-07-17,9999-12-31,Operations,Scheduler
+EMP-0198,Brooke,Malone,Brooke Malone,Brooke.Malone@coaldbloodedmining.com,2104218265,2019-06-08,9999-12-31,Operations,Machine Operator
+EMP-0389,Teresa,Davis,Teresa Davis,Teresa.Davis@coaldbloodedmining.com,(202)241-0157,2015-04-13,2015-11-29,Finance,Administration Officer
+EMP-0456,Dana,Jackson,Dana Jackson,Dana.Jackson@coaldbloodedmining.com,560-711-6179,2018-12-21,2019-08-31,HR,HR Officer
+EMP-0216,James,Howard,James Howard,James.Howard@coaldbloodedmining.com,919-737-1994,2018-07-07,2022-03-07,Operations,Operations Manager
+EMP-0021,Meghan,Santiago,Meghan Santiago,Meghan.Santiago@coaldbloodedmining.com,(640)332-4475,2020-04-19,9999-12-31,Operations,Operations Manager
+EMP-0133,Monica,Cole,Monica Cole,Monica.Cole@coaldbloodedmining.com,846-484-2528,2020-05-15,9999-12-31,Operations,Scheduler
+EMP-0262,Andrew,Freeman,Andrew Freeman,Andrew.Freeman@coaldbloodedmining.com,(432)212-0777,2020-11-10,9999-12-31,Operations,Machine Operator
+EMP-0249,Emma,Cook,Emma Cook,Emma.Cook@coaldbloodedmining.com,686-358-1903,2015-02-02,9999-12-31,Operations,Machine Operator
+EMP-0208,Garrett,Mitchell,Garrett Mitchell,Garrett.Mitchell@coaldbloodedmining.com,(714)327-9363,2015-07-16,9999-12-31,Operations,Machine Operator
+EMP-0471,Jennifer,Johnson,Jennifer Johnson,Jennifer.Johnson@coaldbloodedmining.com,(455)564-0014,2019-10-07,9999-12-31,Operations,Machine Operator
+EMP-0402,Samuel,Andrews,Samuel Andrews,Samuel.Andrews@coaldbloodedmining.com,760-698-3432,2019-04-12,9999-12-31,Operations,Machine Operator
+EMP-0425,Scott,Beck,Scott Beck,Scott.Beck@coaldbloodedmining.com,(205)866-8472,2016-01-23,2018-12-15,Operations,Engineer
+EMP-0156,Stephanie,Allen,Stephanie Allen,Stephanie.Allen@coaldbloodedmining.com,3404147235,2019-05-21,9999-12-31,Finance,Payroll Officer
+EMP-0245,Alvin,Ellis,Alvin Ellis,Alvin.Ellis@coaldbloodedmining.com,(257)745-6043,2015-05-15,9999-12-31,Operations,Machine Operator
+EMP-0184,Brenda,Garcia,Brenda Garcia,Brenda.Garcia@coaldbloodedmining.com,(279)393-8987,2020-10-27,2024-07-18,Operations,Machine Operator
+EMP-0299,Michael,Henderson,Michael Henderson,Michael.Henderson@coaldbloodedmining.com,2294911876,2020-09-07,9999-12-31,Operations,Scheduler
+EMP-0457,Erin,Strickland,Erin Strickland,Erin.Strickland@coaldbloodedmining.com,862-274-4678,2016-06-08,9999-12-31,Finance,Administration Officer
+EMP-0465,Julia,Garcia,Julia Garcia,Julia.Garcia@coaldbloodedmining.com,684-430-3878,2019-02-09,9999-12-31,Operations,Scheduler
+EMP-0112,William,Knapp,William Knapp,William.Knapp@coaldbloodedmining.com,8713016679,2020-11-30,9999-12-31,Finance,Accountant
+EMP-0259,Teresa,Gross,Teresa Gross,Teresa.Gross@coaldbloodedmining.com,845-539-3128,2018-09-30,9999-12-31,Finance,Administration Officer
+EMP-0072,Walter,Davis,Walter Davis,Walter.Davis@coaldbloodedmining.com,2932696598,2018-11-12,9999-12-31,IT,IT Specialist
+EMP-0145,Jay,Lane,Jay Lane,Jay.Lane@coaldbloodedmining.com,482-812-3826,2019-07-27,9999-12-31,Operations,Engineer
+EMP-0479,Brenda,Williams,Brenda Williams,Brenda.Williams@coaldbloodedmining.com,(940)650-4587,2017-11-22,2018-11-13,Operations,Machine Operator
+EMP-0387,Kelly,Sherman,Kelly Sherman,Kelly.Sherman@coaldbloodedmining.com,823-434-1676,2019-06-01,2020-11-25,Operations,Machine Operator
+EMP-0049,Jacqueline,Brown,Jacqueline Brown,Jacqueline.Brown@coaldbloodedmining.com,521-274-9660,2017-02-13,9999-12-31,Corporate,CFO
+EMP-0317,Mark,Smith,Mark Smith,Mark.Smith@coaldbloodedmining.com,(974)862-0162,2015-02-01,9999-12-31,Operations,Machine Operator
+EMP-0410,Michael,Hall,Michael Hall,Michael.Hall@coaldbloodedmining.com,7779208599,2015-03-22,9999-12-31,Operations,Scheduler
+EMP-0129,Katrina,Mann,Katrina Mann,Katrina.Mann@coaldbloodedmining.com,9783205788,2019-02-02,9999-12-31,Operations,Operations Manager
+EMP-0466,Cathy,Martinez,Cathy Martinez,Cathy.Martinez@coaldbloodedmining.com,7958942014,2015-03-13,9999-12-31,Operations,Scheduler
+EMP-0273,Paul,Kaufman,Paul Kaufman,Paul.Kaufman@coaldbloodedmining.com,841-982-1577,2020-09-24,9999-12-31,Operations,Machine Operator
+EMP-0362,Michael,White,Michael White,Michael.White@coaldbloodedmining.com,(878)799-0089,2020-05-07,9999-12-31,Operations,Surveyor
+EMP-0415,Kurt,Spence,Kurt Spence,Kurt.Spence@coaldbloodedmining.com,2594549291,2017-06-27,2020-09-12,Operations,Machine Operator
+EMP-0309,William,James,William James,William.James@coaldbloodedmining.com,(671)654-9265,2016-11-21,9999-12-31,Operations,Machine Operator
+EMP-0462,Jonathan,Hall,Jonathan Hall,Jonathan.Hall@coaldbloodedmining.com,336-402-5583,2020-01-28,9999-12-31,IT,IT Specialist
+EMP-0076,Steven,Huber,Steven Huber,Steven.Huber@coaldbloodedmining.com,(772)266-5538,2017-02-03,9999-12-31,Operations,Machine Operator
+EMP-0159,Eric,White,Eric White,Eric.White@coaldbloodedmining.com,(360)415-8323,2016-03-04,2017-07-01,Operations,Machine Operator
+EMP-0051,Carrie,Kane,Carrie Kane,Carrie.Kane@coaldbloodedmining.com,(210)763-8413,2018-05-01,9999-12-31,Operations,Machine Operator
+EMP-0374,Mary,Collins,Mary Collins,Mary.Collins@coaldbloodedmining.com,910-564-9978,2016-04-11,9999-12-31,Operations,Scheduler
+EMP-0038,Andrea,Cisneros,Andrea Cisneros,Andrea.Cisneros@coaldbloodedmining.com,(748)389-8342,2018-04-01,9999-12-31,Operations,Machine Operator
+EMP-0436,Kristina,Turner,Kristina Turner,Kristina.Turner@coaldbloodedmining.com,908-758-8631,2019-07-21,9999-12-31,Operations,Machine Operator
+EMP-0351,Gary,Howard,Gary Howard,Gary.Howard@coaldbloodedmining.com,(858)228-5122,2020-01-10,2021-04-09,Operations,Machine Operator
+EMP-0170,Robert,Shaffer,Robert Shaffer,Robert.Shaffer@coaldbloodedmining.com,8478143978,2017-07-03,9999-12-31,Operations,Machine Operator
+EMP-0242,Cody,Harrison,Cody Harrison,Cody.Harrison@coaldbloodedmining.com,3854565695,2015-12-25,9999-12-31,Operations,Scheduler
+EMP-0287,Stephanie,Anderson,Stephanie Anderson,Stephanie.Anderson@coaldbloodedmining.com,633-530-9072,2019-02-28,9999-12-31,Operations,Machine Operator
+EMP-0052,Dawn,Waller,Dawn Waller,Dawn.Waller@coaldbloodedmining.com,(348)535-6667,2015-02-24,2016-04-18,Operations,Machine Operator
+EMP-0182,Carla,Duran,Carla Duran,Carla.Duran@coaldbloodedmining.com,(659)354-1288,2018-04-11,9999-12-31,Operations,Engineer
+EMP-0223,Tyler,Thomas,Tyler Thomas,Tyler.Thomas@coaldbloodedmining.com,(332)513-3211,2019-08-20,2020-09-19,Operations,Scheduler
+EMP-0162,Melvin,Gutierrez,Melvin Gutierrez,Melvin.Gutierrez@coaldbloodedmining.com,(569)225-6703,2018-04-30,9999-12-31,Operations,Surveyor
+EMP-0313,Danielle,Phillips,Danielle Phillips,Danielle.Phillips@coaldbloodedmining.com,(869)227-8513,2020-10-18,9999-12-31,Finance,Accountant
+EMP-0328,Dawn,Macias,Dawn Macias,Dawn.Macias@coaldbloodedmining.com,203-622-6412,2018-12-22,9999-12-31,Operations,Machine Operator
+EMP-0105,Karen,Thomas,Karen Thomas,Karen.Thomas@coaldbloodedmining.com,8012552706,2019-04-18,9999-12-31,Operations,Scheduler
+EMP-0283,Angela,Jones,Angela Jones,Angela.Jones@coaldbloodedmining.com,539-960-7568,2019-05-30,9999-12-31,Operations,Machine Operator
+EMP-0486,Chad,Harris,Chad Harris,Chad.Harris@coaldbloodedmining.com,851-619-1569,2017-07-16,9999-12-31,Operations,Machine Operator
+EMP-0227,Kim,Bryant,Kim Bryant,Kim.Bryant@coaldbloodedmining.com,(480)534-4818,2020-12-15,9999-12-31,Operations,Operations Manager
+EMP-0444,James,Cochran,James Cochran,James.Cochran@coaldbloodedmining.com,(319)239-2941,2015-06-21,9999-12-31,Sales,Business Development Manager
+EMP-0267,Lance,White,Lance White,Lance.White@coaldbloodedmining.com,(388)749-7021,2020-08-30,9999-12-31,Operations,Engineer
+EMP-0134,Shelly,Bradley,Shelly Bradley,Shelly.Bradley@coaldbloodedmining.com,600-884-3416,2015-02-17,9999-12-31,Operations,Machine Operator
+EMP-0032,Melissa,Smith,Melissa Smith,Melissa.Smith@coaldbloodedmining.com,9328325937,2019-09-08,9999-12-31,Operations,Scheduler
+EMP-0413,Lauren,Brown,Lauren Brown,Lauren.Brown@coaldbloodedmining.com,452-721-4657,2019-08-13,2021-06-22,HR,HR Officer
+EMP-0281,Connie,James,Connie James,Connie.James@coaldbloodedmining.com,628-444-6859,2018-11-05,9999-12-31,Finance,Accountant
+EMP-0008,Elizabeth,Salinas,Elizabeth Salinas,Elizabeth.Salinas@coaldbloodedmining.com,(620)782-5499,2018-01-08,9999-12-31,Finance,Payroll Officer
+EMP-0048,Margaret,Rodriguez,Margaret Rodriguez,Margaret.Rodriguez@coaldbloodedmining.com,8267937349,2017-06-08,9999-12-31,Finance,Payroll Officer
+EMP-0369,Deborah,Martinez,Deborah Martinez,Deborah.Martinez@coaldbloodedmining.com,(751)519-7559,2020-11-17,9999-12-31,Operations,Machine Operator
+EMP-0431,Joseph,Gregory,Joseph Gregory,Joseph.Gregory@coaldbloodedmining.com,6913411180,2015-09-15,9999-12-31,Operations,Scheduler
+EMP-0205,Dennis,Reed,Dennis Reed,Dennis.Reed@coaldbloodedmining.com,601-422-0884,2020-10-25,9999-12-31,IT,IT Specialist
+EMP-0364,Jamie,Dunn,Jamie Dunn,Jamie.Dunn@coaldbloodedmining.com,521-928-6578,2017-01-19,9999-12-31,Operations,Machine Operator
+EMP-0423,Steven,Wright,Steven Wright,Steven.Wright@coaldbloodedmining.com,4858258378,2017-03-04,9999-12-31,Operations,Machine Operator
+EMP-0489,Kelly,Bryan,Kelly Bryan,Kelly.Bryan@coaldbloodedmining.com,497-757-3949,2019-03-10,9999-12-31,Operations,Machine Operator
+EMP-0343,Kenneth,Roberts,Kenneth Roberts,Kenneth.Roberts@coaldbloodedmining.com,(458)254-7554,2018-11-23,9999-12-31,Operations,Machine Operator
+EMP-0321,Timothy,Baker,Timothy Baker,Timothy.Baker@coaldbloodedmining.com,(729)357-0092,2019-12-15,2022-09-05,Operations,Machine Operator
+EMP-0001,Justin,Wallace,Justin Wallace,Justin.Wallace@coaldbloodedmining.com,6026957062,2015-10-25,9999-12-31,Operations,Machine Operator
+EMP-0314,Margaret,Burns,Margaret Burns,Margaret.Burns@coaldbloodedmining.com,6382218593,2016-05-01,2019-10-25,Operations,Machine Operator
+EMP-0253,Timothy,Hernandez,Timothy Hernandez,Timothy.Hernandez@coaldbloodedmining.com,721-286-9365,2015-02-28,2015-11-01,Sales,Business Development Manager
+EMP-0424,Christopher,Perez,Christopher Perez,Christopher.Perez@coaldbloodedmining.com,428-972-5451,2016-12-11,9999-12-31,Operations,Machine Operator
+EMP-0171,Megan,White,Megan White,Megan.White@coaldbloodedmining.com,(271)218-6555,2015-05-22,9999-12-31,Finance,Accountant
+EMP-0125,Kelsey,Burke,Kelsey Burke,Kelsey.Burke@coaldbloodedmining.com,(708)312-8672,2017-11-21,9999-12-31,Operations,Machine Operator
+EMP-0490,Jacqueline,White,Jacqueline White,Jacqueline.White@coaldbloodedmining.com,966-648-2036,2016-05-01,9999-12-31,Operations,Machine Operator
+EMP-0167,Pamela,Smith,Pamela Smith,Pamela.Smith@coaldbloodedmining.com,(782)286-8770,2016-12-15,9999-12-31,Operations,Engineer
+EMP-0361,Marcus,Hall,Marcus Hall,Marcus.Hall@coaldbloodedmining.com,(827)695-9061,2016-12-15,9999-12-31,Operations,Operations Manager
+EMP-0033,Rodney,Peterson,Rodney Peterson,Rodney.Peterson@coaldbloodedmining.com,834-888-5607,2016-11-22,9999-12-31,HR,HR Officer
+EMP-0098,Lauren,Hunter,Lauren Hunter,Lauren.Hunter@coaldbloodedmining.com,3856192999,2016-02-07,9999-12-31,Operations,Machine Operator
+EMP-0291,Nicholas,Hoffman,Nicholas Hoffman,Nicholas.Hoffman@coaldbloodedmining.com,569-993-7950,2019-01-14,9999-12-31,Operations,Scheduler
+EMP-0114,Thomas,Mckenzie,Thomas Mckenzie,Thomas.Mckenzie@coaldbloodedmining.com,4526881011,2019-09-05,2020-12-19,Finance,Accountant
+EMP-0123,William,White,William White,William.White@coaldbloodedmining.com,3713008042,2018-08-27,9999-12-31,Operations,Machine Operator
+EMP-0412,Michael,White,Michael White,Michael.White@coaldbloodedmining.com,(946)768-3530,2015-12-18,9999-12-31,IT,IT Specialist
+EMP-0073,Olivia,Huffman,Olivia Huffman,Olivia.Huffman@coaldbloodedmining.com,537-339-2545,2018-05-11,9999-12-31,Operations,Machine Operator
+EMP-0468,Philip,Jones,Philip Jones,Philip.Jones@coaldbloodedmining.com,836-829-3721,2020-07-01,9999-12-31,Operations,Scheduler
+EMP-0279,Devin,Garcia,Devin Garcia,Devin.Garcia@coaldbloodedmining.com,799-424-3488,2017-12-28,2019-12-16,Operations,Scheduler
+EMP-0230,Donna,Spencer,Donna Spencer,Donna.Spencer@coaldbloodedmining.com,4377681931,2018-07-26,2022-05-22,Operations,Operations Manager
+EMP-0047,Richard,Wade,Richard Wade,Richard.Wade@coaldbloodedmining.com,(575)530-4618,2016-10-15,9999-12-31,Operations,Machine Operator
+EMP-0042,Nicole,Hogan,Nicole Hogan,Nicole.Hogan@coaldbloodedmining.com,238-698-5651,2017-04-06,9999-12-31,Operations,Machine Operator
+EMP-0164,Rachel,Martinez,Rachel Martinez,Rachel.Martinez@coaldbloodedmining.com,8688179430,2019-07-08,9999-12-31,Operations,Machine Operator
+EMP-0261,Joseph,Perez,Joseph Perez,Joseph.Perez@coaldbloodedmining.com,7014171791,2015-04-20,2018-12-07,Finance,Administration Officer
+EMP-0251,Michael,Foster,Michael Foster,Michael.Foster@coaldbloodedmining.com,(355)752-9705,2016-10-31,9999-12-31,Operations,Machine Operator
+EMP-0056,Sarah,Wise,Sarah Wise,Sarah.Wise@coaldbloodedmining.com,3238984443,2016-03-26,2019-09-09,Finance,Administration Officer
+EMP-0155,Joseph,Peters,Joseph Peters,Joseph.Peters@coaldbloodedmining.com,3759184327,2019-02-10,9999-12-31,Operations,Engineer
+EMP-0448,Mark,Evans,Mark Evans,Mark.Evans@coaldbloodedmining.com,2332691609,2020-11-01,2024-07-08,Operations,Scheduler
+EMP-0150,Isaiah,Watson,Isaiah Watson,Isaiah.Watson@coaldbloodedmining.com,495-658-9283,2015-05-23,9999-12-31,Operations,Machine Operator
+EMP-0469,Leslie,Lang,Leslie Lang,Leslie.Lang@coaldbloodedmining.com,8029371865,2017-09-10,9999-12-31,Sales,Business Development Manager
+EMP-0064,Darren,Campbell,Darren Campbell,Darren.Campbell@coaldbloodedmining.com,(501)230-0373,2015-11-19,2018-05-20,Operations,Surveyor
+EMP-0440,Sharon,Smith,Sharon Smith,Sharon.Smith@coaldbloodedmining.com,(801)309-6947,2017-04-27,9999-12-31,Operations,Scheduler
+EMP-0488,Kurt,Floyd,Kurt Floyd,Kurt.Floyd@coaldbloodedmining.com,9073769131,2020-07-02,2023-06-11,Operations,Machine Operator
+EMP-0277,Ryan,Martin,Ryan Martin,Ryan.Martin@coaldbloodedmining.com,(613)369-6490,2018-07-19,9999-12-31,Operations,Machine Operator
+EMP-0449,Tristan,Short,Tristan Short,Tristan.Short@coaldbloodedmining.com,(642)808-8970,2018-12-01,9999-12-31,HR,HR Officer
+EMP-0467,Keith,Hickman,Keith Hickman,Keith.Hickman@coaldbloodedmining.com,(917)499-3150,2017-07-21,9999-12-31,Operations,Scheduler
+EMP-0399,Hunter,Douglas,Hunter Douglas,Hunter.Douglas@coaldbloodedmining.com,(750)478-9414,2019-12-12,9999-12-31,Data Analytics,Analyst
+EMP-0301,Christopher,Walker,Christopher Walker,Christopher.Walker@coaldbloodedmining.com,5029040096,2016-03-25,9999-12-31,Corporate,CEO
+EMP-0148,Christopher,Brown,Christopher Brown,Christopher.Brown@coaldbloodedmining.com,5108288693,2018-01-21,2021-09-19,Operations,Machine Operator
+EMP-0228,Alfred,Bell,Alfred Bell,Alfred.Bell@coaldbloodedmining.com,959-264-0907,2015-08-17,9999-12-31,Finance,Administration Officer
+EMP-0473,Matthew,Taylor,Matthew Taylor,Matthew.Taylor@coaldbloodedmining.com,(965)481-9551,2015-02-12,9999-12-31,Finance,Administration Officer
+EMP-0306,David,Cline,David Cline,David.Cline@coaldbloodedmining.com,5109163665,2018-09-23,2022-02-23,Operations,Machine Operator
+EMP-0499,Andrew,Johnson,Andrew Johnson,Andrew.Johnson@coaldbloodedmining.com,(734)317-1024,2017-01-15,2019-12-10,Finance,Payroll Officer
+EMP-0163,Jennifer,Castillo,Jennifer Castillo,Jennifer.Castillo@coaldbloodedmining.com,8625288380,2020-07-30,9999-12-31,Operations,Machine Operator
+EMP-0295,David,Anderson,David Anderson,David.Anderson@coaldbloodedmining.com,813-486-3937,2015-10-03,9999-12-31,Operations,Engineer
+EMP-0124,Angela,Hart,Angela Hart,Angela.Hart@coaldbloodedmining.com,999-487-6526,2016-03-02,9999-12-31,IT,IT Specialist
+EMP-0149,Charles,Bell,Charles Bell,Charles.Bell@coaldbloodedmining.com,327-570-5741,2016-10-22,2020-11-09,Operations,Engineer
+EMP-0095,Rachel,Griffin,Rachel Griffin,Rachel.Griffin@coaldbloodedmining.com,8162443272,2016-04-06,9999-12-31,Operations,Scheduler
+EMP-0097,Jennifer,Campbell,Jennifer Campbell,Jennifer.Campbell@coaldbloodedmining.com,(399)503-1484,2020-10-10,9999-12-31,Data Analytics,Analyst
+EMP-0096,Kayla,Holland,Kayla Holland,Kayla.Holland@coaldbloodedmining.com,6745032128,2019-12-11,9999-12-31,Operations,Machine Operator
+EMP-0017,Meghan,Smith,Meghan Smith,Meghan.Smith@coaldbloodedmining.com,(528)247-4597,2019-02-21,9999-12-31,Operations,Scheduler
+EMP-0428,Jessica,Robinson,Jessica Robinson,Jessica.Robinson@coaldbloodedmining.com,9297390042,2018-12-25,9999-12-31,Operations,Machine Operator
+EMP-0337,Elijah,Brown,Elijah Brown,Elijah.Brown@coaldbloodedmining.com,5567196747,2015-03-05,9999-12-31,Corporate,CEO
+EMP-0443,Tony,Walter,Tony Walter,Tony.Walter@coaldbloodedmining.com,255-891-5301,2017-08-09,9999-12-31,Operations,Machine Operator
+EMP-0244,Robert,Ortiz,Robert Ortiz,Robert.Ortiz@coaldbloodedmining.com,378-454-8167,2020-10-26,9999-12-31,Operations,Machine Operator
+EMP-0036,Kimberly,Crosby,Kimberly Crosby,Kimberly.Crosby@coaldbloodedmining.com,291-871-4261,2017-05-11,2020-09-16,Operations,Machine Operator
+EMP-0046,Karen,Dickerson,Karen Dickerson,Karen.Dickerson@coaldbloodedmining.com,476-872-3612,2016-02-23,2018-10-17,Operations,Operations Manager
+EMP-0348,Jennifer,Allen,Jennifer Allen,Jennifer.Allen@coaldbloodedmining.com,(516)791-0579,2020-10-28,9999-12-31,Sales,Business Development Manager
+EMP-0067,Angela,Price,Angela Price,Angela.Price@coaldbloodedmining.com,5435555273,2017-04-08,9999-12-31,Operations,Machine Operator
+EMP-0077,Heather,Morris,Heather Morris,Heather.Morris@coaldbloodedmining.com,888-777-0211,2018-06-17,9999-12-31,Operations,Machine Operator
+EMP-0020,Jesse,Kramer,Jesse Kramer,Jesse.Kramer@coaldbloodedmining.com,3013534979,2019-01-10,9999-12-31,Operations,Engineer
+EMP-0409,Jonathan,Brown,Jonathan Brown,Jonathan.Brown@coaldbloodedmining.com,3224387754,2016-05-20,9999-12-31,Operations,Machine Operator
+EMP-0359,Mark,Baldwin,Mark Baldwin,Mark.Baldwin@coaldbloodedmining.com,(301)573-2346,2017-08-15,9999-12-31,Operations,Scheduler
+EMP-0397,Kristie,Thomas,Kristie Thomas,Kristie.Thomas@coaldbloodedmining.com,654-808-3050,2019-05-19,9999-12-31,Marketing,Marketing Specialist
+EMP-0350,Jennifer,Watson,Jennifer Watson,Jennifer.Watson@coaldbloodedmining.com,(846)694-7271,2020-08-13,2021-05-10,Operations,Machine Operator
+EMP-0201,Timothy,Cook,Timothy Cook,Timothy.Cook@coaldbloodedmining.com,4325903780,2020-11-30,9999-12-31,Operations,Machine Operator
+EMP-0401,Keith,Garcia,Keith Garcia,Keith.Garcia@coaldbloodedmining.com,(880)775-3007,2018-03-02,2019-11-14,Operations,Machine Operator
+EMP-0269,Jennifer,Shaw,Jennifer Shaw,Jennifer.Shaw@coaldbloodedmining.com,(560)249-8116,2016-10-31,9999-12-31,Data Analytics,Analyst
+EMP-0142,Brandon,Bennett,Brandon Bennett,Brandon.Bennett@coaldbloodedmining.com,710-761-9153,2016-04-13,2018-08-01,Finance,Payroll Officer
+EMP-0268,Karen,Allen,Karen Allen,Karen.Allen@coaldbloodedmining.com,2226374686,2017-11-25,9999-12-31,Operations,Machine Operator
+EMP-0121,Jennifer,Diaz,Jennifer Diaz,Jennifer.Diaz@coaldbloodedmining.com,985-708-8772,2020-06-02,9999-12-31,Operations,Machine Operator
+EMP-0111,Lisa,Green,Lisa Green,Lisa.Green@coaldbloodedmining.com,645-732-2648,2015-05-01,9999-12-31,Sales,Business Development Manager
+EMP-0373,Samantha,Peterson,Samantha Peterson,Samantha.Peterson@coaldbloodedmining.com,249-762-1079,2019-01-05,9999-12-31,Operations,Scheduler
+EMP-0302,Leslie,Mathis,Leslie Mathis,Leslie.Mathis@coaldbloodedmining.com,895-539-0532,2015-04-06,2016-11-07,Operations,Machine Operator
+EMP-0215,Todd,Morris,Todd Morris,Todd.Morris@coaldbloodedmining.com,(239)551-9651,2017-10-17,9999-12-31,Operations,Machine Operator
+EMP-0297,Amanda,Garcia,Amanda Garcia,Amanda.Garcia@coaldbloodedmining.com,339-723-7253,2018-06-10,9999-12-31,Operations,Scheduler
+EMP-0141,Willie,Bailey,Willie Bailey,Willie.Bailey@coaldbloodedmining.com,410-680-2616,2016-01-31,9999-12-31,Operations,Scheduler
+EMP-0231,Tina,Morales,Tina Morales,Tina.Morales@coaldbloodedmining.com,705-258-6019,2019-06-22,9999-12-31,Operations,Machine Operator
+EMP-0427,Kevin,Davidson,Kevin Davidson,Kevin.Davidson@coaldbloodedmining.com,(371)956-8523,2019-12-20,9999-12-31,Operations,Machine Operator
+EMP-0339,Daniel,Mosley,Daniel Mosley,Daniel.Mosley@coaldbloodedmining.com,7016338187,2016-09-09,9999-12-31,Finance,Payroll Officer
+EMP-0329,Gina,Smith,Gina Smith,Gina.Smith@coaldbloodedmining.com,352-887-2225,2018-08-06,9999-12-31,Operations,Surveyor
+EMP-0183,Keith,Brown,Keith Brown,Keith.Brown@coaldbloodedmining.com,(327)476-1567,2016-08-04,9999-12-31,Operations,Machine Operator
+EMP-0043,Thomas,Gomez,Thomas Gomez,Thomas.Gomez@coaldbloodedmining.com,7978359531,2017-11-04,9999-12-31,Operations,Machine Operator
+EMP-0422,Austin,Walker,Austin Walker,Austin.Walker@coaldbloodedmining.com,4853986769,2016-10-14,2018-08-27,Operations,Machine Operator
+EMP-0379,Raymond,Snyder,Raymond Snyder,Raymond.Snyder@coaldbloodedmining.com,406-359-6186,2019-02-19,9999-12-31,IT,IT Specialist
+EMP-0060,Nathan,Matthews,Nathan Matthews,Nathan.Matthews@coaldbloodedmining.com,(242)991-3421,2018-09-07,9999-12-31,Operations,Operations Manager
+EMP-0250,Kenneth,Graham,Kenneth Graham,Kenneth.Graham@coaldbloodedmining.com,9192741967,2016-07-25,9999-12-31,Operations,Machine Operator
+EMP-0393,Renee,Hicks,Renee Hicks,Renee.Hicks@coaldbloodedmining.com,712-212-4042,2020-01-22,9999-12-31,Operations,Machine Operator
+EMP-0323,Brian,Brown,Brian Brown,Brian.Brown@coaldbloodedmining.com,9804984426,2016-05-08,9999-12-31,Operations,Machine Operator
+EMP-0172,Manuel,Newman,Manuel Newman,Manuel.Newman@coaldbloodedmining.com,(285)768-7136,2020-02-06,9999-12-31,Operations,Machine Operator
+EMP-0419,Daniel,Porter,Daniel Porter,Daniel.Porter@coaldbloodedmining.com,592-597-7494,2016-04-22,9999-12-31,Sales,Business Development Manager
+EMP-0426,Angelica,Carpenter,Angelica Carpenter,Angelica.Carpenter@coaldbloodedmining.com,249-660-5076,2017-11-18,9999-12-31,Operations,Operations Manager
+EMP-0009,Meredith,Pennington,Meredith Pennington,Meredith.Pennington@coaldbloodedmining.com,(796)909-8957,2015-09-21,9999-12-31,Operations,Machine Operator
+EMP-0139,Claire,Williams,Claire Williams,Claire.Williams@coaldbloodedmining.com,488-801-6390,2015-09-20,2018-09-16,Finance,Payroll Officer
+EMP-0345,Trevor,Johnson,Trevor Johnson,Trevor.Johnson@coaldbloodedmining.com,301-425-6205,2015-08-15,9999-12-31,Operations,Machine Operator
+EMP-0113,Amy,Gentry,Amy Gentry,Amy.Gentry@coaldbloodedmining.com,3295919109,2020-05-23,9999-12-31,Operations,Machine Operator
+EMP-0191,Rebekah,Dean,Rebekah Dean,Rebekah.Dean@coaldbloodedmining.com,(434)344-2374,2017-09-12,9999-12-31,Operations,Machine Operator
+EMP-0088,Wanda,Rodriguez,Wanda Rodriguez,Wanda.Rodriguez@coaldbloodedmining.com,(793)943-6147,2018-04-19,9999-12-31,Operations,Machine Operator
+EMP-0398,Kristin,Chen,Kristin Chen,Kristin.Chen@coaldbloodedmining.com,(877)298-4445,2015-10-04,9999-12-31,Data Analytics,Analyst
+EMP-0219,Melody,Scott,Melody Scott,Melody.Scott@coaldbloodedmining.com,7699094531,2016-10-01,9999-12-31,Operations,Machine Operator
+EMP-0442,Mark,Peterson,Mark Peterson,Mark.Peterson@coaldbloodedmining.com,7689678449,2018-08-28,9999-12-31,Operations,Machine Operator
+EMP-0455,Amy,Marquez,Amy Marquez,Amy.Marquez@coaldbloodedmining.com,(386)783-3305,2018-01-12,2019-11-30,Operations,Machine Operator
+EMP-0075,Edward,Pham,Edward Pham,Edward.Pham@coaldbloodedmining.com,943-993-9569,2017-03-11,9999-12-31,Operations,Machine Operator
+EMP-0335,Max,Herrera,Max Herrera,Max.Herrera@coaldbloodedmining.com,3568865908,2016-10-24,9999-12-31,Finance,Accountant
+EMP-0024,Stephen,Ramirez,Stephen Ramirez,Stephen.Ramirez@coaldbloodedmining.com,2003791937,2016-11-21,9999-12-31,Sales,Business Development Manager
+EMP-0294,Adam,Lewis,Adam Lewis,Adam.Lewis@coaldbloodedmining.com,835-246-8831,2017-03-30,2017-12-28,Finance,Administration Officer
+EMP-0274,Hayden,Jones,Hayden Jones,Hayden.Jones@coaldbloodedmining.com,784-324-8917,2019-06-22,9999-12-31,HR,HR Officer
+EMP-0395,Lori,Horn,Lori Horn,Lori.Horn@coaldbloodedmining.com,966-351-9989,2017-04-20,2018-11-03,Operations,Machine Operator
+EMP-0461,Robert,Bryant,Robert Bryant,Robert.Bryant@coaldbloodedmining.com,407-741-6690,2019-10-18,2022-03-25,Operations,Machine Operator
+EMP-0014,Christina,Robertson,Christina Robertson,Christina.Robertson@coaldbloodedmining.com,(442)271-8153,2019-08-05,2023-07-23,Finance,Administration Officer
+EMP-0400,Karen,Robinson,Karen Robinson,Karen.Robinson@coaldbloodedmining.com,464-365-1527,2018-10-30,2020-04-28,Operations,Machine Operator
+EMP-0382,Zachary,Villa,Zachary Villa,Zachary.Villa@coaldbloodedmining.com,(863)888-7922,2017-12-23,9999-12-31,Operations,Machine Operator
+EMP-0311,Kevin,Jackson,Kevin Jackson,Kevin.Jackson@coaldbloodedmining.com,(538)868-1386,2015-11-21,9999-12-31,Operations,Machine Operator
+EMP-0386,Thomas,Taylor,Thomas Taylor,Thomas.Taylor@coaldbloodedmining.com,7065314518,2017-07-30,9999-12-31,Operations,Machine Operator
+EMP-0062,Susan,Maldonado,Susan Maldonado,Susan.Maldonado@coaldbloodedmining.com,5764362821,2019-05-30,9999-12-31,Operations,Machine Operator
+EMP-0365,Jonathan,Lopez,Jonathan Lopez,Jonathan.Lopez@coaldbloodedmining.com,225-289-7542,2020-09-01,9999-12-31,IT,IT Specialist
+EMP-0390,Sean,Barrett,Sean Barrett,Sean.Barrett@coaldbloodedmining.com,764-552-6417,2018-04-13,9999-12-31,Operations,Machine Operator
+EMP-0190,Carolyn,Murphy,Carolyn Murphy,Carolyn.Murphy@coaldbloodedmining.com,(558)471-7137,2020-06-21,9999-12-31,Operations,Machine Operator
+EMP-0336,Steven,Kim,Steven Kim,Steven.Kim@coaldbloodedmining.com,(735)851-1190,2019-03-28,9999-12-31,Finance,Payroll Officer
+EMP-0019,Kara,Collins,Kara Collins,Kara.Collins@coaldbloodedmining.com,(337)470-0419,2018-08-11,9999-12-31,Operations,Operations Manager
+EMP-0012,Megan,Hamilton,Megan Hamilton,Megan.Hamilton@coaldbloodedmining.com,906-546-8413,2017-02-12,9999-12-31,Finance,Accountant
+EMP-0100,Kathryn,Rollins,Kathryn Rollins,Kathryn.Rollins@coaldbloodedmining.com,862-878-3602,2018-12-13,9999-12-31,Operations,Machine Operator
+EMP-0383,Anna,Hernandez,Anna Hernandez,Anna.Hernandez@coaldbloodedmining.com,748-254-7755,2020-06-06,2021-11-29,Finance,Administration Officer
+EMP-0320,Scott,Hansen,Scott Hansen,Scott.Hansen@coaldbloodedmining.com,3306692517,2018-06-02,2020-06-14,Operations,Scheduler
+EMP-0246,Carl,Bradley,Carl Bradley,Carl.Bradley@coaldbloodedmining.com,(443)549-6719,2019-11-29,9999-12-31,Operations,Scheduler
+EMP-0108,James,Morgan,James Morgan,James.Morgan@coaldbloodedmining.com,7667686646,2017-01-21,2019-09-14,Finance,Administration Officer
+EMP-0330,Mary,Jones,Mary Jones,Mary.Jones@coaldbloodedmining.com,897-485-6548,2017-05-04,2019-05-15,Operations,Machine Operator
+EMP-0310,Christine,Turner,Christine Turner,Christine.Turner@coaldbloodedmining.com,692-278-2022,2016-10-30,2018-12-29,Operations,Machine Operator
+EMP-0441,Gina,Butler,Gina Butler,Gina.Butler@coaldbloodedmining.com,(614)540-2305,2018-12-23,9999-12-31,Finance,Administration Officer
+EMP-0218,Jennifer,Gordon,Jennifer Gordon,Jennifer.Gordon@coaldbloodedmining.com,(530)646-1417,2016-01-29,9999-12-31,Operations,Machine Operator
+EMP-0366,Paul,Jarvis,Paul Jarvis,Paul.Jarvis@coaldbloodedmining.com,(211)342-0728,2016-10-29,9999-12-31,Operations,Machine Operator
+EMP-0377,Donna,Donovan,Donna Donovan,Donna.Donovan@coaldbloodedmining.com,5448620761,2017-07-30,2021-08-01,Operations,Machine Operator
+EMP-0375,Kristie,Kelly,Kristie Kelly,Kristie.Kelly@coaldbloodedmining.com,7954308799,2017-01-19,9999-12-31,Operations,Machine Operator
+EMP-0417,Kimberly,Jenkins,Kimberly Jenkins,Kimberly.Jenkins@coaldbloodedmining.com,986-468-8221,2020-10-22,9999-12-31,Operations,Operations Manager
+EMP-0037,Jennifer,Castro,Jennifer Castro,Jennifer.Castro@coaldbloodedmining.com,(689)725-6251,2015-01-22,2018-06-27,Operations,Operations Manager
+EMP-0404,Larry,Simmons,Larry Simmons,Larry.Simmons@coaldbloodedmining.com,(775)722-1613,2017-12-27,2020-07-25,Sales,Business Development Manager
+EMP-0180,James,Hernandez,James Hernandez,James.Hernandez@coaldbloodedmining.com,239-771-5210,2020-08-24,9999-12-31,Data Analytics,Analyst
+EMP-0224,Lauren,Fields,Lauren Fields,Lauren.Fields@coaldbloodedmining.com,(942)896-8598,2016-06-23,9999-12-31,Operations,Machine Operator
+EMP-0093,Christopher,Johnson,Christopher Johnson,Christopher.Johnson@coaldbloodedmining.com,267-276-0843,2019-08-27,9999-12-31,Sales,Business Development Manager
+EMP-0304,Karen,Richardson,Karen Richardson,Karen.Richardson@coaldbloodedmining.com,(325)552-1779,2018-09-15,9999-12-31,IT,IT Specialist
+EMP-0258,Brenda,Richards,Brenda Richards,Brenda.Richards@coaldbloodedmining.com,5749197526,2019-06-21,2021-02-24,Operations,Machine Operator
+EMP-0240,William,Meyer,William Meyer,William.Meyer@coaldbloodedmining.com,(478)794-7656,2019-09-26,9999-12-31,Operations,Machine Operator
+EMP-0495,Dustin,Peters,Dustin Peters,Dustin.Peters@coaldbloodedmining.com,365-378-1610,2019-09-06,9999-12-31,Operations,Machine Operator
+EMP-0300,Mackenzie,Campbell,Mackenzie Campbell,Mackenzie.Campbell@coaldbloodedmining.com,492-587-6293,2016-03-25,9999-12-31,Operations,Engineer
+EMP-0315,Lisa,Montgomery,Lisa Montgomery,Lisa.Montgomery@coaldbloodedmining.com,354-463-0533,2018-12-30,9999-12-31,Operations,Engineer
+EMP-0103,Juan,Norris,Juan Norris,Juan.Norris@coaldbloodedmining.com,6672750415,2020-06-30,2022-10-05,Operations,Machine Operator
+EMP-0484,Carla,Ramos,Carla Ramos,Carla.Ramos@coaldbloodedmining.com,(705)979-6312,2015-09-20,2016-11-28,Operations,Surveyor
+EMP-0485,Maurice,Johnson,Maurice Johnson,Maurice.Johnson@coaldbloodedmining.com,(632)870-9166,2017-03-03,9999-12-31,Operations,Machine Operator
+EMP-0241,Karen,Thomas,Karen Thomas,Karen.Thomas@coaldbloodedmining.com,9624147178,2019-10-17,9999-12-31,Operations,Machine Operator
+EMP-0087,Tiffany,Warren,Tiffany Warren,Tiffany.Warren@coaldbloodedmining.com,7657998988,2016-02-28,2019-11-20,Sales,Business Development Manager
+EMP-0396,Anthony,Arias,Anthony Arias,Anthony.Arias@coaldbloodedmining.com,584-455-3635,2019-08-21,9999-12-31,Operations,Machine Operator
+EMP-0030,David,Austin,David Austin,David.Austin@coaldbloodedmining.com,(727)924-5729,2020-12-29,9999-12-31,Operations,Machine Operator
+EMP-0082,Amanda,Thomas,Amanda Thomas,Amanda.Thomas@coaldbloodedmining.com,402-895-2777,2017-02-26,2018-07-02,Operations,Machine Operator
+EMP-0083,Lynn,Scott,Lynn Scott,Lynn.Scott@coaldbloodedmining.com,(281)805-0626,2015-01-21,2019-01-26,Operations,Scheduler
+EMP-0176,Dillon,Hernandez,Dillon Hernandez,Dillon.Hernandez@coaldbloodedmining.com,(766)574-5934,2020-02-17,9999-12-31,Finance,Payroll Officer
+EMP-0272,James,Woodward,James Woodward,James.Woodward@coaldbloodedmining.com,747-341-8855,2016-10-30,9999-12-31,Operations,Engineer
+EMP-0472,Nicole,Smith,Nicole Smith,Nicole.Smith@coaldbloodedmining.com,653-640-2318,2017-10-19,2020-07-17,Operations,Machine Operator
+EMP-0061,Jennifer,Campbell,Jennifer Campbell,Jennifer.Campbell@coaldbloodedmining.com,4637979717,2020-12-02,9999-12-31,Operations,Machine Operator
+EMP-0446,Rita,Thompson,Rita Thompson,Rita.Thompson@coaldbloodedmining.com,(774)939-6228,2016-06-30,9999-12-31,Operations,Machine Operator
+EMP-0090,Margaret,Jackson,Margaret Jackson,Margaret.Jackson@coaldbloodedmining.com,4037162036,2016-01-21,9999-12-31,Finance,Administration Officer
+EMP-0007,Michelle,Chavez,Michelle Chavez,Michelle.Chavez@coaldbloodedmining.com,(409)432-4159,2020-07-12,9999-12-31,Operations,Machine Operator
+EMP-0483,Ann,Reed,Ann Reed,Ann.Reed@coaldbloodedmining.com,555-596-2479,2019-11-10,9999-12-31,Sales,Business Development Manager
+EMP-0210,Stacy,Massey,Stacy Massey,Stacy.Massey@coaldbloodedmining.com,8346529629,2020-05-15,9999-12-31,Operations,Machine Operator
+EMP-0407,Joshua,Copeland,Joshua Copeland,Joshua.Copeland@coaldbloodedmining.com,3848236438,2020-03-28,9999-12-31,Operations,Machine Operator
+EMP-0160,Anna,Davis,Anna Davis,Anna.Davis@coaldbloodedmining.com,954-234-7602,2020-09-28,9999-12-31,Operations,Machine Operator
+EMP-0349,Diana,Ramos,Diana Ramos,Diana.Ramos@coaldbloodedmining.com,(593)991-4613,2020-09-12,9999-12-31,Operations,Machine Operator
+EMP-0199,James,Williams,James Williams,James.Williams@coaldbloodedmining.com,541-696-6359,2015-01-24,9999-12-31,Sales,Business Development Manager
+EMP-0324,Jessica,Hood,Jessica Hood,Jessica.Hood@coaldbloodedmining.com,649-867-5053,2016-04-19,9999-12-31,Operations,Machine Operator
+EMP-0079,Frank,Williams,Frank Williams,Frank.Williams@coaldbloodedmining.com,(520)402-0961,2018-05-04,9999-12-31,Operations,Machine Operator
+EMP-0270,Megan,Gordon,Megan Gordon,Megan.Gordon@coaldbloodedmining.com,(683)816-0764,2017-09-09,9999-12-31,Finance,Administration Officer
+EMP-0235,Glenn,Mayo,Glenn Mayo,Glenn.Mayo@coaldbloodedmining.com,8683697772,2018-11-09,9999-12-31,Operations,Machine Operator
+EMP-0041,Thomas,Rice,Thomas Rice,Thomas.Rice@coaldbloodedmining.com,(310)817-1950,2019-05-29,9999-12-31,Operations,Machine Operator
+EMP-0341,Leonard,Campbell,Leonard Campbell,Leonard.Campbell@coaldbloodedmining.com,633-739-4772,2020-02-10,9999-12-31,Operations,Scheduler
+EMP-0326,Sarah,Sanders,Sarah Sanders,Sarah.Sanders@coaldbloodedmining.com,5079404898,2020-12-12,9999-12-31,Finance,Accountant
+EMP-0144,Stephanie,Edwards,Stephanie Edwards,Stephanie.Edwards@coaldbloodedmining.com,273-789-4433,2020-06-13,9999-12-31,Operations,Scheduler
+EMP-0035,Nicholas,Pearson,Nicholas Pearson,Nicholas.Pearson@coaldbloodedmining.com,(238)940-3376,2019-12-29,9999-12-31,Finance,Administration Officer
+EMP-0316,Christian,Mccoy,Christian Mccoy,Christian.Mccoy@coaldbloodedmining.com,(204)835-9645,2018-02-10,9999-12-31,HR,HR Officer
+EMP-0196,Stephanie,Crawford,Stephanie Crawford,Stephanie.Crawford@coaldbloodedmining.com,284-204-0295,2020-03-18,9999-12-31,Operations,Machine Operator
+EMP-0447,Robert,Martinez,Robert Martinez,Robert.Martinez@coaldbloodedmining.com,(535)868-2649,2020-04-24,9999-12-31,Operations,Scheduler
+EMP-0385,Brian,Berg,Brian Berg,Brian.Berg@coaldbloodedmining.com,(268)536-6451,2020-06-08,9999-12-31,Operations,Machine Operator
+EMP-0091,Sheena,Hill,Sheena Hill,Sheena.Hill@coaldbloodedmining.com,6783115599,2019-12-17,9999-12-31,Finance,Administration Officer
+EMP-0157,Amanda,Sanders,Amanda Sanders,Amanda.Sanders@coaldbloodedmining.com,(427)293-0332,2019-03-12,9999-12-31,Operations,Engineer
+EMP-0074,Angela,Sanders,Angela Sanders,Angela.Sanders@coaldbloodedmining.com,445-627-3833,2015-06-30,9999-12-31,Data Analytics,Analyst
+EMP-0173,David,Aguirre,David Aguirre,David.Aguirre@coaldbloodedmining.com,(984)692-3428,2015-05-09,9999-12-31,Operations,Scheduler
+EMP-0092,Olivia,Bell,Olivia Bell,Olivia.Bell@coaldbloodedmining.com,(760)680-3073,2015-08-15,9999-12-31,Operations,Machine Operator
+EMP-0152,Michael,Guerra,Michael Guerra,Michael.Guerra@coaldbloodedmining.com,253-682-3727,2016-12-21,9999-12-31,Finance,Administration Officer
+EMP-0243,William,Cummings,William Cummings,William.Cummings@coaldbloodedmining.com,(632)952-6804,2019-12-29,2023-04-27,Operations,Engineer
+EMP-0229,Daniel,Hartman,Daniel Hartman,Daniel.Hartman@coaldbloodedmining.com,996-455-2663,2015-11-04,9999-12-31,Finance,Payroll Officer
+EMP-0476,Sarah,Blair,Sarah Blair,Sarah.Blair@coaldbloodedmining.com,(333)357-8949,2015-03-12,9999-12-31,Operations,Scheduler
+EMP-0331,Nicholas,Braun,Nicholas Braun,Nicholas.Braun@coaldbloodedmining.com,2748713972,2015-12-11,9999-12-31,Data Analytics,Analyst
+EMP-0464,Tina,Wilson,Tina Wilson,Tina.Wilson@coaldbloodedmining.com,946-465-8594,2019-07-11,2021-06-07,Operations,Scheduler
+EMP-0034,Christopher,Moreno,Christopher Moreno,Christopher.Moreno@coaldbloodedmining.com,633-471-3208,2016-11-18,9999-12-31,Operations,Machine Operator
+EMP-0403,Samantha,Johnson,Samantha Johnson,Samantha.Johnson@coaldbloodedmining.com,2063983455,2020-10-24,9999-12-31,Operations,Operations Manager
+EMP-0080,Stephanie,Jimenez,Stephanie Jimenez,Stephanie.Jimenez@coaldbloodedmining.com,3366938718,2015-01-11,9999-12-31,Finance,Administration Officer
+EMP-0342,Jeremy,Mann,Jeremy Mann,Jeremy.Mann@coaldbloodedmining.com,(398)857-5452,2019-04-14,9999-12-31,Operations,Machine Operator
+EMP-0192,John,James,John James,John.James@coaldbloodedmining.com,(537)524-3053,2020-11-04,9999-12-31,Operations,Surveyor
+EMP-0107,Eric,Lozano,Eric Lozano,Eric.Lozano@coaldbloodedmining.com,298-453-9729,2019-06-05,9999-12-31,Operations,Machine Operator
+EMP-0213,John,Williams,John Williams,John.Williams@coaldbloodedmining.com,(251)229-7963,2017-02-22,9999-12-31,Finance,Accountant
+EMP-0347,Jonathan,Ramirez,Jonathan Ramirez,Jonathan.Ramirez@coaldbloodedmining.com,601-433-3940,2017-07-30,9999-12-31,HR,HR Officer
+EMP-0288,George,Watson,George Watson,George.Watson@coaldbloodedmining.com,7647110902,2018-11-07,9999-12-31,Operations,Machine Operator
+EMP-0429,Aaron,Carroll,Aaron Carroll,Aaron.Carroll@coaldbloodedmining.com,(564)572-5447,2019-02-01,2021-02-28,Operations,Machine Operator
+EMP-0153,Kristopher,Wiley,Kristopher Wiley,Kristopher.Wiley@coaldbloodedmining.com,(210)919-3433,2017-04-09,9999-12-31,Operations,Machine Operator
+EMP-0050,Susan,Knight,Susan Knight,Susan.Knight@coaldbloodedmining.com,(754)723-0253,2019-11-09,9999-12-31,Data Analytics,Analyst
+EMP-0179,Katherine,Gomez,Katherine Gomez,Katherine.Gomez@coaldbloodedmining.com,6199934511,2020-05-24,9999-12-31,Operations,Machine Operator
+EMP-0086,Donald,Beasley,Donald Beasley,Donald.Beasley@coaldbloodedmining.com,7005652259,2018-09-20,9999-12-31,HR,HR Officer
+EMP-0480,Jeffrey,Massey,Jeffrey Massey,Jeffrey.Massey@coaldbloodedmining.com,(789)467-8463,2020-05-14,2022-10-17,IT,IT Specialist
+EMP-0254,Melissa,Walker,Melissa Walker,Melissa.Walker@coaldbloodedmining.com,4004991745,2020-07-15,2022-01-09,Operations,Machine Operator
+EMP-0058,Joseph,Patrick,Joseph Patrick,Joseph.Patrick@coaldbloodedmining.com,576-799-9074,2015-01-24,9999-12-31,Finance,Payroll Officer
+EMP-0408,John,Young,John Young,John.Young@coaldbloodedmining.com,237-781-1891,2020-04-29,9999-12-31,Data Analytics,Analyst
+EMP-0115,Daniel,Dean,Daniel Dean,Daniel.Dean@coaldbloodedmining.com,3833171506,2019-06-25,9999-12-31,Operations,Machine Operator
+EMP-0319,Richard,Ashley,Richard Ashley,Richard.Ashley@coaldbloodedmining.com,9668372349,2019-06-05,9999-12-31,IT,IT Specialist
+EMP-0454,Thomas,Schmidt,Thomas Schmidt,Thomas.Schmidt@coaldbloodedmining.com,9157672518,2018-03-06,9999-12-31,Operations,Machine Operator
+EMP-0247,Daniel,Rivera,Daniel Rivera,Daniel.Rivera@coaldbloodedmining.com,672-601-6494,2017-04-20,2019-02-02,Finance,Administration Officer
+EMP-0146,Melissa,Anderson,Melissa Anderson,Melissa.Anderson@coaldbloodedmining.com,861-954-6990,2015-05-26,9999-12-31,Operations,Machine Operator
+EMP-0234,Jose,Irwin,Jose Irwin,Jose.Irwin@coaldbloodedmining.com,5724576576,2018-11-04,2022-06-14,Operations,Scheduler
+EMP-0338,Emily,Wright,Emily Wright,Emily.Wright@coaldbloodedmining.com,4243581474,2016-08-14,9999-12-31,Operations,Machine Operator
+EMP-0285,Brandon,Hale,Brandon Hale,Brandon.Hale@coaldbloodedmining.com,(570)384-7716,2015-08-25,2017-01-23,Operations,Machine Operator
+EMP-0325,Melissa,Hill,Melissa Hill,Melissa.Hill@coaldbloodedmining.com,(612)403-5164,2019-09-10,9999-12-31,Operations,Scheduler
+EMP-0217,Daniel,Wright,Daniel Wright,Daniel.Wright@coaldbloodedmining.com,8566077441,2016-10-24,9999-12-31,Operations,Machine Operator
+EMP-0305,Sherry,Harris,Sherry Harris,Sherry.Harris@coaldbloodedmining.com,281-344-2373,2017-09-21,9999-12-31,Finance,Payroll Officer
+EMP-0388,Angela,Black,Angela Black,Angela.Black@coaldbloodedmining.com,(920)494-8275,2016-04-08,9999-12-31,Finance,Administration Officer
+EMP-0458,Brian,Harrison,Brian Harrison,Brian.Harrison@coaldbloodedmining.com,(720)727-1589,2018-11-14,2022-03-11,Finance,Payroll Officer
+EMP-0282,Molly,Koch,Molly Koch,Molly.Koch@coaldbloodedmining.com,3896443074,2020-01-13,9999-12-31,HR,HR Officer
+EMP-0303,Keith,Mckay,Keith Mckay,Keith.Mckay@coaldbloodedmining.com,7549896617,2018-01-25,9999-12-31,Operations,Scheduler
+EMP-0358,Elizabeth,Johnson,Elizabeth Johnson,Elizabeth.Johnson@coaldbloodedmining.com,(247)637-7521,2016-06-25,2017-09-29,IT,IT Specialist
+EMP-0221,Craig,Bright,Craig Bright,Craig.Bright@coaldbloodedmining.com,583-476-2264,2018-09-21,2020-04-15,Operations,Machine Operator
+EMP-0380,Jamie,Estes,Jamie Estes,Jamie.Estes@coaldbloodedmining.com,983-364-4474,2019-05-22,9999-12-31,Operations,Engineer
+EMP-0372,Linda,Erickson,Linda Erickson,Linda.Erickson@coaldbloodedmining.com,297-445-6234,2018-04-08,9999-12-31,Finance,Accountant
+EMP-0233,William,Maldonado,William Maldonado,William.Maldonado@coaldbloodedmining.com,467-265-0194,2020-05-25,9999-12-31,Operations,Machine Operator
+EMP-0225,Donna,Hines,Donna Hines,Donna.Hines@coaldbloodedmining.com,901-609-6951,2016-12-16,9999-12-31,Operations,Machine Operator
+EMP-0435,Derrick,Poole,Derrick Poole,Derrick.Poole@coaldbloodedmining.com,9405001156,2019-04-03,9999-12-31,Operations,Machine Operator
+EMP-0136,Alexander,Brown,Alexander Brown,Alexander.Brown@coaldbloodedmining.com,7283802063,2016-03-30,2017-11-18,Operations,Engineer
+EMP-0459,Anthony,Hill,Anthony Hill,Anthony.Hill@coaldbloodedmining.com,(254)497-4319,2016-02-24,9999-12-31,Operations,Operations Manager
+EMP-0256,Jonathan,Owens,Jonathan Owens,Jonathan.Owens@coaldbloodedmining.com,(727)777-2255,2019-01-06,9999-12-31,Operations,Machine Operator
+EMP-0474,Brian,Hughes,Brian Hughes,Brian.Hughes@coaldbloodedmining.com,(224)681-8334,2020-12-27,9999-12-31,Operations,Machine Operator
+EMP-0194,Lisa,Lynch,Lisa Lynch,Lisa.Lynch@coaldbloodedmining.com,9239747963,2017-06-07,9999-12-31,Operations,Operations Manager
+EMP-0411,Paul,Clark,Paul Clark,Paul.Clark@coaldbloodedmining.com,8789503645,2020-02-27,9999-12-31,Operations,Machine Operator
+EMP-0010,Jermaine,Ferguson,Jermaine Ferguson,Jermaine.Ferguson@coaldbloodedmining.com,4544199681,2020-10-26,2022-10-14,Data Analytics,Analyst
+EMP-0127,Adrienne,Lewis,Adrienne Lewis,Adrienne.Lewis@coaldbloodedmining.com,332-612-1118,2020-07-29,9999-12-31,Operations,Machine Operator
+EMP-0084,Patrick,Brown,Patrick Brown,Patrick.Brown@coaldbloodedmining.com,5729796472,2020-03-29,9999-12-31,HR,HR Officer
+EMP-0237,Michelle,Smith,Michelle Smith,Michelle.Smith@coaldbloodedmining.com,701-777-7924,2017-05-01,9999-12-31,Corporate,CEO
+EMP-0120,Bryce,Elliott,Bryce Elliott,Bryce.Elliott@coaldbloodedmining.com,5549396618,2020-05-19,9999-12-31,Operations,Surveyor
+EMP-0013,William,Ashley,William Ashley,William.Ashley@coaldbloodedmining.com,909-285-0709,2015-06-26,9999-12-31,IT,IT Specialist
+EMP-0496,Matthew,Richards,Matthew Richards,Matthew.Richards@coaldbloodedmining.com,9187806427,2018-07-09,9999-12-31,Operations,Machine Operator
+EMP-0475,Dawn,Clarke,Dawn Clarke,Dawn.Clarke@coaldbloodedmining.com,793-547-4659,2019-06-29,9999-12-31,Finance,Accountant
+EMP-0354,Katelyn,Ibarra,Katelyn Ibarra,Katelyn.Ibarra@coaldbloodedmining.com,(419)235-2185,2020-10-15,9999-12-31,Finance,Payroll Officer
+EMP-0363,Kristi,Lee,Kristi Lee,Kristi.Lee@coaldbloodedmining.com,310-525-9789,2016-05-22,9999-12-31,IT,IT Specialist
+EMP-0022,Mary,Sanders,Mary Sanders,Mary.Sanders@coaldbloodedmining.com,(457)960-3800,2016-10-05,9999-12-31,Operations,Machine Operator
+EMP-0239,Michael,Steele,Michael Steele,Michael.Steele@coaldbloodedmining.com,(814)455-4273,2018-09-23,9999-12-31,IT,IT Specialist
+EMP-0004,David,Rodriguez,David Rodriguez,David.Rodriguez@coaldbloodedmining.com,841-957-1560,2020-05-29,9999-12-31,IT,IT Specialist
+EMP-0214,Jacob,Schwartz,Jacob Schwartz,Jacob.Schwartz@coaldbloodedmining.com,297-676-9476,2019-02-02,2021-09-14,Operations,Machine Operator
+EMP-0174,Robert,Bell,Robert Bell,Robert.Bell@coaldbloodedmining.com,6376426981,2020-06-23,2023-12-18,Operations,Scheduler
+EMP-0187,Craig,Rhodes,Craig Rhodes,Craig.Rhodes@coaldbloodedmining.com,416-241-8874,2016-06-19,9999-12-31,Finance,Administration Officer
+EMP-0081,Crystal,Moore,Crystal Moore,Crystal.Moore@coaldbloodedmining.com,(823)790-6967,2019-05-28,9999-12-31,Operations,Machine Operator
+EMP-0195,David,Spence,David Spence,David.Spence@coaldbloodedmining.com,(495)382-4210,2015-02-11,9999-12-31,Operations,Machine Operator
+EMP-0055,David,Hopkins,David Hopkins,David.Hopkins@coaldbloodedmining.com,4414256228,2018-11-14,9999-12-31,Operations,Scheduler
+EMP-0181,Dillon,Valentine,Dillon Valentine,Dillon.Valentine@coaldbloodedmining.com,2818348527,2020-12-01,9999-12-31,Operations,Operations Manager
+EMP-0276,Tonya,Hernandez,Tonya Hernandez,Tonya.Hernandez@coaldbloodedmining.com,7919136057,2016-10-29,9999-12-31,Operations,Machine Operator
+EMP-0264,Joan,Lam,Joan Lam,Joan.Lam@coaldbloodedmining.com,451-214-2851,2017-09-22,9999-12-31,Operations,Machine Operator
+EMP-0492,Ryan,Jones,Ryan Jones,Ryan.Jones@coaldbloodedmining.com,(910)995-7766,2015-11-09,9999-12-31,Operations,Scheduler
+EMP-0026,Andrew,Nelson,Andrew Nelson,Andrew.Nelson@coaldbloodedmining.com,4728340604,2015-03-02,9999-12-31,HR,HR Officer
+EMP-0186,Stephen,Heath,Stephen Heath,Stephen.Heath@coaldbloodedmining.com,(721)893-3447,2016-04-24,9999-12-31,Operations,Scheduler
+EMP-0031,Antonio,Hernandez,Antonio Hernandez,Antonio.Hernandez@coaldbloodedmining.com,620-517-7759,2019-02-14,9999-12-31,Operations,Engineer
+EMP-0487,Lisa,Goodman,Lisa Goodman,Lisa.Goodman@coaldbloodedmining.com,(576)850-0767,2019-09-24,9999-12-31,Finance,Payroll Officer
+EMP-0463,Fernando,Jones,Fernando Jones,Fernando.Jones@coaldbloodedmining.com,(368)573-2631,2017-09-08,2020-06-27,Operations,Machine Operator
+EMP-0078,Christian,Monroe,Christian Monroe,Christian.Monroe@coaldbloodedmining.com,(276)606-3878,2016-08-09,9999-12-31,Sales,Business Development Manager
+EMP-0477,Ryan,Farrell,Ryan Farrell,Ryan.Farrell@coaldbloodedmining.com,2322555888,2017-06-07,9999-12-31,Operations,Operations Manager
+EMP-0346,John,Kirk,John Kirk,John.Kirk@coaldbloodedmining.com,(430)964-6052,2018-08-25,9999-12-31,Operations,Machine Operator
+EMP-0209,Ashlee,Dunn,Ashlee Dunn,Ashlee.Dunn@coaldbloodedmining.com,(367)817-5868,2018-11-07,9999-12-31,Finance,Administration Officer
+EMP-0122,Molly,Smith,Molly Smith,Molly.Smith@coaldbloodedmining.com,8686369185,2016-12-04,2018-10-03,Operations,Machine Operator
+EMP-0102,David,Marshall,David Marshall,David.Marshall@coaldbloodedmining.com,927-676-1185,2016-09-09,9999-12-31,Operations,Machine Operator
+EMP-0353,Ronald,Howe,Ronald Howe,Ronald.Howe@coaldbloodedmining.com,2683312194,2019-09-22,9999-12-31,Data Analytics,Analyst
+EMP-0006,Timothy,Williams,Timothy Williams,Timothy.Williams@coaldbloodedmining.com,8963947015,2018-11-28,2022-03-09,Operations,Machine Operator
+EMP-0071,Jennifer,Gonzalez,Jennifer Gonzalez,Jennifer.Gonzalez@coaldbloodedmining.com,7079259236,2019-08-15,9999-12-31,Operations,Machine Operator
+EMP-0116,Patrick,Aguilar,Patrick Aguilar,Patrick.Aguilar@coaldbloodedmining.com,(857)698-5422,2018-02-22,9999-12-31,Operations,Machine Operator
+EMP-0357,Manuel,Sanchez,Manuel Sanchez,Manuel.Sanchez@coaldbloodedmining.com,(934)981-4680,2020-08-18,9999-12-31,Finance,Administration Officer
+EMP-0066,Maria,Watson,Maria Watson,Maria.Watson@coaldbloodedmining.com,790-346-4974,2015-06-18,2017-07-21,Operations,Scheduler
+EMP-0255,Andrew,Davis,Andrew Davis,Andrew.Davis@coaldbloodedmining.com,(344)513-5508,2017-04-05,9999-12-31,Data Analytics,Analyst
+EMP-0284,Julie,Hill,Julie Hill,Julie.Hill@coaldbloodedmining.com,355-629-8002,2015-09-11,9999-12-31,Operations,Machine Operator
+EMP-0089,Bianca,Vasquez,Bianca Vasquez,Bianca.Vasquez@coaldbloodedmining.com,6383119192,2015-04-08,9999-12-31,Operations,Surveyor
+EMP-0352,Gregory,Cruz,Gregory Cruz,Gregory.Cruz@coaldbloodedmining.com,926-773-0281,2020-05-30,9999-12-31,Operations,Machine Operator
+EMP-0040,Kevin,Cummings,Kevin Cummings,Kevin.Cummings@coaldbloodedmining.com,(758)800-6347,2017-11-04,2021-06-26,Marketing,Marketing Specialist
+EMP-0222,Lisa,Turner,Lisa Turner,Lisa.Turner@coaldbloodedmining.com,(698)998-3459,2019-03-19,9999-12-31,Operations,Machine Operator
+EMP-0005,Daniel,King,Daniel King,Daniel.King@coaldbloodedmining.com,(579)752-6777,2018-05-22,2021-03-22,Data Analytics,Analyst
+EMP-0011,Pamela,Harmon,Pamela Harmon,Pamela.Harmon@coaldbloodedmining.com,244-375-1136,2016-04-17,9999-12-31,Operations,Machine Operator
+EMP-0212,Sherry,Miller,Sherry Miller,Sherry.Miller@coaldbloodedmining.com,5489664616,2015-07-06,9999-12-31,Operations,Machine Operator
+EMP-0053,Michelle,Powell,Michelle Powell,Michelle.Powell@coaldbloodedmining.com,(951)734-8936,2015-11-13,9999-12-31,Finance,Administration Officer
+EMP-0203,Ronnie,Campbell,Ronnie Campbell,Ronnie.Campbell@coaldbloodedmining.com,2112891720,2015-02-25,2016-02-06,Operations,Machine Operator
+EMP-0177,Natasha,Wright,Natasha Wright,Natasha.Wright@coaldbloodedmining.com,(294)516-0662,2018-10-20,9999-12-31,Operations,Machine Operator
+EMP-0094,Vanessa,Kelly,Vanessa Kelly,Vanessa.Kelly@coaldbloodedmining.com,976-487-9039,2018-01-14,2020-03-27,Operations,Machine Operator
+EMP-0478,Brian,Martinez,Brian Martinez,Brian.Martinez@coaldbloodedmining.com,(637)911-3059,2016-10-07,9999-12-31,Operations,Machine Operator
+EMP-0260,Donald,Rodriguez,Donald Rodriguez,Donald.Rodriguez@coaldbloodedmining.com,(852)964-9618,2015-07-05,9999-12-31,Finance,Administration Officer
+EMP-0118,Martin,Morgan,Martin Morgan,Martin.Morgan@coaldbloodedmining.com,960-499-4944,2020-04-20,9999-12-31,Operations,Machine Operator
+EMP-0481,Thomas,Lowery,Thomas Lowery,Thomas.Lowery@coaldbloodedmining.com,5952126421,2018-10-12,9999-12-31,Operations,Machine Operator
+EMP-0381,Manuel,Rojas,Manuel Rojas,Manuel.Rojas@coaldbloodedmining.com,474-590-2899,2020-04-12,2024-04-30,Operations,Scheduler
+EMP-0500,Anna,Sims,Anna Sims,Anna.Sims@coaldbloodedmining.com,226-617-3045,2020-03-14,9999-12-31,Finance,Payroll Officer
+EMP-0054,Samantha,Johnson,Samantha Johnson,Samantha.Johnson@coaldbloodedmining.com,483-401-2167,2015-08-29,2019-04-07,IT,IT Specialist
+EMP-0220,April,Thomas,April Thomas,April.Thomas@coaldbloodedmining.com,221-443-3328,2020-01-19,2022-04-26,Operations,Machine Operator
+EMP-0450,Jeffrey,Hammond,Jeffrey Hammond,Jeffrey.Hammond@coaldbloodedmining.com,6935649582,2016-08-24,2018-09-30,Finance,Accountant
+EMP-0003,William,Johnson,William Johnson,William.Johnson@coaldbloodedmining.com,7034734336,2019-05-02,2021-02-01,Operations,Machine Operator
+EMP-0298,Beth,Cook,Beth Cook,Beth.Cook@coaldbloodedmining.com,6156933852,2020-01-12,9999-12-31,Operations,Machine Operator
+EMP-0039,Pamela,Rios,Pamela Rios,Pamela.Rios@coaldbloodedmining.com,8219881403,2018-04-27,2019-07-03,Operations,Scheduler
+EMP-0070,Paige,Cook,Paige Cook,Paige.Cook@coaldbloodedmining.com,784-366-3156,2015-04-13,9999-12-31,Operations,Machine Operator
+EMP-0206,Julie,Obrien,Julie Obrien,Julie.Obrien@coaldbloodedmining.com,(708)607-2292,2020-06-21,9999-12-31,Operations,Machine Operator
+EMP-0044,Gary,Hughes,Gary Hughes,Gary.Hughes@coaldbloodedmining.com,9314577541,2020-04-12,9999-12-31,Operations,Engineer
+EMP-0266,Ashley,Navarro,Ashley Navarro,Ashley.Navarro@coaldbloodedmining.com,480-260-1464,2018-10-25,9999-12-31,Operations,Machine Operator
+EMP-0438,Dustin,Reyes,Dustin Reyes,Dustin.Reyes@coaldbloodedmining.com,(587)729-2518,2018-10-29,2021-06-24,Operations,Operations Manager
+EMP-0498,Loretta,Martinez,Loretta Martinez,Loretta.Martinez@coaldbloodedmining.com,2724282302,2015-03-03,9999-12-31,Operations,Machine Operator
+EMP-0207,Ronald,Cochran,Ronald Cochran,Ronald.Cochran@coaldbloodedmining.com,3946781707,2020-12-26,9999-12-31,Operations,Machine Operator
+EMP-0126,Sandra,Lopez,Sandra Lopez,Sandra.Lopez@coaldbloodedmining.com,383-450-9132,2017-12-14,9999-12-31,Operations,Operations Manager
+EMP-0236,Vanessa,Jones,Vanessa Jones,Vanessa.Jones@coaldbloodedmining.com,2442456221,2018-12-25,9999-12-31,HR,HR Officer
+EMP-0451,Chelsey,Davis,Chelsey Davis,Chelsey.Davis@coaldbloodedmining.com,983-905-9822,2016-07-29,2017-06-24,Finance,Payroll Officer
+EMP-0147,Robert,Steele,Robert Steele,Robert.Steele@coaldbloodedmining.com,(663)780-1129,2020-08-05,2024-03-24,Operations,Machine Operator
+EMP-0158,Paula,Gonzales,Paula Gonzales,Paula.Gonzales@coaldbloodedmining.com,(567)776-7872,2016-03-14,2019-09-10,Operations,Engineer
+EMP-0376,Amanda,Wyatt,Amanda Wyatt,Amanda.Wyatt@coaldbloodedmining.com,(514)409-3424,2019-05-13,9999-12-31,Operations,Machine Operator
+EMP-0289,Jack,Thomas,Jack Thomas,Jack.Thomas@coaldbloodedmining.com,(588)830-8109,2016-08-12,9999-12-31,Operations,Machine Operator
+EMP-0370,Sheryl,Gilbert,Sheryl Gilbert,Sheryl.Gilbert@coaldbloodedmining.com,(814)676-5465,2019-07-23,9999-12-31,Operations,Machine Operator
+EMP-0132,Jody,Brown,Jody Brown,Jody.Brown@coaldbloodedmining.com,2643028747,2018-01-30,9999-12-31,Finance,Administration Officer
+EMP-0322,Kelly,Lawrence,Kelly Lawrence,Kelly.Lawrence@coaldbloodedmining.com,(777)467-6334,2020-04-17,9999-12-31,Operations,Machine Operator
+EMP-0238,Eric,Howell,Eric Howell,Eric.Howell@coaldbloodedmining.com,3487537177,2016-04-29,9999-12-31,Finance,Accountant
+EMP-0166,Diane,Mueller,Diane Mueller,Diane.Mueller@coaldbloodedmining.com,(748)700-7296,2015-08-20,2018-07-23,Finance,Payroll Officer
+EMP-0332,Sally,Monroe,Sally Monroe,Sally.Monroe@coaldbloodedmining.com,283-480-0822,2018-06-28,9999-12-31,Finance,Payroll Officer
+EMP-0204,Karen,Summers,Karen Summers,Karen.Summers@coaldbloodedmining.com,(340)512-9085,2020-05-29,9999-12-31,Operations,Machine Operator
+EMP-0137,Randy,Garrett,Randy Garrett,Randy.Garrett@coaldbloodedmining.com,977-977-6546,2016-06-18,9999-12-31,Operations,Machine Operator
+EMP-0015,Shawn,Reed,Shawn Reed,Shawn.Reed@coaldbloodedmining.com,758-841-6082,2019-06-24,9999-12-31,Operations,Machine Operator
+EMP-0293,Katie,West,Katie West,Katie.West@coaldbloodedmining.com,409-295-1053,2019-07-18,9999-12-31,Operations,Scheduler
+EMP-0185,Kristin,Mathis,Kristin Mathis,Kristin.Mathis@coaldbloodedmining.com,8052446886,2020-09-30,2022-05-01,Operations,Machine Operator
+EMP-0168,Kaitlyn,Dillon,Kaitlyn Dillon,Kaitlyn.Dillon@coaldbloodedmining.com,5593353429,2020-01-25,9999-12-31,Operations,Machine Operator
+EMP-0445,Patrick,Robinson,Patrick Robinson,Patrick.Robinson@coaldbloodedmining.com,319-390-6394,2018-06-26,9999-12-31,Operations,Machine Operator
+EMP-0384,Jessica,Bailey,Jessica Bailey,Jessica.Bailey@coaldbloodedmining.com,(817)827-7842,2020-02-13,9999-12-31,Operations,Scheduler
+EMP-0023,Lacey,Williams,Lacey Williams,Lacey.Williams@coaldbloodedmining.com,(976)816-3885,2019-08-20,2022-04-17,Operations,Machine Operator
+EMP-0143,Karen,Adams,Karen Adams,Karen.Adams@coaldbloodedmining.com,2276874952,2015-09-19,9999-12-31,IT,IT Specialist
+EMP-0104,Joshua,Anderson,Joshua Anderson,Joshua.Anderson@coaldbloodedmining.com,346-773-8355,2017-04-15,9999-12-31,Operations,Machine Operator
+EMP-0193,Maria,Price,Maria Price,Maria.Price@coaldbloodedmining.com,738-766-8754,2015-07-28,9999-12-31,Operations,Machine Operator
+EMP-0263,Amy,Barnes,Amy Barnes,Amy.Barnes@coaldbloodedmining.com,(831)413-1930,2019-11-11,9999-12-31,Finance,Accountant
+EMP-0497,Charles,Williams,Charles Williams,Charles.Williams@coaldbloodedmining.com,3456179349,2016-12-22,9999-12-31,Operations,Machine Operator
+EMP-0378,Rachel,Jackson,Rachel Jackson,Rachel.Jackson@coaldbloodedmining.com,(597)222-6658,2015-06-19,2018-07-22,Sales,Business Development Manager
+EMP-0290,Sherri,Nichols,Sherri Nichols,Sherri.Nichols@coaldbloodedmining.com,(856)628-9063,2019-06-24,9999-12-31,Operations,Machine Operator
+EMP-0252,Keith,Johnson,Keith Johnson,Keith.Johnson@coaldbloodedmining.com,7037672568,2019-12-03,9999-12-31,Operations,Scheduler
+EMP-0430,Jennifer,Cox,Jennifer Cox,Jennifer.Cox@coaldbloodedmining.com,4148407751,2019-01-15,9999-12-31,Finance,Accountant
+EMP-0188,Cassandra,Frazier,Cassandra Frazier,Cassandra.Frazier@coaldbloodedmining.com,8488050894,2017-09-27,2020-12-01,Operations,Machine Operator
+EMP-0392,Karen,Lewis,Karen Lewis,Karen.Lewis@coaldbloodedmining.com,(822)512-6479,2020-09-10,9999-12-31,Operations,Operations Manager
+EMP-0280,Laura,Ramsey,Laura Ramsey,Laura.Ramsey@coaldbloodedmining.com,(787)695-1121,2017-02-23,9999-12-31,Operations,Engineer
+EMP-0470,Norman,Sweeney,Norman Sweeney,Norman.Sweeney@coaldbloodedmining.com,(327)658-6625,2015-03-17,9999-12-31,Operations,Machine Operator
+EMP-0360,Brandy,Chen,Brandy Chen,Brandy.Chen@coaldbloodedmining.com,6042025996,2017-07-19,9999-12-31,Operations,Machine Operator
+EMP-0226,Zachary,Smith,Zachary Smith,Zachary.Smith@coaldbloodedmining.com,7238719065,2016-06-12,2018-09-14,Operations,Machine Operator
+EMP-0016,Megan,Morales,Megan Morales,Megan.Morales@coaldbloodedmining.com,641-406-7822,2020-08-24,9999-12-31,Operations,Operations Manager
+EMP-0333,Michelle,Mckenzie,Michelle Mckenzie,Michelle.Mckenzie@coaldbloodedmining.com,(918)950-2672,2017-08-24,2019-12-23,Operations,Machine Operator
+EMP-0106,Laura,Brown,Laura Brown,Laura.Brown@coaldbloodedmining.com,(640)697-5782,2018-04-01,9999-12-31,Sales,Business Development Manager
+EMP-0307,Barbara,Gillespie,Barbara Gillespie,Barbara.Gillespie@coaldbloodedmining.com,(593)800-9186,2017-03-03,9999-12-31,Operations,Machine Operator
+EMP-0175,Todd,Caldwell,Todd Caldwell,Todd.Caldwell@coaldbloodedmining.com,(278)356-3026,2016-11-18,9999-12-31,Corporate,CFO
+EMP-0138,Paul,Simmons,Paul Simmons,Paul.Simmons@coaldbloodedmining.com,868-708-0749,2016-01-07,2018-04-10,Finance,Administration Officer
+EMP-0292,Melody,Smith,Melody Smith,Melody.Smith@coaldbloodedmining.com,4908055434,2018-02-09,9999-12-31,Operations,Machine Operator
+EMP-0340,Alex,Hebert,Alex Hebert,Alex.Hebert@coaldbloodedmining.com,5182821356,2020-03-12,9999-12-31,Finance,Payroll Officer
+EMP-0355,Amanda,Wiggins,Amanda Wiggins,Amanda.Wiggins@coaldbloodedmining.com,2917294836,2016-09-06,9999-12-31,Finance,Payroll Officer
+EMP-0265,Kevin,Castillo,Kevin Castillo,Kevin.Castillo@coaldbloodedmining.com,(693)938-8615,2018-12-27,9999-12-31,Finance,Accountant
+EMP-0414,Timothy,Hoover,Timothy Hoover,Timothy.Hoover@coaldbloodedmining.com,650-325-3298,2017-07-31,9999-12-31,Operations,Machine Operator
+EMP-0169,Matthew,Smith,Matthew Smith,Matthew.Smith@coaldbloodedmining.com,(422)207-9702,2015-02-07,9999-12-31,Sales,Business Development Manager
+EMP-0161,Daniel,Giles,Daniel Giles,Daniel.Giles@coaldbloodedmining.com,(496)698-8092,2016-11-17,9999-12-31,HR,HR Officer
+EMP-0356,Jonathan,Kramer,Jonathan Kramer,Jonathan.Kramer@coaldbloodedmining.com,223-541-2891,2018-06-11,2022-03-16,Data Analytics,Analyst
+EMP-0140,Alan,Kennedy,Alan Kennedy,Alan.Kennedy@coaldbloodedmining.com,(977)557-4027,2017-04-18,2020-08-11,HR,HR Officer
+EMP-0452,Stephen,Mason,Stephen Mason,Stephen.Mason@coaldbloodedmining.com,3645192285,2018-04-08,9999-12-31,Finance,Administration Officer
+EMP-0029,Roy,Villa,Roy Villa,Roy.Villa@coaldbloodedmining.com,3482125744,2017-09-23,9999-12-31,Operations,Machine Operator
+EMP-0439,Jason,Esparza,Jason Esparza,Jason.Esparza@coaldbloodedmining.com,(444)281-0157,2015-05-05,2016-07-05,Operations,Machine Operator
+EMP-0391,Anthony,Thomas,Anthony Thomas,Anthony.Thomas@coaldbloodedmining.com,(225)805-7921,2015-03-22,9999-12-31,Operations,Machine Operator
+EMP-0002,Jeremy,Ball,Jeremy Ball,Jeremy.Ball@coaldbloodedmining.com,6428016657,2019-12-30,9999-12-31,Corporate,CFO
+EMP-0271,Lindsey,Mcfarland,Lindsey Mcfarland,Lindsey.Mcfarland@coaldbloodedmining.com,4096404604,2020-09-12,9999-12-31,Sales,Business Development Manager
+EMP-0069,Danielle,Brooks,Danielle Brooks,Danielle.Brooks@coaldbloodedmining.com,(475)562-4000,2017-05-19,9999-12-31,Operations,Machine Operator
+EMP-0130,Arthur,Burke,Arthur Burke,Arthur.Burke@coaldbloodedmining.com,381-695-2421,2017-10-29,9999-12-31,Operations,Machine Operator
+EMP-0491,Vanessa,Blake,Vanessa Blake,Vanessa.Blake@coaldbloodedmining.com,(784)399-6384,2018-10-11,9999-12-31,Operations,Machine Operator
+EMP-0318,Stephen,Thomas,Stephen Thomas,Stephen.Thomas@coaldbloodedmining.com,4355246491,2020-04-18,9999-12-31,Operations,Machine Operator
+EMP-0068,Robert,Lane,Robert Lane,Robert.Lane@coaldbloodedmining.com,286-991-7813,2017-03-12,9999-12-31,Operations,Scheduler
+EMP-0418,James,Adams,James Adams,James.Adams@coaldbloodedmining.com,990-319-4956,2016-05-19,9999-12-31,Operations,Machine Operator
+EMP-0110,Maria,Anderson,Maria Anderson,Maria.Anderson@coaldbloodedmining.com,401-803-2382,2016-10-27,9999-12-31,IT,IT Specialist
+EMP-0178,Steve,Jenkins,Steve Jenkins,Steve.Jenkins@coaldbloodedmining.com,738-877-5138,2017-03-17,9999-12-31,Operations,Scheduler
+EMP-0135,Kathy,Copeland,Kathy Copeland,Kathy.Copeland@coaldbloodedmining.com,369-920-3469,2016-03-17,9999-12-31,Operations,Machine Operator
+EMP-0085,Brandon,Alexander,Brandon Alexander,Brandon.Alexander@coaldbloodedmining.com,952-733-9494,2020-02-04,9999-12-31,Operations,Machine Operator
+EMP-0344,Joseph,Stewart,Joseph Stewart,Joseph.Stewart@coaldbloodedmining.com,4655355191,2019-03-29,9999-12-31,Operations,Machine Operator
+EMP-0028,David,Cook,David Cook,David.Cook@coaldbloodedmining.com,7416517275,2016-05-23,2020-02-18,Operations,Engineer
+EMP-0117,Jimmy,Hammond,Jimmy Hammond,Jimmy.Hammond@coaldbloodedmining.com,2295375012,2018-08-24,2022-07-28,Finance,Accountant
+EMP-0257,Penny,Moss,Penny Moss,Penny.Moss@coaldbloodedmining.com,9574075101,2020-05-09,2021-03-30,Operations,Machine Operator
+EMP-0278,Jessica,Harris,Jessica Harris,Jessica.Harris@coaldbloodedmining.com,9475504185,2020-02-05,9999-12-31,Operations,Scheduler
+EMP-0211,Deborah,Pineda,Deborah Pineda,Deborah.Pineda@coaldbloodedmining.com,(878)870-9158,2018-10-14,9999-12-31,IT,IT Specialist
+EMP-0405,William,Singh,William Singh,William.Singh@coaldbloodedmining.com,(816)463-8684,2016-01-10,9999-12-31,Finance,Payroll Officer
+EMP-0128,Sydney,Cross,Sydney Cross,Sydney.Cross@coaldbloodedmining.com,(784)716-1778,2020-02-25,9999-12-31,Operations,Scheduler
+EMP-0308,Rick,Moore,Rick Moore,Rick.Moore@coaldbloodedmining.com,2305149414,2020-02-13,9999-12-31,Operations,Machine Operator
+EMP-0434,Jennifer,Wise,Jennifer Wise,Jennifer.Wise@coaldbloodedmining.com,771-916-7703,2018-02-06,9999-12-31,Operations,Machine Operator
+EMP-0189,Tyler,Wood,Tyler Wood,Tyler.Wood@coaldbloodedmining.com,579-763-7866,2015-04-29,9999-12-31,Operations,Scheduler
+EMP-0099,Steven,Mcbride,Steven Mcbride,Steven.Mcbride@coaldbloodedmining.com,595-487-7467,2015-04-03,9999-12-31,Operations,Machine Operator
+EMP-0493,Aaron,Krause,Aaron Krause,Aaron.Krause@coaldbloodedmining.com,450-504-8046,2018-09-01,9999-12-31,IT,IT Specialist
+EMP-0065,Bonnie,Olson,Bonnie Olson,Bonnie.Olson@coaldbloodedmining.com,8755422116,2016-07-02,9999-12-31,Corporate,CEO
+EMP-0394,Jessica,Smith,Jessica Smith,Jessica.Smith@coaldbloodedmining.com,(348)674-1047,2020-10-02,9999-12-31,Operations,Machine Operator
+EMP-0059,Jennifer,Hutchinson,Jennifer Hutchinson,Jennifer.Hutchinson@coaldbloodedmining.com,571-321-0962,2017-05-01,9999-12-31,Finance,Payroll Officer
+EMP-0416,Cynthia,Rivera,Cynthia Rivera,Cynthia.Rivera@coaldbloodedmining.com,957-229-5919,2018-06-01,2020-09-08,Finance,Payroll Officer
+EMP-0437,Shawn,Wood,Shawn Wood,Shawn.Wood@coaldbloodedmining.com,(735)203-2299,2019-03-29,9999-12-31,Operations,Scheduler
+EMP-0453,Stephen,Foster,Stephen Foster,Stephen.Foster@coaldbloodedmining.com,(846)804-7483,2020-11-16,9999-12-31,HR,HR Officer
+EMP-0063,Valerie,Roach,Valerie Roach,Valerie.Roach@coaldbloodedmining.com,2452355222,2020-06-03,9999-12-31,Marketing,Marketing Specialist
+EMP-0406,Catherine,Lucero,Catherine Lucero,Catherine.Lucero@coaldbloodedmining.com,(745)462-7607,2019-03-11,2021-05-29,Operations,Machine Operator
+EMP-0197,James,Harris,James Harris,James.Harris@coaldbloodedmining.com,9274075989,2019-04-17,2022-07-01,Operations,Machine Operator
+EMP-0200,Jennifer,Lee,Jennifer Lee,Jennifer.Lee@coaldbloodedmining.com,9709588516,2017-11-18,2020-07-31,Operations,Surveyor
+EMP-0101,Wendy,Andrade,Wendy Andrade,Wendy.Andrade@coaldbloodedmining.com,535-874-2845,2019-09-06,9999-12-31,Data Analytics,Analyst
+EMP-0165,Bonnie,Heath,Bonnie Heath,Bonnie.Heath@coaldbloodedmining.com,554-780-4131,2020-12-15,2021-12-19,Finance,Accountant
+EMP-0421,Angelica,Hernandez,Angelica Hernandez,Angelica.Hernandez@coaldbloodedmining.com,(750)346-6532,2019-06-01,9999-12-31,Operations,Machine Operator
+EMP-0482,Jennifer,Reyes,Jennifer Reyes,Jennifer.Reyes@coaldbloodedmining.com,741-982-2345,2020-04-09,9999-12-31,HR,HR Officer
+EMP-0286,Brad,Sherman,Brad Sherman,Brad.Sherman@coaldbloodedmining.com,(789)805-7923,2017-09-06,2019-06-18,Operations,Machine Operator
+EMP-0275,Frank,Brennan,Frank Brennan,Frank.Brennan@coaldbloodedmining.com,9546470973,2015-05-22,9999-12-31,Operations,Operations Manager
+EMP-0045,Jacob,Murphy,Jacob Murphy,Jacob.Murphy@coaldbloodedmining.com,265-919-0304,2018-08-28,2022-06-05,IT,IT Specialist
+EMP-0248,Jade,Calderon,Jade Calderon,Jade.Calderon@coaldbloodedmining.com,(756)925-2828,2019-11-13,2022-09-11,Data Analytics,Analyst
+EMP-0296,Kim,Miller,Kim Miller,Kim.Miller@coaldbloodedmining.com,(716)567-7867,2016-07-19,9999-12-31,Finance,Administration Officer
+EMP-0151,Sherri,Miller,Sherri Miller,Sherri.Miller@coaldbloodedmining.com,741-942-8796,2015-11-08,9999-12-31,Sales,Business Development Manager
+EMP-0018,Jamie,Horn,Jamie Horn,Jamie.Horn@coaldbloodedmining.com,3066583682,2017-02-20,9999-12-31,Finance,Accountant
+EMP-0368,Tammy,Combs,Tammy Combs,Tammy.Combs@coaldbloodedmining.com,2386807610,2015-09-27,9999-12-31,Operations,Machine Operator
+EMP-0025,Katelyn,Moreno,Katelyn Moreno,Katelyn.Moreno@coaldbloodedmining.com,(302)905-5785,2018-09-28,9999-12-31,Finance,Payroll Officer
+EMP-0334,Charles,Case,Charles Case,Charles.Case@coaldbloodedmining.com,(748)583-0087,2015-01-23,9999-12-31,Operations,Machine Operator
+EMP-0312,Darlene,Adams,Darlene Adams,Darlene.Adams@coaldbloodedmining.com,(882)727-5501,2017-09-18,9999-12-31,Operations,Machine Operator
+EMP-0494,Gregory,Hawkins,Gregory Hawkins,Gregory.Hawkins@coaldbloodedmining.com,(202)625-4582,2020-10-30,9999-12-31,Operations,Machine Operator
+EMP-0154,Ashley,Anderson,Ashley Anderson,Ashley.Anderson@coaldbloodedmining.com,3279382311,2018-06-05,9999-12-31,Sales,Business Development Manager
+EMP-0119,Victoria,Stewart,Victoria Stewart,Victoria.Stewart@coaldbloodedmining.com,5739053905,2017-07-25,9999-12-31,Operations,Scheduler
+EMP-0327,Amy,Smith,Amy Smith,Amy.Smith@coaldbloodedmining.com,(264)449-6492,2015-11-11,9999-12-31,Operations,Machine Operator
+EMP-0232,Keith,Velasquez,Keith Velasquez,Keith.Velasquez@coaldbloodedmining.com,2908756608,2015-07-09,9999-12-31,Operations,Machine Operator
+EMP-0109,Monique,Turner,Monique Turner,Monique.Turner@coaldbloodedmining.com,300-664-0499,2016-12-08,9999-12-31,Operations,Machine Operator
+EMP-0367,David,Mcdonald,David Mcdonald,David.Mcdonald@coaldbloodedmining.com,561-970-9665,2016-10-24,9999-12-31,Operations,Machine Operator
+EMP-0057,Victor,Mcdonald,Victor Mcdonald,Victor.Mcdonald@coaldbloodedmining.com,323-682-2555,2020-05-06,9999-12-31,Operations,Machine Operator
+EMP-0202,Lisa,King,Lisa King,Lisa.King@coaldbloodedmining.com,(581)504-3386,2018-06-26,9999-12-31,Operations,Machine Operator
+EMP-0027,Austin,Sanchez,Austin Sanchez,Austin.Sanchez@coaldbloodedmining.com,817-479-3952,2017-07-31,9999-12-31,Operations,Machine Operator
+EMP-0371,Annette,Smith,Annette Smith,Annette.Smith@coaldbloodedmining.com,7722666693,2016-09-04,9999-12-31,HR,HR Officer
+EMP-0432,Matthew,Jones,Matthew Jones,Matthew.Jones@coaldbloodedmining.com,9586105897,2018-09-26,9999-12-31,Operations,Engineer
+EMP-0131,Gene,Myers,Gene Myers,Gene.Myers@coaldbloodedmining.com,6639305095,2019-08-10,2020-12-12,Operations,Machine Operator
+EMP-0460,Lauren,King,Lauren King,Lauren.King@coaldbloodedmining.com,(459)771-2852,2017-03-05,9999-12-31,Operations,Machine Operator
+EMP-0420,Theresa,Harris,Theresa Harris,Theresa.Harris@coaldbloodedmining.com,2856815788,2016-02-08,9999-12-31,Operations,Machine Operator
