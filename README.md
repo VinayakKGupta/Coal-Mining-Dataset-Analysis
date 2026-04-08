@@ -28,6 +28,13 @@ DaysSinceLastMaintenance
    
 <img width="886" height="492" alt="image" src="https://github.com/user-attachments/assets/5bd73817-41b9-4c17-bfae-1144c1f3b676" />
 
+Late payment cost represents the financial loss a business incurs when customers do not pay invoices on time. In this model, a 15% factor is applied to overdue revenue as a proxy for the cost of delayed cash flow, including financing costs, missed investment opportunities, and increased risk of non-payment. This means that for every dollar of overdue revenue, the business effectively loses 15 cents in value, impacting overall profitability and operational efficiency.
+
+Total Revenue 
+→ Filter Overdue Invoices (PaymentStatus = "Overdue") 
+→ Overdue Revenue 
+→ Apply 15% Cost Factor 
+→ Cost of Late Payments
 
 4) Assessed employee efficiency using productivity metrics segmented by department and site to identify top performers.
 
